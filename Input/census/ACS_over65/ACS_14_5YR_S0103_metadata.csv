@@ -1,0 +1,419 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total population
+HC01_MOE_VC01,Total; Margin of Error; Total population
+HC02_EST_VC01,65 years and over; Estimate; Total population
+HC02_MOE_VC01,65 years and over; Margin of Error; Total population
+HC01_EST_VC03,Total; Estimate; SEX AND AGE - Male
+HC01_MOE_VC03,Total; Margin of Error; SEX AND AGE - Male
+HC02_EST_VC03,65 years and over; Estimate; SEX AND AGE - Male
+HC02_MOE_VC03,65 years and over; Margin of Error; SEX AND AGE - Male
+HC01_EST_VC04,Total; Estimate; SEX AND AGE - Female
+HC01_MOE_VC04,Total; Margin of Error; SEX AND AGE - Female
+HC02_EST_VC04,65 years and over; Estimate; SEX AND AGE - Female
+HC02_MOE_VC04,65 years and over; Margin of Error; SEX AND AGE - Female
+HC01_EST_VC06,Total; Estimate; Median age (years)
+HC01_MOE_VC06,Total; Margin of Error; Median age (years)
+HC02_EST_VC06,65 years and over; Estimate; Median age (years)
+HC02_MOE_VC06,65 years and over; Margin of Error; Median age (years)
+HC01_EST_VC09,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_MOE_VC09,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_EST_VC09,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_MOE_VC09,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_EST_VC10,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_MOE_VC10,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_EST_VC10,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_MOE_VC10,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_EST_VC11,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_MOE_VC11,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_EST_VC11,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_MOE_VC11,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_EST_VC12,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_MOE_VC12,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_EST_VC12,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_MOE_VC12,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_EST_VC13,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_MOE_VC13,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_EST_VC13,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_MOE_VC13,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_EST_VC14,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC14,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC14,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC14,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_EST_VC15,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_MOE_VC15,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC16,65 years and over; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC16,65 years and over; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC18,Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC18,Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC18,65 years and over; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC18,65 years and over; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC19,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC19,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC19,"65 years and over; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC19,"65 years and over; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC22,Total; Estimate; RELATIONSHIP - Population in households
+HC01_MOE_VC22,Total; Margin of Error; RELATIONSHIP - Population in households
+HC02_EST_VC22,65 years and over; Estimate; RELATIONSHIP - Population in households
+HC02_MOE_VC22,65 years and over; Margin of Error; RELATIONSHIP - Population in households
+HC01_EST_VC23,Total; Estimate; RELATIONSHIP - Population in households - Householder or spouse
+HC01_MOE_VC23,Total; Margin of Error; RELATIONSHIP - Population in households - Householder or spouse
+HC02_EST_VC23,65 years and over; Estimate; RELATIONSHIP - Population in households - Householder or spouse
+HC02_MOE_VC23,65 years and over; Margin of Error; RELATIONSHIP - Population in households - Householder or spouse
+HC01_EST_VC24,Total; Estimate; RELATIONSHIP - Population in households - Parent
+HC01_MOE_VC24,Total; Margin of Error; RELATIONSHIP - Population in households - Parent
+HC02_EST_VC24,65 years and over; Estimate; RELATIONSHIP - Population in households - Parent
+HC02_MOE_VC24,65 years and over; Margin of Error; RELATIONSHIP - Population in households - Parent
+HC01_EST_VC25,Total; Estimate; RELATIONSHIP - Population in households - Other relatives
+HC01_MOE_VC25,Total; Margin of Error; RELATIONSHIP - Population in households - Other relatives
+HC02_EST_VC25,65 years and over; Estimate; RELATIONSHIP - Population in households - Other relatives
+HC02_MOE_VC25,65 years and over; Margin of Error; RELATIONSHIP - Population in households - Other relatives
+HC01_EST_VC26,Total; Estimate; RELATIONSHIP - Population in households - Nonrelatives
+HC01_MOE_VC26,Total; Margin of Error; RELATIONSHIP - Population in households - Nonrelatives
+HC02_EST_VC26,65 years and over; Estimate; RELATIONSHIP - Population in households - Nonrelatives
+HC02_MOE_VC26,65 years and over; Margin of Error; RELATIONSHIP - Population in households - Nonrelatives
+HC01_EST_VC27,Total; Estimate; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+HC01_MOE_VC27,Total; Margin of Error; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+HC02_EST_VC27,65 years and over; Estimate; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+HC02_MOE_VC27,65 years and over; Margin of Error; RELATIONSHIP - Population in households - Nonrelatives - Unmarried partner
+HC01_EST_VC30,Total; Estimate; HOUSEHOLDS BY TYPE - Households
+HC01_MOE_VC30,Total; Margin of Error; HOUSEHOLDS BY TYPE - Households
+HC02_EST_VC30,65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households
+HC02_MOE_VC30,65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households
+HC01_EST_VC31,Total; Estimate; HOUSEHOLDS BY TYPE - Households - Family households
+HC01_MOE_VC31,Total; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households
+HC02_EST_VC31,65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households - Family households
+HC02_MOE_VC31,65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households
+HC01_EST_VC32,Total; Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+HC01_MOE_VC32,Total; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+HC02_EST_VC32,65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+HC02_MOE_VC32,65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Married-couple family
+HC01_EST_VC33,"Total; Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+HC01_MOE_VC33,"Total; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+HC02_EST_VC33,"65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+HC02_MOE_VC33,"65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households - Family households - Female householder, no husband present, family"
+HC01_EST_VC34,Total; Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+HC01_MOE_VC34,Total; Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+HC02_EST_VC34,65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+HC02_MOE_VC34,65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households
+HC01_EST_VC35,Total; Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Householder living alone
+HC01_MOE_VC35,Total; Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Householder living alone
+HC02_EST_VC35,65 years and over; Estimate; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Householder living alone
+HC02_MOE_VC35,65 years and over; Margin of Error; HOUSEHOLDS BY TYPE - Households - Nonfamily households - Householder living alone
+HC01_EST_VC38,Total; Estimate; MARITAL STATUS - Population 15 years and over
+HC01_MOE_VC38,Total; Margin of Error; MARITAL STATUS - Population 15 years and over
+HC02_EST_VC38,65 years and over; Estimate; MARITAL STATUS - Population 15 years and over
+HC02_MOE_VC38,65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over
+HC01_EST_VC39,"Total; Estimate; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC01_MOE_VC39,"Total; Margin of Error; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC02_EST_VC39,"65 years and over; Estimate; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC02_MOE_VC39,"65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over - Now married, except separated"
+HC01_EST_VC40,Total; Estimate; MARITAL STATUS - Population 15 years and over - Widowed
+HC01_MOE_VC40,Total; Margin of Error; MARITAL STATUS - Population 15 years and over - Widowed
+HC02_EST_VC40,65 years and over; Estimate; MARITAL STATUS - Population 15 years and over - Widowed
+HC02_MOE_VC40,65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over - Widowed
+HC01_EST_VC41,Total; Estimate; MARITAL STATUS - Population 15 years and over - Divorced
+HC01_MOE_VC41,Total; Margin of Error; MARITAL STATUS - Population 15 years and over - Divorced
+HC02_EST_VC41,65 years and over; Estimate; MARITAL STATUS - Population 15 years and over - Divorced
+HC02_MOE_VC41,65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over - Divorced
+HC01_EST_VC42,Total; Estimate; MARITAL STATUS - Population 15 years and over - Separated
+HC01_MOE_VC42,Total; Margin of Error; MARITAL STATUS - Population 15 years and over - Separated
+HC02_EST_VC42,65 years and over; Estimate; MARITAL STATUS - Population 15 years and over - Separated
+HC02_MOE_VC42,65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over - Separated
+HC01_EST_VC43,Total; Estimate; MARITAL STATUS - Population 15 years and over - Never married
+HC01_MOE_VC43,Total; Margin of Error; MARITAL STATUS - Population 15 years and over - Never married
+HC02_EST_VC43,65 years and over; Estimate; MARITAL STATUS - Population 15 years and over - Never married
+HC02_MOE_VC43,65 years and over; Margin of Error; MARITAL STATUS - Population 15 years and over - Never married
+HC01_EST_VC46,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC01_MOE_VC46,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC02_EST_VC46,65 years and over; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC02_MOE_VC46,65 years and over; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC01_EST_VC47,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC01_MOE_VC47,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC02_EST_VC47,65 years and over; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC02_MOE_VC47,65 years and over; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC01_EST_VC48,"Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate, GED, or alternative"
+HC01_MOE_VC48,"Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate, GED, or alternative"
+HC02_EST_VC48,"65 years and over; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate, GED, or alternative"
+HC02_MOE_VC48,"65 years and over; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate, GED, or alternative"
+HC01_EST_VC49,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+HC01_MOE_VC49,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+HC02_EST_VC49,65 years and over; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+HC02_MOE_VC49,65 years and over; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college or associate's degree
+HC01_EST_VC50,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC01_MOE_VC50,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC02_EST_VC50,65 years and over; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC02_MOE_VC50,65 years and over; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC01_EST_VC53,Total; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+HC01_MOE_VC53,Total; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+HC02_EST_VC53,65 years and over; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+HC02_MOE_VC53,65 years and over; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over
+HC01_EST_VC54,Total; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren)
+HC01_MOE_VC54,Total; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren)
+HC02_EST_VC54,65 years and over; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren)
+HC02_MOE_VC54,65 years and over; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren)
+HC01_EST_VC55,Total; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren) - Responsible for grandchild(ren)
+HC01_MOE_VC55,Total; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren) - Responsible for grandchild(ren)
+HC02_EST_VC55,65 years and over; Estimate; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren) - Responsible for grandchild(ren)
+HC02_MOE_VC55,65 years and over; Margin of Error; RESPONSIBILITY FOR GRANDCHILDREN UNDER 18 YEARS - Population 30 years and over - Living with grandchild(ren) - Responsible for grandchild(ren)
+HC01_EST_VC58,Total; Estimate; VETERAN STATUS - Civilian population 18 years and over
+HC01_MOE_VC58,Total; Margin of Error; VETERAN STATUS - Civilian population 18 years and over
+HC02_EST_VC58,65 years and over; Estimate; VETERAN STATUS - Civilian population 18 years and over
+HC02_MOE_VC58,65 years and over; Margin of Error; VETERAN STATUS - Civilian population 18 years and over
+HC01_EST_VC59,Total; Estimate; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+HC01_MOE_VC59,Total; Margin of Error; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+HC02_EST_VC59,65 years and over; Estimate; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+HC02_MOE_VC59,65 years and over; Margin of Error; VETERAN STATUS - Civilian population 18 years and over - Civilian veteran
+HC01_EST_VC62,Total; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population
+HC01_MOE_VC62,Total; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population
+HC02_EST_VC62,65 years and over; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population
+HC02_MOE_VC62,65 years and over; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population
+HC01_EST_VC63,Total; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population - With any disability
+HC01_MOE_VC63,Total; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population - With any disability
+HC02_EST_VC63,65 years and over; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population - With any disability
+HC02_MOE_VC63,65 years and over; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population - With any disability
+HC01_EST_VC64,Total; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population - No disability
+HC01_MOE_VC64,Total; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population - No disability
+HC02_EST_VC64,65 years and over; Estimate; DISABILITY STATUS - Civilian noninstitutionalized population - No disability
+HC02_MOE_VC64,65 years and over; Margin of Error; DISABILITY STATUS - Civilian noninstitutionalized population - No disability
+HC01_EST_VC67,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over
+HC01_MOE_VC67,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over
+HC02_EST_VC67,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over
+HC02_MOE_VC67,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over
+HC01_EST_VC68,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+HC01_MOE_VC68,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+HC02_EST_VC68,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+HC02_MOE_VC68,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Same house
+HC01_EST_VC69,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States
+HC01_MOE_VC69,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States
+HC02_EST_VC69,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States
+HC02_MOE_VC69,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States
+HC01_EST_VC70,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Same county
+HC01_MOE_VC70,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Same county
+HC02_EST_VC70,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Same county
+HC02_MOE_VC70,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Same county
+HC01_EST_VC71,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county
+HC01_MOE_VC71,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county
+HC02_EST_VC71,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county
+HC02_MOE_VC71,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county
+HC01_EST_VC72,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Same state
+HC01_MOE_VC72,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Same state
+HC02_EST_VC72,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Same state
+HC02_MOE_VC72,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Same state
+HC01_EST_VC73,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Different state
+HC01_MOE_VC73,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Different state
+HC02_EST_VC73,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Different state
+HC02_MOE_VC73,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Different house in the United States - Different county - Different state
+HC01_EST_VC74,Total; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+HC01_MOE_VC74,Total; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+HC02_EST_VC74,65 years and over; Estimate; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+HC02_MOE_VC74,65 years and over; Margin of Error; RESIDENCE 1 YEAR AGO - Population 1 year and over - Abroad
+HC01_EST_VC77,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population"
+HC01_MOE_VC77,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population"
+HC02_EST_VC77,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population"
+HC02_MOE_VC77,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population"
+HC01_EST_VC78,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Native"
+HC01_MOE_VC78,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Native"
+HC02_EST_VC78,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Native"
+HC02_MOE_VC78,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Native"
+HC01_EST_VC79,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born"
+HC01_MOE_VC79,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born"
+HC02_EST_VC79,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born"
+HC02_MOE_VC79,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born"
+HC01_EST_VC80,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2010 or later"
+HC01_MOE_VC80,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2010 or later"
+HC02_EST_VC80,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2010 or later"
+HC02_MOE_VC80,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2010 or later"
+HC01_EST_VC81,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2000 to 2009"
+HC01_MOE_VC81,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2000 to 2009"
+HC02_EST_VC81,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2000 to 2009"
+HC02_MOE_VC81,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered 2000 to 2009"
+HC01_EST_VC82,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered before 2000"
+HC01_MOE_VC82,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered before 2000"
+HC02_EST_VC82,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered before 2000"
+HC02_MOE_VC82,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Entered before 2000"
+HC01_EST_VC83,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Naturalized U.S. citizen"
+HC01_MOE_VC83,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Naturalized U.S. citizen"
+HC02_EST_VC83,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Naturalized U.S. citizen"
+HC02_MOE_VC83,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Naturalized U.S. citizen"
+HC01_EST_VC84,"Total; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Not a U.S. citizen"
+HC01_MOE_VC84,"Total; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Not a U.S. citizen"
+HC02_EST_VC84,"65 years and over; Estimate; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Not a U.S. citizen"
+HC02_MOE_VC84,"65 years and over; Margin of Error; PLACE OF BIRTH, NATIVITY AND CITIZENSHIP STATUS, AND YEAR OF ENTRY - Total population - Foreign born - Not a U.S. citizen"
+HC01_EST_VC87,Total; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+HC01_MOE_VC87,Total; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+HC02_EST_VC87,65 years and over; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+HC02_MOE_VC87,65 years and over; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over
+HC01_EST_VC88,Total; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+HC01_MOE_VC88,Total; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+HC02_EST_VC88,65 years and over; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+HC02_MOE_VC88,65 years and over; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - English only
+HC01_EST_VC89,Total; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+HC01_MOE_VC89,Total; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+HC02_EST_VC89,65 years and over; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+HC02_MOE_VC89,65 years and over; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English
+HC01_EST_VC90,"Total; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC01_MOE_VC90,"Total; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC02_EST_VC90,"65 years and over; Estimate; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC02_MOE_VC90,"65 years and over; Margin of Error; LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH - Population 5 years and over - Language other than English - Speak English less than ""very well"""
+HC01_EST_VC93,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over
+HC01_MOE_VC93,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over
+HC02_EST_VC93,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over
+HC02_MOE_VC93,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over
+HC01_EST_VC94,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force
+HC01_MOE_VC94,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force
+HC02_EST_VC94,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force
+HC02_MOE_VC94,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force
+HC01_EST_VC95,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Employed
+HC01_MOE_VC95,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Employed
+HC02_EST_VC95,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Employed
+HC02_MOE_VC95,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Employed
+HC01_EST_VC96,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed
+HC01_MOE_VC96,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed
+HC02_EST_VC96,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed
+HC02_MOE_VC96,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed
+HC01_EST_VC97,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed - Percent of civilian labor force
+HC01_MOE_VC97,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed - Percent of civilian labor force
+HC02_EST_VC97,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed - Percent of civilian labor force
+HC02_MOE_VC97,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - In labor force - Unemployed - Percent of civilian labor force
+HC01_EST_VC98,Total; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - Not in labor force
+HC01_MOE_VC98,Total; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - Not in labor force
+HC02_EST_VC98,65 years and over; Estimate; EMPLOYMENT STATUS - Civilian population 16 years and over - Not in labor force
+HC02_MOE_VC98,65 years and over; Margin of Error; EMPLOYMENT STATUS - Civilian population 16 years and over - Not in labor force
+HC01_EST_VC101,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households
+HC01_MOE_VC101,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households
+HC02_EST_VC101,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households
+HC02_MOE_VC101,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households
+HC01_EST_VC102,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings
+HC01_MOE_VC102,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings
+HC02_EST_VC102,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings
+HC02_MOE_VC102,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings
+HC01_EST_VC103,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings - Mean earnings (dollars)
+HC01_MOE_VC103,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings - Mean earnings (dollars)
+HC02_EST_VC103,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings - Mean earnings (dollars)
+HC02_MOE_VC103,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With earnings - Mean earnings (dollars)
+HC01_EST_VC104,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income
+HC01_MOE_VC104,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income
+HC02_EST_VC104,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income
+HC02_MOE_VC104,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income
+HC01_EST_VC105,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income - Mean Social Security income (dollars)
+HC01_MOE_VC105,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income - Mean Social Security income (dollars)
+HC02_EST_VC105,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income - Mean Social Security income (dollars)
+HC02_MOE_VC105,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Social Security income - Mean Social Security income (dollars)
+HC01_EST_VC106,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income
+HC01_MOE_VC106,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income
+HC02_EST_VC106,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income
+HC02_MOE_VC106,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income
+HC01_EST_VC107,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC01_MOE_VC107,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC02_EST_VC107,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC02_MOE_VC107,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Supplemental Security Income - Mean Supplemental Security Income (dollars)
+HC01_EST_VC108,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income
+HC01_MOE_VC108,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income
+HC02_EST_VC108,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income
+HC02_MOE_VC108,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income
+HC01_EST_VC109,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC01_MOE_VC109,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC02_EST_VC109,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC02_MOE_VC109,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With cash public assistance income - Mean cash public assistance income (dollars)
+HC01_EST_VC110,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income
+HC01_MOE_VC110,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income
+HC02_EST_VC110,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income
+HC02_MOE_VC110,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income
+HC01_EST_VC111,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income - Mean retirement income (dollars)
+HC01_MOE_VC111,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income - Mean retirement income (dollars)
+HC02_EST_VC111,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income - Mean retirement income (dollars)
+HC02_MOE_VC111,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With retirement income - Mean retirement income (dollars)
+HC01_EST_VC112,Total; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Food Stamp/SNAP benefits
+HC01_MOE_VC112,Total; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Food Stamp/SNAP benefits
+HC02_EST_VC112,65 years and over; Estimate; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Food Stamp/SNAP benefits
+HC02_MOE_VC112,65 years and over; Margin of Error; INCOME IN THE PAST 12 MONTHS (IN 2014 INFLATION-ADJUSTED DOLLARS) - Households - With Food Stamp/SNAP benefits
+HC01_EST_VC115,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined
+HC01_MOE_VC115,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined
+HC02_EST_VC115,65 years and over; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined
+HC02_MOE_VC115,65 years and over; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined
+HC01_EST_VC116,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - Below 100 percent of the poverty level
+HC01_MOE_VC116,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - Below 100 percent of the poverty level
+HC02_EST_VC116,65 years and over; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - Below 100 percent of the poverty level
+HC02_MOE_VC116,65 years and over; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - Below 100 percent of the poverty level
+HC01_EST_VC117,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - 100 to 149 percent of the poverty level
+HC01_MOE_VC117,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - 100 to 149 percent of the poverty level
+HC02_EST_VC117,65 years and over; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - 100 to 149 percent of the poverty level
+HC02_MOE_VC117,65 years and over; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - 100 to 149 percent of the poverty level
+HC01_EST_VC118,Total; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - At or above 150 percent of the poverty level
+HC01_MOE_VC118,Total; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - At or above 150 percent of the poverty level
+HC02_EST_VC118,65 years and over; Estimate; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - At or above 150 percent of the poverty level
+HC02_MOE_VC118,65 years and over; Margin of Error; POVERTY STATUS IN THE PAST 12 MONTHS - Population for whom poverty status is determined - At or above 150 percent of the poverty level
+HC01_EST_VC120,Total; Estimate; Occupied housing units
+HC01_MOE_VC120,Total; Margin of Error; Occupied housing units
+HC02_EST_VC120,65 years and over; Estimate; Occupied housing units
+HC02_MOE_VC120,65 years and over; Margin of Error; Occupied housing units
+HC01_EST_VC122,Total; Estimate; Occupied housing units - HOUSING TENURE - Owner-occupied housing units
+HC01_MOE_VC122,Total; Margin of Error; Occupied housing units - HOUSING TENURE - Owner-occupied housing units
+HC02_EST_VC122,65 years and over; Estimate; Occupied housing units - HOUSING TENURE - Owner-occupied housing units
+HC02_MOE_VC122,65 years and over; Margin of Error; Occupied housing units - HOUSING TENURE - Owner-occupied housing units
+HC01_EST_VC123,Total; Estimate; Occupied housing units - HOUSING TENURE - Renter-occupied housing units
+HC01_MOE_VC123,Total; Margin of Error; Occupied housing units - HOUSING TENURE - Renter-occupied housing units
+HC02_EST_VC123,65 years and over; Estimate; Occupied housing units - HOUSING TENURE - Renter-occupied housing units
+HC02_MOE_VC123,65 years and over; Margin of Error; Occupied housing units - HOUSING TENURE - Renter-occupied housing units
+HC01_EST_VC125,Total; Estimate; Average household size of owner-occupied unit
+HC01_MOE_VC125,Total; Margin of Error; Average household size of owner-occupied unit
+HC02_EST_VC125,65 years and over; Estimate; Average household size of owner-occupied unit
+HC02_MOE_VC125,65 years and over; Margin of Error; Average household size of owner-occupied unit
+HC01_EST_VC126,Total; Estimate; Average household size of renter-occupied unit
+HC01_MOE_VC126,Total; Margin of Error; Average household size of renter-occupied unit
+HC02_EST_VC126,65 years and over; Estimate; Average household size of renter-occupied unit
+HC02_MOE_VC126,65 years and over; Margin of Error; Average household size of renter-occupied unit
+HC01_EST_VC129,Total; Estimate; SELECTED CHARACTERISTICS - No telephone service available
+HC01_MOE_VC129,Total; Margin of Error; SELECTED CHARACTERISTICS - No telephone service available
+HC02_EST_VC129,65 years and over; Estimate; SELECTED CHARACTERISTICS - No telephone service available
+HC02_MOE_VC129,65 years and over; Margin of Error; SELECTED CHARACTERISTICS - No telephone service available
+HC01_EST_VC130,Total; Estimate; SELECTED CHARACTERISTICS - 1.01 or more occupants per room
+HC01_MOE_VC130,Total; Margin of Error; SELECTED CHARACTERISTICS - 1.01 or more occupants per room
+HC02_EST_VC130,65 years and over; Estimate; SELECTED CHARACTERISTICS - 1.01 or more occupants per room
+HC02_MOE_VC130,65 years and over; Margin of Error; SELECTED CHARACTERISTICS - 1.01 or more occupants per room
+HC01_EST_VC132,Total; Estimate; Owner-occupied housing units
+HC01_MOE_VC132,Total; Margin of Error; Owner-occupied housing units
+HC02_EST_VC132,65 years and over; Estimate; Owner-occupied housing units
+HC02_MOE_VC132,65 years and over; Margin of Error; Owner-occupied housing units
+HC01_EST_VC134,Total; Estimate; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC01_MOE_VC134,Total; Margin of Error; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC02_EST_VC134,65 years and over; Estimate; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC02_MOE_VC134,65 years and over; Margin of Error; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC01_EST_VC135,Total; Estimate; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC01_MOE_VC135,Total; Margin of Error; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC02_EST_VC135,65 years and over; Estimate; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC02_MOE_VC135,65 years and over; Margin of Error; Owner-occupied housing units - SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC01_EST_VC138,Total; Estimate; OWNER CHARACTERISTICS - Median value (dollars)
+HC01_MOE_VC138,Total; Margin of Error; OWNER CHARACTERISTICS - Median value (dollars)
+HC02_EST_VC138,65 years and over; Estimate; OWNER CHARACTERISTICS - Median value (dollars)
+HC02_MOE_VC138,65 years and over; Margin of Error; OWNER CHARACTERISTICS - Median value (dollars)
+HC01_EST_VC139,Total; Estimate; OWNER CHARACTERISTICS - Median selected monthly owner costs with a mortgage (dollars)
+HC01_MOE_VC139,Total; Margin of Error; OWNER CHARACTERISTICS - Median selected monthly owner costs with a mortgage (dollars)
+HC02_EST_VC139,65 years and over; Estimate; OWNER CHARACTERISTICS - Median selected monthly owner costs with a mortgage (dollars)
+HC02_MOE_VC139,65 years and over; Margin of Error; OWNER CHARACTERISTICS - Median selected monthly owner costs with a mortgage (dollars)
+HC01_EST_VC140,Total; Estimate; OWNER CHARACTERISTICS - Median selected monthly owner costs without a mortgage (dollars)
+HC01_MOE_VC140,Total; Margin of Error; OWNER CHARACTERISTICS - Median selected monthly owner costs without a mortgage (dollars)
+HC02_EST_VC140,65 years and over; Estimate; OWNER CHARACTERISTICS - Median selected monthly owner costs without a mortgage (dollars)
+HC02_MOE_VC140,65 years and over; Margin of Error; OWNER CHARACTERISTICS - Median selected monthly owner costs without a mortgage (dollars)
+HC01_EST_VC142,Total; Estimate; Renter-occupied housing units
+HC01_MOE_VC142,Total; Margin of Error; Renter-occupied housing units
+HC02_EST_VC142,65 years and over; Estimate; Renter-occupied housing units
+HC02_MOE_VC142,65 years and over; Margin of Error; Renter-occupied housing units
+HC01_EST_VC144,Total; Estimate; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC01_MOE_VC144,Total; Margin of Error; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC02_EST_VC144,65 years and over; Estimate; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC02_MOE_VC144,65 years and over; Margin of Error; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - Less than 30 percent
+HC01_EST_VC145,Total; Estimate; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC01_MOE_VC145,Total; Margin of Error; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC02_EST_VC145,65 years and over; Estimate; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC02_MOE_VC145,65 years and over; Margin of Error; Renter-occupied housing units - GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS - 30 percent or more
+HC01_EST_VC148,Total; Estimate; GROSS RENT - Median gross rent (dollars)
+HC01_MOE_VC148,Total; Margin of Error; GROSS RENT - Median gross rent (dollars)
+HC02_EST_VC148,65 years and over; Estimate; GROSS RENT - Median gross rent (dollars)
+HC02_MOE_VC148,65 years and over; Margin of Error; GROSS RENT - Median gross rent (dollars)

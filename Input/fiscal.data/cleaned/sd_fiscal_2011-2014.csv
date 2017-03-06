@@ -1,0 +1,948 @@
+id,totaloprev,revised_nonoprev,fromloc,perc_ownsource,perc_fromloc,pos_op_rev,pos_nonop_rev,pos_fromloc,pos_perc_ownsource,pos_perc_fromloc,p2authname
+1,28297,133192,0,82.477448,0,28297,133192,0,82.477448,0,Abbeville Housing Authority
+2,74404,57060,57060,43.403519,43.403519,74404,57060,57060,43.403519,43.403519,Acworth Area Convention and Visitors Bureau Authority
+3,10534,8569,8569,44.856831,44.856831,10534,8569,8569,44.856831,44.856831,Acworth Downtown Development Authority
+4,137680,20000,20000,12.683917,12.683917,137680,20000,20000,12.683917,12.683917,Acworth Lake Authority
+5,16553,0,0,0,0,16553,0,0,0,0,Adairsville Development Authority
+8,0,0,0,,,0,0,0,,,Adel-Cook County Tourism Authority
+9,442149,0,0,0,0,442149,0,0,0,0,Albany Dougherty Payroll Development Authority
+10,244593,0,0,0,0,244593,0,0,0,0,Albany-Dougherty Inner City Authority
+11,526605,0,0,0,0,526605,0,0,0,0,Alcovy Shores Water and Sewerage Authority
+12,1885.59,0,0,0,0,1885.59,0,0,0,0,Alma Downtown Development Authority
+13,138156,106300,106300,43.484306,43.484306,138156,106300,106300,43.484306,43.484306,Americus Theater and Cultural Center Authority
+14,7496673,3742693,0,33.299858,0,7496673,3742693,0,33.299858,0,Americus and Sumter County Hospital Authority
+15,358851,128333,128333,26.341793,26.341793,358851,128333,128333,26.341793,26.341793,Americus-Sumter Payroll Development Authority
+16,0,0,0,,,0,0,0,,,Arabi Industrial Development Authority
+17,52296,498713,0,90.509048,0,52296,498713,0,90.509048,0,Arlington Housing Authority
+19,0,0,0,,,0,0,0,,,Athens-Clarke County Downtown Development Authority
+20,27152,0,0,0,0,27152,0,0,0,0,Athens-Clarke County Industrial Development Authority
+21,5000,0,0,0,0,5000,0,0,0,0,Athens-Clarke County Land Bank Authority
+22,665552,183900,0,21.649252,0,665552,183900,0,21.649252,0,Athens-Clarke County Public Facilities Authority
+23,568,0,0,0,0,568,0,0,0,0,Atkinson County-Coffee County Joint Development Authority
+25,0,0,0,,,0,0,0,,,Atlanta Public Safety and Judicial Facilities Authority
+26,6323402,0,0,0,0,6323402,0,0,0,0,Atlanta Urban Redevelopment Agency
+27,31715,0,0,0,0,31715,0,0,0,0,Auburn Downtown Development Authority
+28,5047693,5345273,2408016,51.431641,23.16967,5047693,5345273,2408016,51.431641,23.16967,Augusta Canal Authority
+30,293145,0,0,0,0,293145,0,0,0,0,"Augusta, Georgia Landbank Authority"
+32,99301.34,143919.0234375,143919.02,59.172276,59.172276,99301.344,143919.03,143919.02,59.172276,59.172268,Bacon County Development Authority
+33,0,0,0,,,0,0,0,,,Bacon Industrial Building Authority
+34,64922697,101366,0,.15588999,0,64922696,101366,0,.15588999,0,Baldwin County Hospital Authority
+35,0,0,0,,,0,0,0,,,Banks County Industrial Building Authority
+37,916662,2223116,0,70.804878,0,916662,2223116,0,70.804878,0,Barnesville Housing Authority
+38,1183514,1022889,0,46.360027,0,1183514,1022889,0,46.360027,0,Barnesville-Lamar County Industrial Development Authority
+39,1012938,825000,0,44.88726,0,1012938,825000,0,44.88726,0,Barrow County Airport Authority
+40,15999452,209359,0,1.2916369,0,15999452,209359,0,1.2916369,0,Barrow County Water & Sewerage Authority
+41,1261921.63,0,0,0,0,1261921.6,0,0,0,0,Bartow-Cartersville Joint Development Authority
+42,52750,0,0,0,0,52750,0,0,0,0,Bartow-Cartersville Second Joint Development Authority
+43,52138.68,0,0,0,0,52138.68,0,0,0,0,Ben Hill-Irwin Area Joint Development Authority
+44,20202,1666568,0,98.80233,0,20202,1666568,0,98.80233,0,Berrien County Airport Authority
+45,517883,391682,0,43.062561,0,517883,391682,0,43.062561,0,Berrien County Development Authority
+46,0,0,0,,,0,0,0,,,Bleckley County School Building Authority
+47,0,0,0,,,0,0,0,,,Bleckley-Cochran Development Authority
+48,5990.86,0,0,0,0,5990.8599,0,0,0,0,Bleckley-Cochran Industrial Development Authority
+52,80782,159697,159697,66.407875,66.407875,80782,159697,159697,66.407875,66.407875,Brantley County Development Authority
+53,21461.51,0,0,0,0,21461.51,0,0,0,0,Braselton Downtown Development Authority
+54,1899326,65297,0,3.3236401,0,1899326,65297,0,3.3236401,0,Braselton Visitors Bureau Authority
+56,0,0,0,,,0,0,0,,,Brookhaven Development Authority
+57,699182,979640,471250,58.352821,28.070278,699182,979640,471250,58.352821,28.070278,Brooks County Development Authority
+59,2489319,3623985,3200000,59.2803,52.344852,2489319,3623985,3200000,59.2803,52.344852,Brunswick and Glynn County Development Authority
+60,90935383,50000,0,.054953881,0,90935384,50000,0,.054953881,0,Brunswick-Glynn County Joint Water and Sewer Commission
+62,3951000,0,0,0,0,3951000,0,0,0,0,Building Authority of Fulton County
+63,0,0,0,,,0,0,0,,,Burke County Economic Development Authority
+64,15916205,218073,218073,1.351613,1.351613,15916205,218073,218073,1.351613,1.351613,Burke County Hospital Authority
+65,1063000,2238579,2238579,67.803284,67.803284,1063000,2238579,2238579,67.803284,67.803284,Butts County Hospital Authority
+66,12660251,320647,8426,2.470145,.064910762,12660251,320647,8426,2.470145,.064910762,"Butts County, City of Flovilla, City of Jackson, and City of Jenkinsburg Water and Sewer Authority"
+67,0,0,0,,,0,0,0,,,"Butts, Henry, Lamar and Spalding County Joint Development Authority"
+68,30073,0,0,0,0,30073,0,0,0,0,Byron  Development Authority
+69,0,0,0,,,0,0,0,,,Byron Downtown Development Authority
+70,744634.5,0,0,0,0,744634.5,0,0,0,0,Byron Redevelopment Authority
+71,37024,0,0,0,0,37024,0,0,0,0,Calhoun Downtown Development Authority
+72,1,1481717,1481717,99.999931,99.999931,1,1481717,1481717,99.999931,99.999931,Calhoun Recreation Authority
+73,2009179,1567990,761914,43.833267,21.299356,2009179,1567990,761914,43.833267,21.299356,Calhoun-Gordon County Airport Authority
+74,116065,980075,980075,89.411484,89.411484,116065,980075,980075,89.411484,89.411484,Camden County Joint Development Authority
+75,9026221,78613,0,.86342049,0,9026221,78613,0,.86342049,0,Camden County Public Service Authority
+76,0,0,0,,,0,0,0,,,Camden County Solid Waste Management Authority
+77,1112879,0,0,0,0,1112879,0,0,0,0,Candler County Industrial Authority
+78,0,0,0,,,0,0,0,,,Canton Building Authority
+79,0,0,0,,,0,0,0,,,Canton Development Authority
+80,8118736,0,0,0,0,8118736,0,0,0,0,Carroll City/County Hospital Authority
+82,33895451,36971,0,.10895479,0,33895452,36971,0,.10895479,0,Carroll County Water Authority
+83,399262,250000,0,38.505257,0,399262,250000,0,38.505257,0,Carrollton Payroll Development Authority
+84,0,0,0,,,0,0,0,,,Carrollton Redevelopment Authority
+85,19619,0,0,0,0,19619,0,0,0,0,Cartersville Building Authority
+86,0,0,0,,,0,0,0,,,Cartersville Development Authority
+87,361653,150545,150545,29.391954,29.391954,361653,150545,150545,29.391954,29.391954,Cartersville Downtown Development Authority
+88,935225,41145,0,4.2140789,0,935225,41145,0,4.2140789,0,Cartersville-Bartow County Airport Authority
+89,365778,1069636,1069636,74.517593,74.517593,365778,1069636,1069636,74.517593,74.517593,Catoosa County Development Authority
+93,0,26667,26667,100,100,0,26667,26667,100,100,Cedartown Downtown Development Authority
+94,372500,0,0,0,0,372500,0,0,0,0,Cedartown Polk County Hospital Authority
+95,18476914,12200000,12200000,39.769321,39.769321,18476914,12200000,12200000,39.769321,39.769321,Central Georgia Joint Development Authority
+96,0,173110,0,100,0,0,173110,0,100,0,Central Savannah River Area Unified Development Authority
+97,221999,0,0,0,0,221999,0,0,0,0,Central Valdosta Development Authority
+98,0,0,0,,,0,0,0,,,Charlton-Folkston-Homeland Airport Authority
+101,196000,0,0,0,0,196000,0,0,0,0,Chatham County Recreation Authority
+103,0,500929,336972,100,67.269417,0,500929,336972,100,67.269417,Chatham-Savannah Youth Futures Authority
+105,0,0,0,,,0,0,0,,,Chattooga County Development Authority
+106,3304717,5642165,5642165,63.06292,63.06292,3304717,5642165,5642165,63.06292,63.06292,Chehaw Park Authority
+107,519805.87,0,0,0,0,519805.88,0,0,0,0,Cherokee County Airport Authority
+108,1844445,587681,587681,24.163263,24.163263,1844445,587681,587681,24.163263,24.163263,Cherokee County Development Authority
+110,165102999,0,0,0,0,165102992,0,0,0,0,Cherokee County Water and Sewerage Authority
+111,2526742,0,0,0,0,2526742,0,0,0,0,Chicopee Woods Area Park Commission
+112,1585557,0,0,0,0,1585557,0,0,0,0,City of Alpharetta Development Authority
+114,5417999,0,0,0,0,5417999,0,0,0,0,City of Atlanta Fulton County Recreation Authority
+115,0,0,0,,,0,0,0,,,City of Atlanta Solid Waste Management Authority
+116,0,0,0,,,0,0,0,,,City of Bainbridge Public Facilities Authority
+117,0,0,0,,,0,0,0,,,City of Barnesville and County of Lamar Development Authority
+118,343246,0,0,0,0,343246,0,0,0,0,City of Cairo Development Authority
+119,257731,0,0,0,0,257731,0,0,0,0,City of Cairo Downtown Development Authority
+120,15501,10000,10000,39.214149,39.214149,15501,10000,10000,39.214149,39.214149,City of Claxton Downtown Development Authority
+121,0,0,0,,,0,0,0,,,City of Clayton Downtown Development Authority
+122,212375.69,171228,171228,44.636692,44.636692,212375.69,171228,171228,44.636692,44.636692,City of Commerce Downtown Development Authority
+123,0,0,0,,,0,0,0,,,City of Covington Downtown Development Authority
+124,9447,0,0,0,0,9447,0,0,0,0,City of Covington Parking Authority
+126,991039,0,0,0,0,991039,0,0,0,0,City of Dalton Airport Authority
+127,0,0,0,,,0,0,0,,,City of Dalton Building Authority
+128,0,0,0,,,0,0,0,,,City of Dawson Development Authority
+129,0,0,0,,,0,0,0,,,City of Decatur Parking Authority
+130,1478370,6687696,5362631,81.896179,65.669701,1478370,6687696,5362631,81.896179,65.669701,City of Dublin and County of Laurens Development Authority
+131,4103,55000,5000,93.057884,8.4598074,4103,55000,5000,93.057884,8.4598074,City of Duluth Downtown Development Authority
+132,460343,0,0,0,0,460343,0,0,0,0,City of Fayetteville Downtown Development Authority
+133,92211.31999999999,165000,165000,64.14959,64.14959,92211.32,165000,165000,64.14959,64.14959,City of Grayson Downtown Development Authority
+135,3017153,0,0,0,0,3017153,0,0,0,0,City of Homerville Water and Sewer Authority
+138,147542,164914,164914,52.779911,52.779911,147542,164914,164914,52.779911,52.779911,City of Jesup Downtown Development Authority
+139,4897.58,0,0,0,0,4897.5801,0,0,0,0,City of LaGrange Gas Authority
+140,0,0,0,,,0,0,0,,,City of Milan Development Authority
+141,685699.2,0,0,0,0,685699.19,0,0,0,0,City of Milton Public Building and Facilities Authority
+142,0,72068,72068,100,100,0,72068,72068,100,100,City of Monroe Convention and Visitors Bureau
+143,132399,573783,238500,81.251434,33.773163,132399,573783,238500,81.251434,33.773163,City of Moultrie-Colquitt County Airport Authority
+144,0,0,0,,,0,0,0,,,City of Peachtree City Public Facilities Authority
+145,0,0,0,,,0,0,0,,,City of Pearson Public Facilities Authority
+147,0,0,0,,,0,0,0,,,City of Perry Industrial Building Authority
+148,0,0,0,,,0,0,0,,,City of Rome Recreational Facilities Authority
+149,0,0,0,,,0,0,0,,,City of Rome School Building Authority
+150,360851,0,0,0,0,360851,0,0,0,0,City of Sandy Springs Development Authority
+151,0,0,0,,,0,0,0,,,City of Sandy Springs Public Facilities Authority
+153,0,0,0,,,0,0,0,,,City of Sugar Hill Downtown Development Authority
+155,112281,0,0,0,0,112281,0,0,0,0,City of Vienna Solid Waste Management Authority
+156,0,5168050,5168050,100,100,0,5168050,5168050,100,100,City of Villa Rica Public Facilities Authority
+157,2351497,0,0,0,0,2351497,0,0,0,0,City of Warner Robins Redevelopment Agency
+158,175,0,0,0,0,175,0,0,0,0,City of Washington Downtown Development Authority
+159,3.05,0,0,0,0,3.05,0,0,0,0,City of Washington Urban Redevelopment Authority
+161,10022700,879754,809259,8.0693207,7.4227233,10022700,879754,809259,8.0693207,7.4227233,Clarke County Airport Authority
+162,0,0,0,,,0,0,0,,,Clarkesville Downtown Development Authority
+163,12259672,9396545,6021367,43.389595,27.804335,12259672,9396545,6021367,43.389595,27.804335,Classic Center Authority for Clarke County
+165,896039,102853,0,10.296709,0,896039,102853,0,10.296709,0,Clayton County Airport Authority
+166,7893893,0,0,0,0,7893893,0,0,0,0,Clayton County Hospital Authority
+167,8709509,0,0,0,0,8709509,0,0,0,0,Clayton County Solid Waste Management Authority
+168,3250199,0,0,0,0,3250199,0,0,0,0,Clayton County Tourism Authority
+169,370743757,269598,0,.072665311,0,370743744,269598,0,.072665311,0,Clayton County Water Authority
+170,1107427,1224536,631655,52.510952,27.086836,1107427,1224536,631655,52.510952,27.086836,Clayton-Rabun County Water and Sewer Authority
+171,724599,0,0,0,0,724599,0,0,0,0,Clinch County Development Authority
+172,42629400,49600,0,.11621641,0,42629400,49600,0,.11621641,0,Clinch County Hospital Authority
+173,0,0,0,,,0,0,0,,,Cobb County Kennestone Hospital Authority
+174,1790492,0,0,0,0,1790492,0,0,0,0,Cobb County Recreation Authority
+175,297468,0,0,0,0,297468,0,0,0,0,Cobb County Solid Waste Management Authority
+176,285151627,244658,0,.08572571,0,285151616,244658,0,.085725717,0,Cobb County-Marietta Water Authority
+177,62326562,41096132,41096132,39.736088,39.736088,62326560,41096132,41096132,39.736088,39.736088,Cobb-Marietta Coliseum and Exhibit Hall Authority
+178,44000,0,0,0,0,44000,0,0,0,0,Coffee County Hospital Authority
+179,5788680,0,0,0,0,5788680,0,0,0,0,College Park Business and Industrial Development Authority
+180,0,0,0,,,0,0,0,,,Columbia County Airport Authority
+181,23789227,9166548,0,27.814693,0,23789228,9166548,0,27.814693,0,Columbus Airport Commission
+182,0,0,0,,,0,0,0,,,Columbus Building Authority
+185,25923,0,0,0,0,25923,0,0,0,0,Conyers Downtown Development Authority
+186,0,0,0,,,0,0,0,,,Conyers-Rockdale-Big Haynes Impoundment Authority
+187,0,0,0,,,0,0,0,,,Cook County Airport Authority
+188,1780158,0,0,0,0,1780158,0,0,0,0,Coosa Water Authority
+189,0,0,0,,,0,0,0,,,Coosawattee Regional Water and Sewerage Authority
+190,217,0,0,0,0,217,0,0,0,0,Cordele Office Building Authority
+191,30340,0,0,0,0,30340,0,0,0,0,Covington Municipal Airport Authority
+192,49291,0,0,0,0,49291,0,0,0,0,Covington Redevelopment Authority
+193,414540,240602,240602,36.725166,36.725166,414540,240602,240602,36.725166,36.725166,Coweta County Development Authority
+194,495611,0,0,0,0,495611,0,0,0,0,Coweta County Hospital Authority
+195,2149437,0,0,0,0,2149437,0,0,0,0,Coweta County Solid Waste Authority
+196,79285271,0,0,0,0,79285272,0,0,0,0,Coweta County Water and Sewerage Authority
+197,0,0,0,,,0,0,0,,,"Coweta, Fayette, Meriwether Joint Development Authority"
+199,2262964,0,0,0,0,2262964,0,0,0,0,Crisp County-Cordele Industrial Development Authority
+200,310875,0,0,0,0,310875,0,0,0,0,Crisp-Dooly Joint Development Authority
+201,360901,0,0,0,0,360901,0,0,0,0,Dade County Industrial Development Authority
+202,11401947,0,0,0,0,11401947,0,0,0,0,Dade County Water and Sewer Authority
+204,1525938,6000000,0,79.724281,0,1525938,6000000,0,79.724281,0,Dalton-Whitfield County Joint Development Authority
+207,21275771,0,0,0,0,21275772,0,0,0,0,Dalton-Whitfield Regional Solid Waste Management Authority
+208,36000,0,0,0,0,36000,0,0,0,0,Dawson County Industrial Building Authority
+210,15701841,0,0,0,0,15701841,0,0,0,0,DeKalb County Building Authority
+211,0,0,0,,,0,0,0,,,DeKalb County Convention Center Authority
+212,22755000,0,0,0,0,22755000,0,0,0,0,DeKalb County Hospital Authority
+213,12366163,0,0,0,0,12366163,0,0,0,0,DeKalb County Public Safety and Judicial Facilities Authority
+214,501092,0,0,0,0,501092,0,0,0,0,DeKalb Private Hospital Authority
+215,0,300000,0,100,0,0,300000,0,100,0,DeKalb Regional Land Bank Authority
+216,0,0,0,,,0,0,0,,,Decatur County School Building Authority
+217,0,0,0,,,0,0,0,,,Decatur County-Bainbridge Industrial Development Authority
+219,1369660,0,0,0,0,1369660,0,0,0,0,Deep South Regional Municipal Solid Waste Management Authority
+221,2369657,660000,660000,21.784645,21.784645,2369657,660000,660000,21.784645,21.784645,Development Authority of Appling County
+222,0,0,0,,,0,0,0,,,Development Authority of Atkinson County
+223,1102424.1,0,0,0,0,1102424.1,0,0,0,0,Development Authority of Bainbridge and Decatur County
+224,0,0,0,,,0,0,0,,,Development Authority of Baker County
+225,12969,19481,19481,60.033897,60.033897,12969,19481,19481,60.033897,60.033897,Development Authority of Banks County
+226,305566,6727,0,2.1540668,0,305566,6727,0,2.1540668,0,Development Authority of Bartow County
+227,26524,0,0,0,0,26524,0,0,0,0,Development Authority of Ben Hill County
+228,1426654,0,0,0,0,1426654,0,0,0,0,Development Authority of Bibb County
+229,0,0,0,,,0,0,0,,,"Development Authority of Bowdon, Georgia"
+231,416140,2693154,2693154,86.616257,86.616257,416140,2693154,2693154,86.616257,86.616257,Development Authority of Bryan County
+232,1251725,6129694,4129694,83.042213,55.947155,1251725,6129694,4129694,83.042213,55.947155,Development Authority of Bulloch County
+233,3189549,0,0,0,0,3189549,0,0,0,0,Development Authority of Burke County
+234,401037,0,0,0,0,401037,0,0,0,0,Development Authority of Butts County
+235,0,0,0,,,0,0,0,,,Development Authority of Carroll County
+236,0,0,0,,,0,0,0,,,Development Authority of Cartersville
+237,365778,1069636,1069636,74.517593,74.517593,365778,1069636,1069636,74.517593,74.517593,Development Authority of Catoosa County
+238,0,0,0,,,0,0,0,,,Development Authority of Chattooga County
+239,886527,852191,852191,49.012608,49.012608,886527,852191,852191,49.012608,49.012608,Development Authority of Cherokee County
+240,0,0,0,,,0,0,0,,,Development Authority of Clay County
+241,6459911,6975559,6975559,51.91898,51.91898,6459911,6975559,6975559,51.91898,51.91898,Development Authority of Clayton County
+242,656997,0,0,0,0,656997,0,0,0,0,Development Authority of Cobb County
+243,184582,1033629,1033629,84.848106,84.848106,184582,1033629,1033629,84.848106,84.848106,Development Authority of Columbia County
+244,675041,4874986,4584986,87.837158,82.611961,675041,4874986,4584986,87.837158,82.611961,"Development Authority of Columbus, Georgia"
+245,0,0,0,,,0,0,0,,,"Development Authority of Conyers, Georgia"
+246,0,0,0,,,0,0,0,,,Development Authority of Coweta County
+247,669299.21,4367,0,.6482439,0,669299.19,4367,0,.6482439,0,Development Authority of Crawford County
+249,8741,456413,456413,98.120834,98.120834,8741,456413,456413,98.120834,98.120834,Development Authority of Dawson County
+250,2315338,0,0,0,0,2315338,0,0,0,0,Development Authority of DeKalb County
+251,2125,0,0,0,0,2125,0,0,0,0,Development Authority of Dougherty County
+252,1008818,508900,508900,33.530602,33.530602,1008818,508900,508900,33.530602,33.530602,Development Authority of Douglas County
+253,69,0,0,0,0,69,0,0,0,0,Development Authority of Early County
+254,0,0,0,,,0,0,0,,,Development Authority of Effingham County
+255,77500,291250,287500,78.983047,77.966103,77500,291250,287500,78.983047,77.966103,"Development Authority of Elbert County, Elberton and Bowman"
+256,33467,0,0,0,0,33467,0,0,0,0,Development Authority of Emanuel County
+257,88432,3143988,3143988,97.264214,97.264214,88432,3143988,3143988,97.264214,97.264214,Development Authority of Emanuel County and the City of Swainsboro
+258,14,0,0,0,0,14,0,0,0,0,Development Authority of Fairburn
+259,157630,169872,169872,51.868996,51.868996,157630,169872,169872,51.868996,51.868996,Development Authority of Floyd County
+260,33772.86,85275,44500,71.630852,37.379925,33772.859,85275,44500,71.630852,37.379925,Development Authority of Forsyth County
+261,5194476,0,0,0,0,5194476,0,0,0,0,Development Authority of Fulton County
+263,461000,528326,528326,53.402618,53.402618,461000,528326,528326,53.402618,53.402618,Development Authority of Gordon County
+264,170000,300000,0,63.829788,0,170000,300000,0,63.829788,0,Development Authority of Gwinnett County
+265,1026764,0,0,0,0,1026764,0,0,0,0,Development Authority of Haralson County
+266,2222398,2788424,585025,55.648037,11.67523,2222398,2788424,585025,55.648037,11.67523,Development Authority of Harris County
+267,0,0,0,,,0,0,0,,,Development Authority of Heard County
+268,0,0,0,,,0,0,0,,,Development Authority of Houston County
+269,529607.8000000001,1803548.03125,946097.02,77.300797,40.550098,529607.81,1803548,946097,77.300797,40.550098,Development Authority of Jasper County
+271,1355952,4502171,2552171,76.85347,43.56636,1355952,4502171,2552171,76.85347,43.56636,"Development Authority of Jefferson County, Georgia"
+272,105499,0,0,0,0,105499,0,0,0,0,"Development Authority of Jefferson, Georgia"
+273,0,0,0,,,0,0,0,,,Development Authority of Jenkins County
+274,0,57200,57200,100,100,0,57200,57200,100,100,"Development Authority of Johnson County, Georgia"
+275,805700,0,0,0,0,805700,0,0,0,0,Development Authority of Jones County
+276,32.4,0,0,0,0,32.400002,0,0,0,0,Development Authority of LaFayette
+277,6019506,4637017,4012017,43.513412,37.64846,6019506,4637017,4012017,43.513412,37.64846,Development Authority of LaGrange
+278,155578.79,0,0,0,0,155578.8,0,0,0,0,Development Authority of Lanier County
+279,16,0,0,0,0,16,0,0,0,0,"Development Authority of Lawrenceville, GA"
+280,0,1410306,1410306,100,100,0,1410306,1410306,100,100,Development Authority of Lee County
+281,287,0,0,0,0,287,0,0,0,0,Development Authority of Lowndes County
+283,556485,0,0,0,0,556485,0,0,0,0,"Development Authority of Lumpkin County, Georgia"
+284,92224.16,331533.203125,331533.2,78.236565,78.236565,92224.156,331533.19,331533.19,78.236565,78.236565,Development Authority of Macon County
+285,991894,473138,185113,32.295403,12.635424,991894,473138,185113,32.295403,12.635424,Development Authority of McDuffie County
+286,991893,473138,185113,32.295425,12.635432,991893,473138,185113,32.295425,12.635432,Development Authority of McDuffie County and the City of Thomson
+287,0,0,0,,,0,0,0,,,Development Authority of Mitchell County
+289,0,300000,0,100,0,0,300000,0,100,0,Development Authority of Morgan County
+290,0,0,0,,,0,0,0,,,Development Authority of Murray County
+291,0,0,0,,,0,0,0,,,Development Authority of Oglethorpe County
+292,0,0,0,,,0,0,0,,,Development Authority of Palmetto
+293,724117.9099999999,585643.8125,585643.8200000001,44.713768,44.713768,724117.94,585643.81,585643.81,44.713768,44.713768,Development Authority of Peach County
+294,0,0,0,,,0,0,0,,,Development Authority of Peachtree City
+295,446624,0,0,0,0,446624,0,0,0,0,Development Authority of Pike County
+296,1262868,0,0,0,0,1262868,0,0,0,0,Development Authority of Polk County
+297,0,0,0,,,0,0,0,,,Development Authority of Powder Springs
+298,0,0,0,,,0,0,0,,,Development Authority of Putnam County
+299,840117,2246616,2025163,72.782974,65.60862,840117,2246616,2025163,72.782974,65.60862,Development Authority of Rabun County
+300,0,0,0,,,0,0,0,,,Development Authority of Randolph County
+301,1476020,0,0,0,0,1476020,0,0,0,0,Development Authority of Richmond County
+302,335372,0,0,0,0,335372,0,0,0,0,Development Authority of Rockdale County
+304,494076,0,0,0,0,494076,0,0,0,0,Development Authority of Seminole County and Donalsonville
+305,208,0,0,0,0,208,0,0,0,0,Development Authority of St. Marys
+306,5336,80000,80000,93.74707,93.74707,5336,80000,80000,93.74707,93.74707,Development Authority of Talbot County
+307,1,30950,30950,99.996773,99.996773,1,30950,30950,99.996773,99.996773,"Development Authority of Taliaferro County, Georgia"
+308,122766,0,0,0,0,122766,0,0,0,0,Development Authority of Telfair County
+309,6000,0,0,0,0,6000,0,0,0,0,Development Authority of Terrell County
+310,25242,0,0,0,0,25242,0,0,0,0,Development Authority of Tift County
+311,0,42000,0,100,0,0,42000,0,100,0,Development Authority of Twin City
+312,930009.27,0,0,0,0,930009.25,0,0,0,0,Development Authority of Union County
+313,0,0,0,,,0,0,0,,,Development Authority of Vidalia
+314,1245884,500000,0,28.638786,0,1245884,500000,0,28.638786,0,Development Authority of Walton County
+316,0,332967,332967,100,100,0,332967,332967,100,100,Development Authority of Warren County
+317,4398785,1078937,1078937,19.696819,19.696819,4398785,1078937,1078937,19.696819,19.696819,Development Authority of Washington County
+319,0,0,0,,,0,0,0,,,Development Authority of White County
+321,15960,381367,381367,95.983154,95.983154,15960,381367,381367,95.983154,95.983154,Development Authority of Wilkinson County
+322,0,0,0,,,0,0,0,,,Development Authority of Worth County
+323,0,0,0,,,0,0,0,,,Development Authority of the City of Americus
+325,0,0,0,,,0,0,0,,,Development Authority of the City of Bowdon
+327,0,0,0,,,0,0,0,,,"Development Authority of the City of Douglasville, Georgia"
+328,105365,0,0,0,0,105365,0,0,0,0,Development Authority of the City of Folkston and Charlton County
+329,157910,0,0,0,0,157910,0,0,0,0,"Development Authority of the City of Forest Park, Georgia"
+333,116328,500000,0,81.125633,0,116328,500000,0,81.125633,0,Development Authority of the City of Jeffersonville and Twiggs County
+334,0,0,0,,,0,0,0,,,Development Authority of the City of Marietta
+335,63645,2306531,1306531,97.314758,55.123798,63645,2306531,1306531,97.314758,55.123798,Development Authority of the City of Milledgeville and Baldwin County
+336,53140.81,0,0,0,0,53140.809,0,0,0,0,Development Authority of the City of Newnan
+337,0,0,0,,,0,0,0,,,Development Authority of the City of Oakwood
+338,0,0,0,,,0,0,0,,,Development Authority of the City of Richland
+339,0,0,0,,,0,0,0,,,Development Authority of the City of Roswell
+340,0,0,0,,,0,0,0,,,"Development Authority of the City of Summerville, Georgia"
+341,57324,171833,2500,74.984833,1.0909551,57324,171833,2500,74.984833,1.0909551,Development Authority of the City of Vienna
+342,4234,0,0,0,0,4234,0,0,0,0,"Development Authority of the City of Wadley, GA"
+344,165674.87,51098,51098,23.572138,23.572138,165674.88,51098,51098,23.572138,23.572138,"Development Authority of the Unified Government of Athens-Clarke County, Georgia"
+345,65882466,0,0,0,0,65882464,0,0,0,0,Dodge County Hospital Authority
+348,0,0,0,,,0,0,0,,,Doraville Downtown Development Authority
+349,509276,0,0,0,0,509276,0,0,0,0,Dougherty County Stadium Authority
+350,4766366,500000,0,9.4942131,0,4766366,500000,0,9.4942131,0,Douglas-Coffee County Industrial Authority
+351,0,0,0,,,0,0,0,,,Douglasville Convention and Conference Center Authority
+352,152487986,2726847,0,1.7568212,0,152487984,2726847,0,1.7568212,0,Douglasville-Douglas County Water and Sewer Authority
+353,1448588,3882330,3882330,72.826668,72.826668,1448588,3882330,3882330,72.826668,72.826668,Downtown Athens Development Authority
+354,4530890,0,0,0,0,4530890,0,0,0,0,Downtown Bainbridge Development Authority
+356,233336,129739,129739,35.733387,35.733387,233336,129739,129739,35.733387,35.733387,Downtown Dalton Development Authority
+357,0,0,0,,,0,0,0,,,Downtown Development Authority Cleveland
+358,16842.56,1500,1500,8.1777029,8.1777029,16842.561,1500,1500,8.177702,8.177702,Downtown Development Authority For The City of Swainsboro
+359,0,0,0,,,0,0,0,,,Downtown Development Authority for the City of Garden City
+363,23648,0,0,0,0,23648,0,0,0,0,Downtown Development Authority for the City of Warner Robins
+365,246370.26,0,0,0,0,246370.27,0,0,0,0,"Downtown Development Authority of Albany, Georgia"
+366,0,0,0,,,0,0,0,,,"Downtown Development Authority of Aragon, Georgia"
+367,112158,790022,790022,87.568115,87.568115,112158,790022,790022,87.568115,87.568115,Downtown Development Authority of Augusta-Richmond County
+369,8130551,0,0,0,0,8130551,0,0,0,0,Downtown Development Authority of Avondale Estates
+370,0,0,0,,,0,0,0,,,Downtown Development Authority of Barnesville
+371,0,0,0,,,0,0,0,,,Downtown Development Authority of Baxley
+372,183075,-1122,-1122,-.61664277,-.61664277,183075,0,0,0,0,Downtown Development Authority of Blairsville
+373,76036,0,0,0,0,76036,0,0,0,0,Downtown Development Authority of Braselton
+375,63740.28,34954.6298828125,34954.63,35.416851,35.416851,63740.281,34954.629,34954.629,35.416851,35.416851,Downtown Development Authority of Brunswick
+377,93600,0,0,0,0,93600,0,0,0,0,"Downtown Development Authority of Cave Spring, Georgia"
+379,0,0,0,,,0,0,0,,,Downtown Development Authority of Chatsworth
+380,25763,24600,0,48.845383,0,25763,24600,0,48.845383,0,"Downtown Development Authority of Columbus, Georgia"
+381,216,0,0,0,0,216,0,0,0,0,Downtown Development Authority of Cordele
+382,57972.32,2000,2000,3.3348718,3.3348718,57972.32,2000,2000,3.3348718,3.3348718,Downtown Development Authority of Cornelia
+384,13340,0,0,0,0,13340,0,0,0,0,"Downtown Development Authority of Dawsonville, Georgia"
+385,37005,0,0,0,0,37005,0,0,0,0,"Downtown Development Authority of Demorest, GA"
+386,53075,0,0,0,0,53075,0,0,0,0,Downtown Development Authority of Donalsonville
+387,5283,0,0,0,0,5283,0,0,0,0,Downtown Development Authority of Douglas
+388,14,0,0,0,0,14,0,0,0,0,Downtown Development Authority of Fairburn
+389,77435,101319,0,56.680691,0,77435,101319,0,56.680691,0,Downtown Development Authority of Fitzgerald
+390,120645,0,0,0,0,120645,0,0,0,0,Downtown Development Authority of Forsyth
+391,3005,0,0,0,0,3005,0,0,0,0,"Downtown Development Authority of Fort Gaines, Georgia"
+392,33000,0,0,0,0,33000,0,0,0,0,Downtown Development Authority of Gray
+393,55555,0,0,0,0,55555,0,0,0,0,Downtown Development Authority of Hampton
+395,80761,120693,120693,59.910946,59.910946,80761,120693,120693,59.910946,59.910946,"Downtown Development Authority of Hartwell, Georgia"
+396,941206,173569,6000,15.569868,.53822517,941206,173569,6000,15.569868,.53822517,"Downtown Development Authority of Hinesville, Georgia"
+397,1693240,0,0,0,0,1693240,0,0,0,0,Downtown Development Authority of Holly Springs
+398,97553,0,0,0,0,97553,0,0,0,0,Downtown Development Authority of Jefferson
+400,269241,0,0,0,0,269241,0,0,0,0,"Downtown Development Authority of Lawrenceville, GA"
+401,138520,493149,493149,78.070793,78.070793,138520,493149,493149,78.070793,78.070793,Downtown Development Authority of Madison
+404,0,0,0,,,0,0,0,,,"Downtown Development Authority of Millen, Georgia"
+405,0,0,0,,,0,0,0,,,"Downtown Development Authority of Monticello, Georgia"
+406,1219326,0,0,0,0,1219326,0,0,0,0,Downtown Development Authority of Moultrie
+407,10108,18885,18885,65.136414,65.136414,10108,18885,18885,65.136414,65.136414,Downtown Development Authority of Pembroke
+408,0,0,0,,,0,0,0,,,"Downtown Development Authority of Pitts, Georgia"
+410,59318,0,0,0,0,59318,0,0,0,0,"Downtown Development Authority of Snellville, Georgia"
+411,243599,65526,65526,21.19725,21.19725,243599,65526,65526,21.19725,21.19725,Downtown Development Authority of Social Circle
+412,4689,3000,3000,39.016777,39.016777,4689,3000,3000,39.016777,39.016777,Downtown Development Authority of Sylvester
+413,90890.81,0,0,0,0,90890.813,0,0,0,0,"Downtown Development Authority of Tennille, Georgia"
+414,0,0,0,,,0,0,0,,,Downtown Development Authority of Toccoa
+418,1161081,115190.40625,115190.41,9.0255413,9.0255423,1161081,115190.41,115190.41,9.0255413,9.0255413,Downtown Development Authority of Woodstock
+419,4224533,0,0,0,0,4224533,0,0,0,0,Downtown Development Authority of the City Thomasville
+420,5723,300126,0,98.128815,0,5723,300126,0,98.128815,0,Downtown Development Authority of the City of Arlington Georgia
+421,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Ashburn
+422,10289400,0,0,0,0,10289400,0,0,0,0,Downtown Development Authority of the City of Atlanta
+423,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Buford
+424,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Canon
+425,616267,94615,94615,13.309523,13.309523,616267,94615,94615,13.309523,13.309523,"Downtown Development Authority of the City of Canton, Georgia"
+427,0,100000,100000,100,100,0,100000,100000,100,100,Downtown Development Authority of the City of Chamblee
+428,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Cochran
+429,702354,0,0,0,0,702354,0,0,0,0,Downtown Development Authority of the City of Dahlonega
+430,0,0,0,,,0,0,0,,,"Downtown Development Authority of the City of Dallas, Georgia"
+431,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Danielsville
+432,138779,0,0,0,0,138779,0,0,0,0,Downtown Development Authority of the City of Darien
+433,12818,45722,0,78.103859,0,12818,45722,0,78.103859,0,Downtown Development Authority of the City of Dawson
+434,4187372,0,0,0,0,4187372,0,0,0,0,Downtown Development Authority of the City of Decatur
+435,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Doraville
+436,114038.57,6000,6000,4.9983935,4.9983935,114038.57,6000,6000,4.9983935,4.9983935,Downtown Development Authority of the City of Douglasville
+437,17499.66,0,0,0,0,17499.66,0,0,0,0,Downtown Development Authority of the City of Ellijay
+439,299677,415188,415188,58.079216,58.079216,299677,415188,415188,58.079216,58.079216,Downtown Development Authority of the City of Greensboro
+440,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Jackson
+441,68.04000000000001,0,0,0,0,68.040001,0,0,0,0,Downtown Development Authority of the City of Jeffersonville
+442,15127.98,8076.7998046875,0,34.806622,0,15127.98,8076.7998,0,34.806622,0,Downtown Development Authority of the City of LaFayette
+443,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of LaGrange
+444,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Locust Grove
+445,1,0,0,0,0,1,0,0,0,0,Downtown Development Authority of the City of Loganville
+446,4812,0,0,0,0,4812,0,0,0,0,Downtown Development Authority of the City of Louisville
+447,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of McDonough
+448,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Milner
+449,356852,15661.4599609375,5125,4.204267,1.3757892,356852,15661.46,5125,4.204267,1.3757892,Downtown Development Authority of the City of Monroe
+450,1052886,1873320,1873320,64.01873,64.01873,1052886,1873320,1873320,64.01873,64.01873,"Downtown Development Authority of the City of Morrow, Georgia"
+451,1587496,0,0,0,0,1587496,0,0,0,0,"Downtown Development Authority of the City of Newnan, Georgia"
+452,99632,0,0,0,0,99632,0,0,0,0,Downtown Development Authority of the City of Norcross
+453,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Peachtree Corners
+454,91160,0,0,0,0,91160,0,0,0,0,Downtown Development Authority of the City of Perry
+455,0,0,0,,,0,0,0,,,"Downtown Development Authority of the City of Richland, Georgia"
+456,14987,267123,267123,94.687531,94.687531,14987,267123,267123,94.687531,94.687531,"Downtown Development Authority of the City of Ringgold, Georgia"
+457,221240,0,0,0,0,221240,0,0,0,0,Downtown Development Authority of the City of Rome
+458,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Rossville
+459,4558,0,0,0,0,4558,0,0,0,0,Downtown Development Authority of the City of Roswell
+460,53373,0,0,0,0,53373,0,0,0,0,Downtown Development Authority of the City of Royston
+461,44042,0,0,0,0,44042,0,0,0,0,Downtown Development Authority of the City of Senoia
+463,194436,0,0,0,0,194436,0,0,0,0,Downtown Development Authority of the City of Stone Mountain
+464,24660,0,0,0,0,24660,0,0,0,0,Downtown Development Authority of the City of Tallapoosa
+465,9429,0,0,0,0,9429,0,0,0,0,Downtown Development Authority of the City of Thomson
+466,1186404,80937,13500,6.386363,1.0652224,1186404,80937,13500,6.386363,1.0652224,Downtown Development Authority of the City of Tifton
+467,3501,22000,22000,86.271126,86.271126,3501,22000,22000,86.271126,86.271126,Downtown Development Authority of the City of Unadilla
+468,153765,0,0,0,0,153765,0,0,0,0,Downtown Development Authority of the City of Vienna
+469,0,0,0,,,0,0,0,,,"Downtown Development Authority of the City of Waleska, Georgia"
+471,0,0,0,,,0,0,0,,,Downtown Development Authority of the City of Warrenton
+473,29786,0,0,0,0,29786,0,0,0,0,Downtown Development Authority of the City of Zebulon
+474,213470.64,179956.9296875,179956.93,45.740803,45.740803,213470.64,179956.94,179956.94,45.740803,45.740803,Downtown Development Authority of the Mayor and City Council of Americus
+475,0,0,0,,,0,0,0,,,"Downtown Development Authority, City of Forest Park"
+476,1620910,0,0,0,0,1620910,0,0,0,0,Downtown LaGrange Development Authority
+477,242049,0,0,0,0,242049,0,0,0,0,Downtown Marietta Development Authority
+479,6,0,0,0,0,6,0,0,0,0,Downtown Smyrna Development Authority
+480,364463,868010,849529,70.428314,68.92881,364463,868010,849529,70.428314,68.92881,Downtown Statesboro Development Authority
+481,623179,0,0,0,0,623179,0,0,0,0,Downtown Waycross Development Authority
+482,93696.91,42230,42230,31.068167,31.068167,93696.906,42230,42230,31.068169,31.068169,Downtown West Point Development Authority
+484,0,0,0,,,0,0,0,,,Dunwoody Development Authority
+486,0,0,0,,,0,0,0,,,East Point Business and Industrial Development Authority
+487,125585,505723,325108,80.107178,51.497524,125585,505723,325108,80.107178,51.497524,Eatonton Downtown Development Authority
+488,14603353.86,1163651.375,0,7.3802943,0,14603354,1163651.4,0,7.3802943,0,Eatonton-Putnam Water and Sewer Authority
+490,14886077,1292,0,.0086784977,0,14886077,1292,0,.0086784977,0,Effingham County Industrial Development Authority
+491,0,0,0,,,0,0,0,,,Elbert County Richard B. Russell Development Authority
+492,157458,331458,331458,67.794464,67.794464,157458,331458,331458,67.794464,67.794464,Elberton Downtown Development Authority d/b/a MainStreet Elberton
+493,23500635,743460,0,3.0665612,0,23500636,743460,0,3.066561,0,Ellijay-Gilmer County Water and Sewerage Authority
+494,87864,0,0,0,0,87864,0,0,0,0,Emanuel County Development Authority
+495,90060810,948937,948937,1.0426762,1.0426762,90060808,948937,948937,1.0426762,1.0426762,Emanuel County Hospital Authority
+498,3791092,4227537,0,52.721443,0,3791092,4227537,0,52.721443,0,Etowah Area Consolidated Housing Authority
+499,17413691,0,0,0,0,17413692,0,0,0,0,Etowah Water and Sewer Authority
+500,43528,418551,221308,90.579964,47.893974,43528,418551,221308,90.579964,47.893974,Evans County Industrial Development Authority
+501,322979,0,0,0,0,322979,0,0,0,0,Fairburn Housing Authority
+502,1701270,1502664,2664,46.900593,.083147779,1701270,1502664,2664,46.900593,.083147779,Fall Line Regional Development Authority
+505,249215,5000,0,1.9668391,0,249215,5000,0,1.9668391,0,Fannin County Industrial Development Authority
+506,33601.95,666000,166000,95.196991,23.727777,33601.949,666000,166000,95.196991,23.727777,Fannin County Water Authority
+507,1460444,0,0,0,0,1460444,0,0,0,0,Fayette County Development Authority
+508,0,0,0,,,0,0,0,,,Fayette County Public Facilities Authority
+509,3486058,0,0,0,0,3486058,0,0,0,0,Fitzgerald-Ben Hill County Regional Solid Waste Authority
+510,1084835,1693613,0,60.95536,0,1084835,1693613,0,60.95536,0,Fitzgerald/Ben Hill County Development Authority
+511,3488214,4931173,0,58.569263,0,3488214,4931173,0,58.569263,0,Flint Area Consolidated Housing Authority
+512,0,0,0,,,0,0,0,,,Flowery Branch Development Authority
+513,0,0,0,,,0,0,0,,,Forest Park Development Authority
+514,0,0,0,,,0,0,0,,,Forsyth County Public Facilities Authority
+515,133121210,239548,0,.17962405,0,133121208,239548,0,.17962405,0,Forsyth County Water and Sewerage Authority
+517,132407,185100,185100,58.297928,58.297928,132407,185100,185100,58.297928,58.297928,Fort Valley Downtown Development Authority
+518,571554,0,0,0,0,571554,0,0,0,0,Franklin County Industrial Building Authority
+521,539786,6125,6125,1.1219778,1.1219778,539786,6125,6125,1.1219778,1.1219778,Franklin-Hart Airport Authority
+522,6909000,0,0,0,0,6909000,0,0,0,0,Fulton County Urban Redevelopment Agency
+523,370427.49,2584235.09375,367632.83,87.462952,12.442464,370427.5,2584235,367632.84,87.462952,12.442465,"Fulton County/City of Atlanta Land Bank Authority, Inc."
+524,12.31,0,0,0,0,12.31,0,0,0,0,Gainesville Redevelopment Authority
+525,2059224,1523937,0,42.530521,0,2059224,1523937,0,42.530521,0,Gainesville and Hall County Development Authority
+526,300,47500,0,99.372383,0,300,47500,0,99.372383,0,Georgia Bioscience Joint Development Authority
+527,132480,158171,0,54.419563,0,132480,158171,0,54.419563,0,Gibson Housing Authority
+528,0,0,0,,,0,0,0,,,Gilmer County Building Authority
+529,850,0,0,0,0,850,0,0,0,0,Glascock County Industrial Development Authority
+530,8980,10000,10000,52.687038,52.687038,8980,10000,10000,52.687038,52.687038,Glennville Development Authority
+531,0,0,0,,,0,0,0,,,Glennville Downtown Development Authority
+538,15000,300000,300000,95.238098,95.238098,15000,300000,300000,95.238098,95.238098,Greene County Development Authority
+540,0,0,0,,,0,0,0,,,Griffin-Spalding County Airport Authority
+541,561027,5482268,5348127,90.716537,88.496872,561027,5482268,5348127,90.716537,88.496872,Griffin-Spalding County Development Authority
+542,4354487,0,0,0,0,4354487,0,0,0,0,Griffin-Spalding County Hospital Authority
+543,0,1763516.375,695971.35,100,39.464977,0,1763516.4,695971.38,100,39.464981,Griffin-Spalding County Land Bank Authority
+544,0,0,0,,,0,0,0,,,Gwinnett County Airport Authority
+546,0,0,0,,,0,0,0,,,Gwinnett County Recreation Authority
+547,150826631,0,0,0,0,150826624,0,0,0,0,Gwinnett County Water and Sewerage Authority
+548,37775,17334,17334,31.454027,31.454027,37775,17334,17334,31.454027,31.454027,Habersham County Airport Authority
+549,220353,344036,344036,60.957249,60.957249,220353,344036,344036,60.957249,60.957249,Habersham County Development Authority
+550,0,58628,58628,100,100,0,58628,58628,100,100,Habersham County Water and Sewerage Authority
+551,0,0,0,,,0,0,0,,,Hall County Water and Sewer Authority
+553,36653,8500,8500,18.824884,18.824884,36653,8500,8500,18.824884,18.824884,Hapeville Development Authority
+554,0,1285639,1285639,100,100,0,1285639,1285639,100,100,Haralson County School Building Authority
+555,1885317,111037,111037,5.5619893,5.5619893,1885317,111037,111037,5.5619893,5.5619893,Haralson County Solid Waste Management Authority
+556,11204027,304893,304893,2.6491885,2.6491885,11204027,304893,304893,2.6491885,2.6491885,Haralson County Water Authority
+557,239098,1860636,1658616,88.612938,78.991722,239098,1860636,1658616,88.612938,78.991722,Harris County Public Improvements Authority
+558,23809,693165,693165,96.679237,96.679237,23809,693165,693165,96.679237,96.679237,Hart County Industrial Building Authority
+560,3572116,3742438,3185832,51.164268,43.554699,3572116,3742438,3185832,51.164268,43.554699,Hart County Water and Sewer Utility Authority
+561,340504,0,0,0,0,340504,0,0,0,0,Hawkinsville Development Authority
+562,0,105916,105916,100,100,0,105916,105916,100,100,Hawkinsville Downtown Development Authority
+563,606297,1272024,0,67.721329,0,606297,1272024,0,67.721329,0,Hawkinsville Housing Authority
+564,0,0,0,,,0,0,0,,,Hazlehurst Downtown Development Authority
+565,92962.73000000001,0,0,0,0,92962.727,0,0,0,0,Heard County Hospital Authority
+566,120433,0,0,0,0,120433,0,0,0,0,Heard County Public Facilities Authority
+567,5907213,0,0,0,0,5907213,0,0,0,0,Heard County Water Authority
+569,0,0,0,,,0,0,0,,,Heart of Georgia Regional Solid Waste Authority
+570,1037710,0,0,0,0,1037710,0,0,0,0,Henry County Development Authority
+572,155109935,27019770,0,14.835455,0,155109936,27019770,0,14.835455,0,Henry County Governmental Services Authority
+573,184433823,0,0,0,0,184433824,0,0,0,0,Henry County Water Authority
+575,24.34,0,0,0,0,24.34,0,0,0,0,Hogansville Development Authority
+576,58060.16,49590,49590,46.065887,46.065887,58060.16,49590,49590,46.065887,46.065887,Hogansville Downtown Development Authority
+577,37040076,0,0,0,0,37040076,0,0,0,0,"Hospital Authority of Albany-Dougherty County, Georgia"
+578,0,0,0,,,0,0,0,,,Hospital Authority of Bacon County
+579,46886000,0,0,0,0,46886000,0,0,0,0,Hospital Authority of Ben Hill County
+580,24292945,67453,67453,.27689612,.27689612,24292944,67453,67453,.27689615,.27689615,Hospital Authority of Bleckley County
+581,6542511,-3513572,-3513572,-116.00009,-116.00009,6542511,0,0,0,0,Hospital Authority of Bulloch County
+583,44988981.39,0,0,0,0,44988980,0,0,0,0,Hospital Authority of Candler County
+584,19425936,1673370,1673370,7.9309244,7.9309244,19425936,1673370,1673370,7.9309244,7.9309244,Hospital Authority of Charlton County
+586,0,0,0,,,0,0,0,,,Hospital Authority of Clarke County Georgia
+587,0,0,0,,,0,0,0,,,"Hospital Authority of Clay County, Georgia"
+588,0,0,0,,,0,0,0,,,Hospital Authority of Cobb County
+589,345493526,0,0,0,0,345493536,0,0,0,0,Hospital Authority of Colquitt County
+590,105919177,0,0,0,0,105919176,0,0,0,0,"Hospital Authority of Columbus, Georgia"
+591,0,0,0,,,0,0,0,,,Hospital Authority of Crisp County
+593,0,0,0,,,0,0,0,,,Hospital Authority of Douglas County
+595,232491791,15244546,15244546,6.1535363,6.1535363,232491792,15244546,15244546,6.1535363,6.1535363,Hospital Authority of Effingham County
+596,0,0,0,,,0,0,0,,,Hospital Authority of Evans County
+597,0,0,0,,,0,0,0,,,Hospital Authority of Fayette County
+598,1338413435,5589996,0,.41592127,0,1338413440,5589996,0,.41592127,0,Hospital Authority of Floyd County
+600,2703657,0,0,0,0,2703657,0,0,0,0,Hospital Authority of Fulton County
+601,12246,0,0,0,0,12246,0,0,0,0,Hospital Authority of Gordon County
+602,60184922,0,0,0,0,60184920,0,0,0,0,"Hospital Authority of Gwinnett County, Georgia"
+603,1427251,0,0,0,0,1427251,0,0,0,0,Hospital Authority of Hart County
+604,184707669,0,0,0,0,184707664,0,0,0,0,Hospital Authority of Henry County
+605,0,0,0,,,0,0,0,,,Hospital Authority of Houston County
+606,37165000,0,0,0,0,37165000,0,0,0,0,Hospital Authority of Irwin County
+607,50291000,21000,0,.041739546,0,50291000,21000,0,.041739546,0,Hospital Authority of Jefferson County and the City of Louisville
+608,37198719,3658386,3658386,8.9540997,8.9540997,37198720,3658386,3658386,8.9540997,8.9540997,Hospital Authority of Liberty County
+609,356507,0,0,0,0,356507,0,0,0,0,Hospital Authority of Lumpkin County
+610,2141850,-1972596,-100500,-1165.465,-59.378212,2141850,0,0,0,0,Hospital Authority of Marion County
+611,59051340,50000,50000,.084600449,.084600449,59051340,50000,50000,.084600449,.084600449,Hospital Authority of Miller County
+612,37306000,0,0,0,0,37306000,0,0,0,0,Hospital Authority of Monroe County
+613,8000,0,0,0,0,8000,0,0,0,0,Hospital Authority of Pulaski County
+614,39269000,1898000,1550000,4.6104889,3.7651517,39269000,1898000,1550000,4.6104889,3.7651517,Hospital Authority of Putnam County
+615,43227000,0,0,0,0,43227000,0,0,0,0,Hospital Authority of Randolph County
+616,110535,0,0,0,0,110535,0,0,0,0,Hospital Authority of Rockdale County
+617,171257,0,0,0,0,171257,0,0,0,0,Hospital Authority of St. Marys
+618,0,0,0,,,0,0,0,,,"Hospital Authority of Tattnall County, Georgia"
+619,0,0,0,,,0,0,0,,,Hospital Authority of Union County
+620,0,0,0,,,0,0,0,,,Hospital Authority of Upson County
+621,1184803000,0,0,0,0,1184802944,0,0,0,0,"Hospital Authority of Valdosta and Lowndes County, Georgia"
+624,98030455,11080782,4308871,10.155491,3.9490626,98030456,11080782,4308871,10.155491,3.9490626,Hospital Authority of Washington County
+625,166194998,4103589,0,2.4096437,0,166194992,4103589,0,2.4096437,0,"Hospital Authority of Wayne County, Georgia"
+626,57362217,0,0,0,0,57362216,0,0,0,0,Hospital Authority of Wilkes County
+627,163198478,0,0,0,0,163198480,0,0,0,0,Hospital Authority of the City of Bainbridge and Decatur County
+629,0,0,0,,,0,0,0,,,Hospital Authority of the City of Lavonia
+630,0,0,0,,,0,0,0,,,"Hospital Authority of the City of Newnan, Georgia"
+631,0,0,0,,,0,0,0,,,"Hospital Authority of the City of Royston, Georgia"
+632,0,0,0,,,0,0,0,,,"Hospital Authority of the City of Smyrna, Georgia"
+633,0,0,0,,,0,0,0,,,Hospital Authority of the City of Thomasville
+634,2731509,4150937,0,60.311943,0,2731509,4150937,0,60.311943,0,"Housing Authority City of Sylvester, GA"
+635,2125425,8457469,871878,79.916412,8.2385597,2125425,8457469,871878,79.916412,8.2385597,Housing Authority of City of Carrollton
+636,188337,242387,0,56.274319,0,188337,242387,0,56.274319,0,Housing Authority of City of Danielsville
+637,237833,238403,30000,50.059845,6.2993979,237833,238403,30000,50.059845,6.2993979,Housing Authority of Clayton County
+638,720725,0,0,0,0,720725,0,0,0,0,Housing Authority of Cobb County
+639,94278764,32925325,0,25.883858,0,94278768,32925324,0,25.883856,0,"Housing Authority of Columbus, Georgia"
+640,64238738,925268,0,1.4199066,0,64238736,925268,0,1.4199066,0,Housing Authority of Fulton County
+641,487880,0,0,0,0,487880,0,0,0,0,Housing Authority of Gwinnett County
+642,1964709,0,0,0,0,1964709,0,0,0,0,Housing Authority of Lee County
+644,101653,0,0,0,0,101653,0,0,0,0,Housing Authority of Screven County
+645,104342.02,0,0,0,0,104342.02,0,0,0,0,Housing Authority of the City of Acworth
+646,191579,599684,0,75.7882,0,191579,599684,0,75.7882,0,"Housing Authority of the City of Adel, Georgia"
+647,79023,136488,0,63.332268,0,79023,136488,0,63.332268,0,Housing Authority of the City of Alamo
+648,17820533,0,0,0,0,17820532,0,0,0,0,Housing Authority of the City of Albany
+649,1188179,2268433,0,65.625908,0,1188179,2268433,0,65.625908,0,Housing Authority of the City of Ashburn
+650,40710879,0,0,0,0,40710880,0,0,0,0,"Housing Authority of the City of Athens, Georgia"
+651,19528042,108607696,0,84.75988,0,19528042,108607696,0,84.75988,0,"Housing Authority of the City of Augusta, Georgia"
+653,630377,936108,0,59.758503,0,630377,936108,0,59.758503,0,Housing Authority of the City of Baxley
+654,187419,384939,0,67.254936,0,187419,384939,0,67.254936,0,Housing Authority of the City of Blackshear
+655,362011,921649,0,71.798531,0,362011,921649,0,71.798531,0,"Housing Authority of the City of Blakely, Georgia"
+656,1518111,623566,0,29.115782,0,1518111,623566,0,29.115782,0,Housing Authority of the City of Buena Vista
+657,2567748,1980097,0,43.539238,0,2567748,1980097,0,43.539238,0,"Housing Authority of the City of Buford, Georgia"
+658,62071,150910,0,70.856087,0,62071,150910,0,70.856087,0,Housing Authority of the City of Byron
+659,2337593,329849,0,12.365742,0,2337593,329849,0,12.365742,0,"Housing Authority of the City of Cairo, Georgia"
+660,1557799,2890511,0,64.97998,0,1557799,2890511,0,64.97998,0,Housing Authority of the City of Calhoun
+661,6949576,0,0,0,0,6949576,0,0,0,0,Housing Authority of the City of Camilla
+662,1155692,2441874,0,67.875725,0,1155692,2441874,0,67.875725,0,Housing Authority of the City of Canton
+663,100032,428904,0,81.088074,0,100032,428904,0,81.088074,0,Housing Authority of the City of Cave Spring
+664,1206773,0,0,0,0,1206773,0,0,0,0,"Housing Authority of the City of Cedartown, Ga."
+666,0,0,0,,,0,0,0,,,Housing Authority of the City of Clarkston
+669,8092136,4746010,0,36.968033,0,8092136,4746010,0,36.968033,0,Housing Authority of the City of College Park
+670,664593,1069182,0,61.667862,0,664593,1069182,0,61.667862,0,Housing Authority of the City of Colquitt
+672,2846181,1963288,0,40.821304,0,2846181,1963288,0,40.821304,0,"Housing Authority of the City of Cordele, Georgia"
+674,817822,1046805,0,56.140182,0,817822,1046805,0,56.140182,0,Housing Authority of the City of Covington
+676,346581,571932,0,62.267166,0,346581,571932,0,62.267166,0,Housing Authority of the City of Cumming
+677,2048675,2410143,0,54.053406,0,2048675,2410143,0,54.053406,0,"Housing Authority of the City of Cuthbert, GA"
+679,537561,1774478,0,76.749481,0,537561,1774478,0,76.749481,0,Housing Authority of the City of Dawson
+680,24198055,30551910,71630,55.802612,.13083114,24198056,30551910,71630,55.802608,.13083114,"Housing Authority of the City of Decatur, Georgia"
+681,0,0,0,,,0,0,0,,,"Housing Authority of the City of Doerun, Georgia"
+682,2786348,8411097,0,75.116219,0,2786348,8411097,0,75.116219,0,"Housing Authority of the City of Dublin, Georgia"
+683,25064136,0,0,0,0,25064136,0,0,0,0,"Housing Authority of the City of East Point, Georgia"
+685,1484863,2614110,0,63.774754,0,1484863,2614110,0,63.774754,0,Housing Authority of the City of Eatonton
+686,289264,1161706,0,80.064095,0,289264,1161706,0,80.064095,0,"Housing Authority of the City of Edison, GA."
+687,238349,752439,0,75.943489,0,238349,752439,0,75.943489,0,"Housing Authority of the City of Elberton, Georgia"
+688,835110,126724,0,13.175246,0,835110,126724,0,13.175246,0,Housing Authority of the City of Ellaville
+689,670019,570748,0,45.999611,0,670019,570748,0,45.999611,0,"Housing Authority of the City of Ellijay, Georgia"
+690,882034,3100342,0,77.851563,0,882034,3100342,0,77.851563,0,Housing Authority of the City of Fitzgerald
+692,292358,385005,0,56.838799,0,292358,385005,0,56.838799,0,Housing Authority of the City of Fort Gaines
+694,4352786,5231655,0,54.584873,0,4352786,5231655,0,54.584873,0,Housing Authority of the City of Gainesville
+695,249163,753945,0,75.160896,0,249163,753945,0,75.160896,0,Housing Authority of the City of Glennville
+696,88193,0,0,0,0,88193,0,0,0,0,Housing Authority of the City of Glenwood
+697,276052,251757,0,47.698505,0,276052,251757,0,47.698505,0,Housing Authority of the City of Grantville
+698,1129854,1107058,0,49.490459,0,1129854,1107058,0,49.490459,0,"Housing Authority of the City of Greensboro, Georgia"
+699,874861,3965428,0,81.925438,0,874861,3965428,0,81.925438,0,Housing Authority of the City of Griffin
+700,90243,231332,0,71.937187,0,90243,231332,0,71.937187,0,"Housing Authority of the City of Hahira, Georgia"
+702,977313,1571597,0,61.657612,0,977313,1571597,0,61.657612,0,Housing Authority of the City of Hartwell
+703,2921453,2346747,0,44.545517,0,2921453,2346747,0,44.545517,0,"Housing Authority of the City of Hinesville, Ga"
+704,1034376,1113947,0,51.851933,0,1034376,1113947,0,51.851933,0,Housing Authority of the City of Hogansville
+706,983006,1354283,0,57.942471,0,983006,1354283,0,57.942471,0,Housing Authority of the City of Jasper
+707,613982,1097734,0,64.130615,0,613982,1097734,0,64.130615,0,Housing Authority of the City of Jefferson
+708,565551,2097473,0,78.762825,0,565551,2097473,0,78.762825,0,Housing Authority of the City of Jesup
+709,71238,333743,0,82.409546,0,71238,333743,0,82.409546,0,"Housing Authority of the City of Lakeland, Georgia"
+710,1156103,2781684,0,70.640793,0,1156103,2781684,0,70.640793,0,Housing Authority of the City of Lavonia
+711,2031255,2164015,35000,51.582256,.83427286,2031255,2164015,35000,51.582256,.83427286,"Housing Authority of the City of Lawrenceville, GA"
+712,953888,2064538,0,68.397835,0,953888,2064538,0,68.397835,0,"Housing Authority of the City of Lithonia, Georgia"
+713,85569,301739,0,77.906731,0,85569,301739,0,77.906731,0,"Housing Authority of the City of Loganville, GA"
+714,572078,0,0,0,0,572078,0,0,0,0,Housing Authority of the City of Louisville
+715,159279814,3638313,0,2.2332156,0,159279808,3638313,0,2.2332156,0,"Housing Authority of the City of Macon, Georgia"
+716,107973,820794,0,88.374588,0,107973,820794,0,88.374588,0,"Housing Authority of the City of Madison, GA"
+717,49496467,898947,0,1.7837874,0,49496468,898947,0,1.7837873,0,Housing Authority of the City of Marietta
+718,153474,219143,0,58.811863,0,153474,219143,0,58.811863,0,Housing Authority of the City of McCaysville Georgia
+719,1497973,0,0,0,0,1497973,0,0,0,0,Housing Authority of the City of McDonough
+720,940306,339898,0,26.550301,0,940306,339898,0,26.550301,0,"Housing Authority of the City of Menlo, Georgia"
+721,681115,2009741,0,74.687798,0,681115,2009741,0,74.687798,0,Housing Authority of the City of Metter
+723,407661,0,0,0,0,407661,0,0,0,0,Housing Authority of the City of Millen
+724,1420030,6456525,0,81.971436,0,1420030,6456525,0,81.971436,0,"Housing Authority of the City of Monroe, GA"
+725,278810,707616,0,71.735336,0,278810,707616,0,71.735336,0,Housing Authority of the City of Monticello
+727,101664,491966,0,82.874184,0,101664,491966,0,82.874184,0,Housing Authority of the City of Mt. Vernon
+728,196355,419859,0,68.135262,0,196355,419859,0,68.135262,0,Housing Authority of the City of Nahunta
+729,944968,1966073,0,67.538483,0,944968,1966073,0,67.538483,0,"Housing Authority of the City of Nashville, Georgia"
+730,0,0,0,,,0,0,0,,,"Housing Authority of the City of Oakwood, Georgia"
+731,1035141,2816139,0,73.122154,0,1035141,2816139,0,73.122154,0,"Housing Authority of the City of Ocilla, Ga"
+732,105639,225960,0,68.142548,0,105639,225960,0,68.142548,0,"Housing Authority of the City of Pearson, Georgia"
+733,240722,615758,0,71.894028,0,240722,615758,0,71.894028,0,"Housing Authority of the City of Perry, Georgia"
+734,1145874,1702551,0,59.771664,0,1145874,1702551,0,59.771664,0,Housing Authority of the City of Quitman
+739,1655213,0,0,0,0,1655213,0,0,0,0,Housing Authority of the City of Roswell
+740,842716,2139902,0,71.745758,0,842716,2139902,0,71.745758,0,Housing Authority of the City of Royston
+741,826254,1311998,0,61.358437,0,826254,1311998,0,61.358437,0,Housing Authority of the City of Sandersville
+742,729425,0,0,0,0,729425,0,0,0,0,Housing Authority of the City of Senoia
+743,139545,385526,0,73.423592,0,139545,385526,0,73.423592,0,Housing Authority of the City of Shellman
+744,290318,946040,0,76.518288,0,290318,946040,0,76.518288,0,"Housing Authority of the City of Social Circle, GA"
+746,804158,2521455,0,75.819252,0,804158,2521455,0,75.819252,0,Housing Authority of the City of Statesboro
+747,13013.35,0,0,0,0,13013.35,0,0,0,0,"Housing Authority of the City of Sugar Hill, Georgia"
+750,873803,0,0,0,0,873803,0,0,0,0,Housing Authority of the City of Sylvania
+751,1873182,1662462,0,47.020061,0,1873182,1662462,0,47.020061,0,"Housing Authority of the City of Tallapoosa, Georgia"
+752,3543137,4083820,0,53.544552,0,3543137,4083820,0,53.544552,0,Housing Authority of the City of Thomaston
+757,457399,1587546,0,77.632698,0,457399,1587546,0,77.632698,0,Housing Authority of the City of Vidalia
+758,1579402,421709,0,21.073744,0,1579402,421709,0,21.073744,0,Housing Authority of the City of Vienna
+760,5865883,0,0,0,0,5865883,0,0,0,0,"Housing Authority of the City of Warner Robins, Georgia"
+762,1578145,4562780,0,74.301186,0,1578145,4562780,0,74.301186,0,Housing Authority of the City of Waycross
+763,5321981,0,0,0,0,5321981,0,0,0,0,Housing Authority of the City of Waynesboro
+764,7002307,1238199,0,15.025764,0,7002307,1238199,0,15.025764,0,Housing Authority of the City of West Point
+765,6285688,2384955,0,27.506092,0,6285688,2384955,0,27.506092,0,Housing Authority of the City of Winder
+767,568759,659682,0,53.700748,0,568759,659682,0,53.700748,0,Housing Authority of the City of Wrightsville
+768,74272,216929,0,74.494591,0,74272,216929,0,74.494591,0,"Housing Authority of the County of Atkinson, Georgia"
+769,140013006,124094904,4707543,46.986439,1.7824316,140013008,124094904,4707543,46.986439,1.7824316,"Housing Authority of the County of DeKalb, Georgia"
+770,755117,196779,0,20.672321,0,755117,196779,0,20.672321,0,Housing Authority of the County of Harris
+773,310931,4696787,4496787,93.790962,89.797127,310931,4696787,4496787,93.790962,89.797127,Houston County Development Authority
+774,0,0,0,,,0,0,0,,,Ideal Downtown Development Authority
+776,23933,0,0,0,0,23933,0,0,0,0,Industrial Development Authority of Butts County
+777,0,0,0,,,0,0,0,,,Industrial Development Authority of the City of Buford
+778,1537556,2664859,837906,63.412563,19.938679,1537556,2664859,837906,63.412563,19.938679,Jackson County Airport Authority
+779,431879,7300,7300,1.6621925,1.6621925,431879,7300,7300,1.6621925,1.6621925,Jackson County Industrial Development Authority
+780,27147363,8581166,8281166,24.017687,23.17802,27147364,8581166,8281166,24.017685,23.17802,Jackson County Water and Sewage Authority
+781,1174488,1557015,0,57.002132,0,1174488,1557015,0,57.002132,0,Jackson Housing Authority
+783,667992,0,0,0,0,667992,0,0,0,0,Jasper County Water and Sewer Authority
+784,144527,598500,0,80.548889,0,144527,598500,0,80.548889,0,Jenkins County Development Authority
+786,54197,208000,208000,79.329666,79.329666,54197,208000,208000,79.329666,79.329666,Join Development Authority of Mitchell County and Pelham
+787,0,0,0,,,0,0,0,,,Joint Cartersville-Bartow County Regional Industrial Development Authority
+789,0,355535,0,100,0,0,355535,0,100,0,"Joint Development Authority of Banks, Habersham and Rabun Counties"
+790,0,0,0,,,0,0,0,,,Joint Development Authority of Bartow County and Pickens County
+791,-627722,0,0,0,0,0,0,0,,,"Joint Development Authority of Brooks, Colquitt, Grady, Mitchell, and Thomas Counties"
+792,0,0,0,,,0,0,0,,,Joint Development Authority of Burke County and City of Waynesboro
+793,24323,0,0,0,0,24323,0,0,0,0,"Joint Development Authority of Carroll, Haralson, Polk, Heard and Troup Counties"
+794,64045,0,0,0,0,64045,0,0,0,0,"Joint Development Authority of Colquitt, Mitchell, Grady, Thomas and Brooks Counties"
+795,0,0,0,,,0,0,0,,,"Joint Development Authority of Dawson, Lumpkin and White Counties"
+796,0,0,0,,,0,0,0,,,"Joint Development Authority of Dekalb County, Newton County, and Gwinnett County"
+797,0,0,0,,,0,0,0,,,"Joint Development Authority of Fannin County, Towns County and Union County"
+798,0,1416627,83866,100,5.9201188,0,1416627,83866,100,5.9201188,"Joint Development Authority of Franklin, Hart and Stephens Counties"
+799,0,0,0,,,0,0,0,,,Joint Development Authority of Gilmer County and Pickens County
+800,48250,0,0,0,0,48250,0,0,0,0,"Joint Development Authority of Hazlehurst, Lumber City and Telfair County"
+801,1037170,0,0,0,0,1037170,0,0,0,0,"Joint Development Authority of Jasper County, Morgan County, Newton County, and Walton County"
+802,5766872,430902,430902,6.9525285,6.9525285,5766872,430902,430902,6.9525285,6.9525285,"Joint Development Authority of Jeff Davis County, Hazlehurst and Denton, Georgia"
+803,171160,1500000,0,89.758011,0,171160,1500000,0,89.758011,0,Joint Development Authority of Meriwether County and the City of Hogansville
+804,64000,0,0,0,0,64000,0,0,0,0,Joint Development Authority of Metropolitan Atlanta
+805,0,0,0,,,0,0,0,,,Joint Development Authority of Northeast Georgia
+806,36938.62,0,0,0,0,36938.621,0,0,0,0,Joint Development Authority of Winder-Barrow County
+807,1091309,513680,249422,32.005203,15.540418,1091309,513680,249422,32.005203,15.540418,Joint Grady County Development Authority
+808,23544515,0,0,0,0,23544516,0,0,0,0,"Joint Public Safety and Judicial Facilities Authority for the Cities of Sandy Springs, Georgia and J"
+809,1185629,0,0,0,0,1185629,0,0,0,0,Kennesaw Development Authority
+810,103642,0,0,0,0,103642,0,0,0,0,Kennesaw Downtown Development Authority
+811,1381803.34,0,0,0,0,1381803.4,0,0,0,0,Kingsland Area Tourism Authority
+812,523731.0600000001,0,0,0,0,523731.06,0,0,0,0,Kingsland Development Authority
+813,34918.08,0,0,0,0,34918.078,0,0,0,0,Kingsland Downtown Development Authority
+814,0,0,0,,,0,0,0,,,Kingston Downtown Development Authority
+817,6019506,4637017,4012017,43.513412,37.64846,6019506,4637017,4012017,43.513412,37.64846,LaGrange Development Authority
+818,664776214,39590,0,.005955033,0,664776192,39590,0,.005955033,0,LaGrange-Troup County Hospital Authority
+819,0,0,0,,,0,0,0,,,Lake Allatoona Preservation Authority
+820,0,0,0,,,0,0,0,,,Lake Oconee Area Development Authority
+822,7551544,326612,404,4.1457925,.0051281038,7551544,326612,404,4.1457925,.0051281038,Lamar County Regional Solid Waste Authority
+824,0,0,0,,,0,0,0,,,Lanier Joint Development Authority
+825,0,0,0,,,0,0,0,,,Laurens County Public Facilities Authority
+826,5839136,37310,0,.63490754,0,5839136,37310,0,.63490754,0,Laurens County Solid Waste Management Authority
+827,0,0,0,,,0,0,0,,,Laurens-Treutlen Joint Development Authority
+828,107770,0,0,0,0,107770,0,0,0,0,Lavonia Downtown Development Authority
+829,13659162,0,0,0,0,13659162,0,0,0,0,Lee County Utilities Authority
+830,0,0,0,,,0,0,0,,,Liberty County Fire Authority
+831,18159748,3158272,0,14.815035,0,18159748,3158272,0,14.815035,0,Liberty County Industrial Authority
+833,0,0,0,,,0,0,0,,,Liberty County Public Facilities Authority
+834,2747007,0,0,0,0,2747007,0,0,0,0,Liberty County Solid Waste Authority
+835,74769.39,0,0,0,0,74769.391,0,0,0,0,Lilburn Downtown Development Authority
+836,1900457.74,1214.77001953125,0,.063879035,0,1900457.8,1214.77,0,.063879035,0,Lincoln County Development Authority
+837,16,0,0,0,0,16,0,0,0,0,Lincoln County Recreation Authority
+838,0,0,0,,,0,0,0,,,Lithonia Downtown Development Authority
+839,0,0,0,,,0,0,0,,,Loganville Development Authority
+841,7929,138592,16325,94.588486,11.141747,7929,138592,16325,94.588486,11.141747,Lower Chattahoochee Regional Airport Authority
+842,1385659,0,0,0,0,1385659,0,0,0,0,Lower Chattahoochee Regional E-911 Authority
+843,12000,512778,0,97.713318,0,12000,512778,0,97.713318,0,Lower Chattahoochee Regional Transportation Authority
+844,0,0,0,,,0,0,0,,,Lowndes County Public Facilities Authority
+846,0,0,0,,,0,0,0,,,Lumpkin County Public Building Authority
+847,4149979,0,0,0,0,4149979,0,0,0,0,Lumpkin County Water & Sewerage Authority
+850,134719862,3812327,0,2.7519431,0,134719856,3812327,0,2.7519431,0,Macon Water Authority
+851,21265000,0,0,0,0,21265000,0,0,0,0,Macon-Bibb County Hospital Authority
+852,3932712,5432358,4438091,58.006592,47.389832,3932712,5432358,4438091,58.006592,47.389832,Macon-Bibb County Industrial Authority
+854,554148,3823709,3823709,87.342026,87.342026,554148,3823709,3823709,87.342026,87.342026,Macon-Bibb County Urban Development Authority
+855,2443002,1544386,563420,38.73177,14.130052,2443002,1544386,563420,38.73177,14.130052,Madison County Industrial Development and Building Authority
+856,0,0,0,,,0,0,0,,,Madison-Morgan County Airport Authority
+857,262840,426911,426911,61.893494,61.893494,262840,426911,426911,61.893494,61.893494,Main Street Dublin-The Downtown Development Authority of Dublin
+858,0,0,0,,,0,0,0,,,Manchester Public Utilities Authority
+861,0,0,0,,,0,0,0,,,McDuffie County Hospital Authority
+862,2791350,708848,0,20.251654,0,2791350,708848,0,20.251654,0,McIntosh County Industrial Development Authority
+863,0,3571928,818402,100,22.912052,0,3571928,818402,100,22.912052,McPherson Local Implementing Redevelopment Authority
+864,35,0,0,0,0,35,0,0,0,0,Meriwether County Hospital Authority
+865,2858311,609142,0,17.567419,0,2858311,609142,0,17.567419,0,Meriwether County Industrial Development Authority
+866,0,0,0,,,0,0,0,,,Meriwether County Public Facilities Authority
+867,2018760,0,0,0,0,2018760,0,0,0,0,Meriwether County Water and Sewerage Authority
+868,447994,293197,0,39.557549,0,447994,293197,0,39.557549,0,Metropolitan Atlanta Rapid Transit Authority
+869,238244,393490,35550,62.287292,5.6273685,238244,393490,35550,62.287292,5.6273685,Metter-Candler County Airport Authority
+870,42334,0,0,0,0,42334,0,0,0,0,Middle Coastal Unified Development Authority
+871,5285843,0,0,0,0,5285843,0,0,0,0,Middle Flint Regional E-911 Authority
+875,0,0,0,,,0,0,0,,,Milledgeville MainStreet/The Downtown Development Authority of the City of Milledgeville
+876,144720,0,0,0,0,144720,0,0,0,0,Miller County Development Authority
+877,0,600000,0,100,0,0,600000,0,100,0,Mitchell County Development Authority
+879,0,0,0,,,0,0,0,,,Monroe County Industrial Development Authority
+881,4200,9400,0,69.117645,0,4200,9400,0,69.117645,0,Montezuma Downtown Development Authority
+883,0,0,0,,,0,0,0,,,Morgan County Building Authority
+884,51616000,2780000,2780000,5.1106701,5.1106701,51616000,2780000,2780000,5.1106701,5.1106701,Morgan County Hospital Authority
+885,0,0,0,,,0,0,0,,,Morgan County Water Authority
+886,0,82000,82000,100,100,0,82000,82000,100,100,Morrow Housing Authority
+887,-68182,96481,0,340.9343,0,0,96481,0,100,0,Moultrie-Colquitt County Development Authority
+888,595879,0,0,0,0,595879,0,0,0,0,Murray County Hospital Authority
+889,0,0,0,,,0,0,0,,,Murray County Industrial Development Authority
+891,0,0,0,,,0,0,0,,,Nashville Downtown Development Authority
+893,860831.74,0,0,0,0,860831.75,0,0,0,0,Newnan Convention Center Authority
+894,4379286,2955196,1221115,40.291817,16.64896,4379286,2955196,1221115,40.291817,16.64896,Newnan-Coweta County Airport Authority
+895,315676000,0,0,0,0,315676000,0,0,0,0,Newton County Hospital Authority
+896,77206,175000,0,69.387726,0,77206,175000,0,69.387726,0,Newton County Industrial Development Authority
+897,5991561,0,0,0,0,5991561,0,0,0,0,Newton County Solid Waste Authority
+898,55912421,926587,0,1.6301956,0,55912420,926587,0,1.6301956,0,Newton County Water and Sewerage Authority
+899,1235635,0,0,0,0,1235635,0,0,0,0,Nicholson Water Authority
+900,0,0,0,,,0,0,0,,,Norcross Development Authority
+901,0,300000,300000,100,100,0,300000,300000,100,100,North Fulton Regional Radio System Authority
+902,203839,333970,333520,62.098255,62.01458,203839,333970,333520,62.098255,62.01458,North Georgia Solid Waste Management Authority
+904,0,0,0,,,0,0,0,,,Northeast Georgia Regional Solid Waste Management Authority
+905,8362977.73,38236899.5,422481,82.05365,.90661401,8362977.5,38236900,422481,82.05365,.90661395,Northwest Georgia Housing Authority
+907,5355275,0,0,0,0,5355275,0,0,0,0,Notla Water System
+908,31731,0,0,0,0,31731,0,0,0,0,Oak Grove Cemetery Authority
+909,15557,835770,823854,98.172615,96.772919,15557,835770,823854,98.172615,96.772919,Ocilla-Irwin County Industrial Development Authority
+910,527555,18650001,0,97.2491,0,527555,18650000,0,97.2491,0,Oconee County Industrial Development Authority
+913,4256,205424,205424,97.970238,97.970238,4256,205424,205424,97.970238,97.970238,Okefenokee Area Development Authority
+914,373725,0,0,0,0,373725,0,0,0,0,Palmetto Housing Authority
+915,1172391,3673338,3673338,75.805687,75.805687,1172391,3673338,3673338,75.805687,75.805687,Paulding County Airport Authority
+916,0,0,0,,,0,0,0,,,Paulding County Hospital Authority
+917,1137862,0,0,0,0,1137862,0,0,0,0,Paulding County Industrial Building Authority
+920,7772477,4844958,0,38.398914,0,7772477,4844958,0,38.398914,0,Peachtree City Airport Authority
+921,27257902,0,0,0,0,27257902,0,0,0,0,Peachtree City Water and Sewerage Authority
+922,1786254,2480560,0,58.136116,0,1786254,2480560,0,58.136116,0,Pelham Housing Authority
+923,19200,0,0,0,0,19200,0,0,0,0,Perkins Water Authority
+924,1390438,0,0,0,0,1390438,0,0,0,0,Perry Area Convention and Visitors Bureau Authority
+925,2081983,1427723,444732,40.679276,12.671489,2081983,1427723,444732,40.679276,12.671489,Perry-Houston County Airport Authority
+926,0,0,0,,,0,0,0,,,Pickens County Airport Authority
+928,20500,120000,120000,85.409256,85.409256,20500,120000,120000,85.409256,85.409256,Pierce County Industrial Development and Building Authority
+930,0,0,0,,,0,0,0,,,Pike County Arts Facility Authority
+931,537089,1073353,1073353,66.64959,66.64959,537089,1073353,1073353,66.64959,66.64959,Pike County Recreation Authority
+932,392694,642175,565104,62.053749,54.606331,392694,642175,565104,62.053749,54.606331,Pike County Water and Sewerage Authority
+934,7861398,0,0,0,0,7861398,0,0,0,0,"Polk County Water, Sewage and Solid Waste Authority"
+935,163793.25,0,0,0,0,163793.25,0,0,0,0,Pooler Development Authority
+937,30,0,0,0,0,30,0,0,0,0,Powder Springs Downtown Development Authority
+938,0,0,0,,,0,0,0,,,Pulaski County Hospital Authority
+939,0,0,0,,,0,0,0,,,Pulaski County School Building Authority
+940,26457758,0,0,0,0,26457758,0,0,0,0,Pulaski County-Hawkinsville Development Authority
+941,4,0,0,0,0,4,0,0,0,0,Pulaski-Wilcox County Regional Jail Authority
+942,136516.76,500019.58984375,29106.39,78.553185,4.5726204,136516.77,500019.59,29106.391,78.553185,4.5726204,Putnam Development Authority
+943,0,0,0,,,0,0,0,,,Quitman County Development Authority
+944,0,0,0,,,0,0,0,,,Quitman Urban Redevelopment Authority
+945,33500,1088368,18242,97.013908,1.626038,33500,1088368,18242,97.013908,1.626038,Quitman-Brooks County Airport Authority
+946,0,0,0,,,0,0,0,,,Rabun County Building Authority
+947,266608.35,27148.76953125,27148.77,9.24191,9.2419109,266608.34,27148.77,27148.77,9.2419109,9.2419109,Rabun County Convention and Visitors Bureau Authority
+948,0,0,0,,,0,0,0,,,Rabun County Economic Development Authority
+949,0,0,0,,,0,0,0,,,Rabun County Hospital Authority
+950,0,129000,129000,100,100,0,129000,129000,100,100,Rabun County Water and Sewer Authority
+951,138558,19081,19081,12.104239,12.104239,138558,19081,19081,12.104239,12.104239,Randolph County Development Authority
+953,147015.83,11243.7001953125,0,7.1045961,0,147015.83,11243.7,0,7.1045961,0,Reidsville Airport Authority
+955,0,0,0,,,0,0,0,,,Residential Care Facilities For The Elderly Authority of Columbia County
+956,0,0,0,,,0,0,0,,,Residential Care Facilities for the Elderly Authority of Athens-Clarke County
+957,66441,0,0,0,0,66441,0,0,0,0,Residential Care Facilities for the Elderly Authority of DeKalb County
+958,26737,0,0,0,0,26737,0,0,0,0,Residential Care Facilities for the Elderly Authority of Fulton County
+960,0,0,0,,,0,0,0,,,"Residential Care Facilities for the Elderly Authority of Lowndes County, Georgia"
+961,0,0,0,,,0,0,0,,,Residential Care Facilities for the Elderly Authority of Whitfield County
+962,0,0,0,,,0,0,0,,,Residential Care Facilities for the Elderly of Coweta County
+963,0,0,0,,,0,0,0,,,Resource Recovery Development Authority for the City of Savannah
+964,0,0,0,,,0,0,0,,,Resource Recovery Development Authority of Bartow County
+965,0,4872882.1875,4872882.17,100,100,0,4872882,4872882,100,100,Resource Recovery Development Authority of Cherokee County
+966,0,0,0,,,0,0,0,,,"Resource Recovery Development Authority of Columbus, Ga"
+967,15372351,0,0,0,0,15372351,0,0,0,0,Richmond County Hospital Authority
+968,629301,0,0,0,0,629301,0,0,0,0,Richmond Hill Convention and Visitors Bureau
+970,65106,196359,0,75.099533,0,65106,196359,0,75.099533,0,Rochelle Housing Authority
+971,0,0,0,,,0,0,0,,,Rockdale County Water and Sewerage Authority
+972,17105,0,0,0,0,17105,0,0,0,0,Rockmart Development Authority
+973,689255,525000,525000,43.236389,43.236389,689255,525000,525000,43.236389,43.236389,Rome-Floyd County Development Authority
+974,0,0,0,,,0,0,0,,,Rome-Floyd County Land Bank Authority
+975,6000,18000,18000,75,75,6000,18000,18000,75,75,Sandersville Downtown Development Authority
+977,12720996,0,0,0,0,12720996,0,0,0,0,Satilla Regional Water and Sewer Authority
+978,18926517,0,0,0,0,18926516,0,0,0,0,Savannah Economic Development Authority
+979,1830.44,0,0,0,0,1830.4399,0,0,0,0,Schley-Sumter-Macon Counties Joint Development Authority
+980,14143,1241984,1234091,98.874077,98.24572,14143,1241984,1234091,98.874077,98.24572,Screven County Development Authority
+982,0,0,0,,,0,0,0,,,Screven County Public Facilities Authority
+983,8219846.630000001,0,0,0,0,8219846.5,0,0,0,0,Sinclair Water Authority
+984,3689342,0,0,0,0,3689342,0,0,0,0,Smyrna Downtown Area Development Corporation
+985,330950,0,0,0,0,330950,0,0,0,0,Smyrna Housing Authority
+986,7075,11396,11396,61.696712,61.696712,7075,11396,11396,61.696712,61.696712,Social Circle Development Authority
+987,14126921,0,0,0,0,14126921,0,0,0,0,"Solid Waste Management Authority of Athens-Clarke County, Georgia"
+988,8804171,0,0,0,0,8804171,0,0,0,0,Solid Waste Management Authority of Atkinson County
+990,0,0,0,,,0,0,0,,,Solid Waste Management Authority of Charlton County
+992,64294339,0,0,0,0,64294340,0,0,0,0,Solid Waste Management Authority of Crisp County
+993,0,0,0,,,0,0,0,,,"Solid Waste Management Authority of Franklin County, Georgia"
+994,0,0,0,,,0,0,0,,,"Solid Waste Management Authority of the City of LaGrange, Georgia"
+995,7365335,0,0,0,0,7365335,0,0,0,0,South Fulton Municipal Regional Jail Authority
+996,0,0,0,,,0,0,0,,,South Fulton Municipal Regional Water and Sewer Authority
+998,27553833,0,0,0,0,27553832,0,0,0,0,South Georgia Governmental Services Authority
+1000,6729663,1385654,0,17.074553,0,6729663,1385654,0,17.074553,0,South Georgia Regional Information Technology Authority
+1001,0,0,0,,,0,0,0,,,South Regional Joint Development Authority
+1002,809441,1947822,0,70.643318,0,809441,1947822,0,70.643318,0,Southeast Georgia Consolidated Housing Authority
+1003,3137154,0,0,0,0,3137154,0,0,0,0,Southeast Georgia Joint Development Authority
+1004,93892,0,0,0,0,93892,0,0,0,0,Southeast Georgia Regional Development Authority
+1005,0,0,0,,,0,0,0,,,Southwest Georgia Regional Development Authority
+1006,0,0,0,,,0,0,0,,,Southwest Georgia Technology Authority
+1007,1112172,168595,15598,13.163596,1.217864,1112172,168595,15598,13.163596,1.217864,"Spalding County Collaborative for Families & Children, Inc."
+1008,30346043,0,0,0,0,30346044,0,0,0,0,Spalding County Water and Sewerage Facilities Authority
+1009,238,0,0,0,0,238,0,0,0,0,Sparta-Hancock County Development Authority
+1011,91988.70999999999,0,0,0,0,91988.711,0,0,0,0,St. Marys Airport Authority
+1012,61129,243593,243593,79.939423,79.939423,61129,243593,243593,79.939423,79.939423,St. Marys Convention and Visitors Bureau Authority
+1013,58158,0,0,0,0,58158,0,0,0,0,St. Marys Downtown Development Authority
+1014,217672,3893270,3554746,94.705055,86.470352,217672,3893270,3554746,94.705055,86.470352,Stephens County Development Authority
+1015,192393800,0,0,0,0,192393792,0,0,0,0,Stephens County Hospital Authority
+1017,0,0,0,,,0,0,0,,,Sumter County Industrial Development Authority
+1018,628909,0,0,0,0,628909,0,0,0,0,Sumter County Livestock Authority
+1019,36349,0,0,0,0,36349,0,0,0,0,Suwanee Downtown Development Authority
+1021,0,0,0,,,0,0,0,,,Swainsboro Emanuel County Parks and Recreation Authority
+1023,0,0,0,,,0,0,0,,,Sylvester Development Authority
+1024,549800,0,0,0,0,549800,0,0,0,0,Tallapoosa Development Authority
+1025,589230,0,0,0,0,589230,0,0,0,0,Tallapoosa Recreation Authority
+1026,234,133146,133146,99.824562,99.824562,234,133146,133146,99.824562,99.824562,Tattnall County Development Authority
+1027,34417,10177,0,22.821455,0,34417,10177,0,22.821455,0,Taylor County Airport Authority
+1028,66800,0,0,0,0,66800,0,0,0,0,Taylor County Building Authority
+1029,101509,0,0,0,0,101509,0,0,0,0,Taylor County Development Authority
+1030,0,0,0,,,0,0,0,,,Taylor County Waste Management Authority
+1031,0,0,0,,,0,0,0,,,Taylor County Water and Sewerage Authority
+1032,117136,0,0,0,0,117136,0,0,0,0,Telfair County Hospital Authority
+1033,0,0,0,,,0,0,0,,,Telfair-Wheeler Airport Authority
+1034,498157,0,0,0,0,498157,0,0,0,0,Telfair-Wheeler Joint E-911 Authority
+1036,98515,42385,42385,30.081617,30.081617,98515,42385,42385,30.081617,30.081617,Terrell County Airport Authority
+1037,18000,0,0,0,0,18000,0,0,0,0,Terrell County Development Authority
+1039,25417835,0,0,0,0,25417836,0,0,0,0,The Atlanta Development Authority d/b/a Invest Atlanta
+1040,103823126,0,0,0,0,103823128,0,0,0,0,The Baxley and Appling County Hospital Authority
+1043,226008.78,0,0,0,0,226008.78,0,0,0,0,The Commerce Civic Center and Tourism Authority
+1044,230157,426606,0,64.955849,0,230157,426606,0,64.955849,0,The Commerce Housing Authority
+1046,11000,0,0,0,0,11000,0,0,0,0,The Development Authority of Long County
+1047,317830,0,0,0,0,317830,0,0,0,0,The Development Authority of Pickens County
+1048,0,0,0,,,0,0,0,,,"The Development Authority of Snellville, Georgia"
+1049,534923,0,0,0,0,534923,0,0,0,0,The Development Authority of the City of Camilla
+1050,770383,540933,540933,41.251156,41.251156,770383,540933,540933,41.251156,41.251156,The Development Authority of the City of Manchester
+1052,229940.47,0,0,0,0,229940.47,0,0,0,0,"The Downtown Development Authority of Bainbridge, Georgia"
+1053,0,0,0,,,0,0,0,,,"The Downtown Development Authority of the City of Griffin, Georgia"
+1054,2551.79,18584,0,87.926689,0,2551.79,18584,0,87.926689,0,"The Downtown Development Authority of the City of Manchester, Georgia"
+1055,763765000,41103000,0,5.1068001,0,763764992,41103000,0,5.1068001,0,The Fulton-DeKalb Hospital Authority
+1056,182059070,1898090,1898090,1.0318109,1.0318109,182059072,1898090,1898090,1.0318109,1.0318109,The Hospital Authority of Habersham County
+1057,0,0,0,,,0,0,0,,,The Hospital Authority of Hall County and the City of Gainesville
+1059,7949925,21202631,0,72.729919,0,7949925,21202632,0,72.729919,0,"The Housing Authority of the City of Americus, GA"
+1060,866092705,52045713,0,5.668613,0,866092736,52045712,0,5.6686125,0,"The Housing Authority of the City of Atlanta, Georgia"
+1061,4191080,33804602,0,88.969589,0,4191080,33804600,0,88.969589,0,"The Housing Authority of the City of Brunswick, Georgia"
+1062,1324675,2551526,0,65.825432,0,1324675,2551526,0,65.825432,0,"The Housing Authority of the City of Dallas, Georgia"
+1063,10845405,7605709,0,41.220867,0,10845405,7605709,0,41.220867,0,The Housing Authority of the City of Newnan
+1064,554964,1068673,0,65.819702,0,554964,1068673,0,65.819702,0,The Housing Authority of the City of Washington
+1065,0,0,0,,,0,0,0,,,The Joint Development Authority of Cherokee County and Cobb County
+1066,64358510,0,0,0,0,64358512,0,0,0,0,The Medical Center Hospital Authority
+1067,1010727,21,0,.0020776691,0,1010727,21,0,.0020776691,0,The Northwest Georgia Joint Development Authority
+1068,0,0,0,,,0,0,0,,,The Pierce County Hospital Authority
+1069,20024,121801,121801,85.881195,85.881195,20024,121801,121801,85.881195,85.881195,The Winder Downtown Development Authority
+1070,0,0,0,,,0,0,0,,,Thomaston Downtown Development Authority
+1071,3962019,1785629,424792,31.067125,7.3907099,3962019,1785629,424792,31.067125,7.3907099,Thomaston-Upson County Airport Authority
+1072,125812,1690490,1690490,93.073181,93.073181,125812,1690490,1690490,93.073181,93.073181,Thomaston-Upson County Industrial Development Authority
+1073,10447821,0,0,0,0,10447821,0,0,0,0,Thomaston-Upson County Office Building Authority
+1074,1158040,0,0,0,0,1158040,0,0,0,0,Thomasville Convention and Visitors Bureau
+1076,576618,0,0,0,0,576618,0,0,0,0,Thomasville Payroll Development Authority
+1077,22098956,406000,0,1.8040471,0,22098956,406000,0,1.8040471,0,Tift County Development Authority
+1078,1112748000,231000,0,.020755108,0,1112748032,231000,0,.020755108,0,Tift County Hospital Authority
+1080,0,0,0,,,0,0,0,,,Tift-Turner-Worth-Cook Joint Development Authority
+1081,228382,875094,315287,79.303398,28.572166,228382,875094,315287,79.303398,28.572166,Tifton-Tift County Airport Authority
+1082,266780,880887,208245,76.754578,18.145071,266780,880887,208245,76.754578,18.145071,Toccoa/Stephens County Airport Authority
+1083,0,3182104.25,2682104.26,100,84.287125,0,3182104.3,2682104.3,100,84.287125,Toombs County Development Authority
+1084,496162332,0,0,0,0,496162336,0,0,0,0,Toombs County Hospital Authority
+1086,6058894,186976,0,2.9935942,0,6058894,186976,0,2.9935942,0,Towns County Water and Sewerage Authority
+1087,243792,160000,160000,39.624363,39.624363,243792,160000,160000,39.624363,39.624363,Treutlen County Development Authority
+1088,632346,0,0,0,0,632346,0,0,0,0,Treutlen County Hospital Authority
+1089,61719,873197,0,93.398445,0,61719,873197,0,93.398445,0,Tri-City Housing Authority
+1091,2770582,0,0,0,0,2770582,0,0,0,0,Tri-County Joint E-911 Development Authority
+1092,3878527,0,0,0,0,3878527,0,0,0,0,Troup County Airport Authority
+1093,422058,0,0,0,0,422058,0,0,0,0,Troup County Development  Authority
+1094,0,0,0,,,0,0,0,,,Troup County Public Facilities Authority
+1095,0,420000,0,100,0,0,420000,0,100,0,Troup Family Connection Authority
+1096,363559,37500,37500,9.3502455,9.3502455,363559,37500,37500,9.3502455,9.3502455,Turner County Development Authority
+1097,321838,0,0,0,0,321838,0,0,0,0,Union City Housing Authority
+1099,28045637,0,0,0,0,28045636,0,0,0,0,Upper Oconee Basin Water Authority
+1100,405980,0,0,0,0,405980,0,0,0,0,Urban Redevelopment Agency of Augusta
+1102,2960054,0,0,0,0,2960054,0,0,0,0,"Urban Redevelopment Agency of DeKalb County, Georgia"
+1103,0,0,0,,,0,0,0,,,"Urban Redevelopment Agency of Union County, Ga"
+1104,0,0,0,,,0,0,0,,,Urban Redevelopment Agency of the City of Canton
+1105,0,0,0,,,0,0,0,,,Urban Redevelopment Agency of the City of Dallas
+1106,228364.89,681655,0,74.905502,0,228364.89,681655,0,74.905502,0,Urban Redevelopment Agency of the City of Decatur
+1107,0,0,0,,,0,0,0,,,Urban Redevelopment Agency of the City of Duluth
+1108,0,587715,587715,100,100,0,587715,587715,100,100,Urban Redevelopment Agency of the City of Dunwoody
+1109,22093933,0,0,0,0,22093932,0,0,0,0,Urban Redevelopment Agency of the City of Forest Park
+1110,0,0,0,,,0,0,0,,,"Urban Redevelopment Agency of the City of Kennesaw, Georgia"
+1111,0,0,0,,,0,0,0,,,"Urban Redevelopment Agency of the City of Morrow, Georgia"
+1112,20072,0,0,0,0,20072,0,0,0,0,Urban Redevelopment Agency of the City of Snellville
+1113,197,0,0,0,0,197,0,0,0,0,Urban Redevelopment Agency of the City of Stockbridge
+1114,0,0,0,,,0,0,0,,,Urban Redevelopment Agency of the Town of Braselton
+1115,0,0,0,,,0,0,0,,,Urban Redevelopment Authority of the City of Suwanee
+1116,27112538,0,0,0,0,27112538,0,0,0,0,"Urban Residential Finance Authority of the City of Atlanta, Georgia"
+1117,11425430,0,0,0,0,11425430,0,0,0,0,Valdosta Housing Authority
+1118,4591700,1996071,0,30.299641,0,4591700,1996071,0,30.299641,0,Valdosta-Lowndes County Airport Authority
+1119,12353119,0,0,0,0,12353119,0,0,0,0,Valdosta-Lowndes County Industrial Authority
+1120,0,0,0,,,0,0,0,,,Valdosta-Lowndes County Land Bank Authority
+1121,1141866.65,0,0,0,0,1141866.6,0,0,0,0,Valley Partnership Joint Development Authority
+1122,60000,0,0,0,0,60000,0,0,0,0,Vidalia Development Authority
+1123,87750,0,0,0,0,87750,0,0,0,0,Villa Rica Development Authority
+1124,24998,0,0,0,0,24998,0,0,0,0,Villa Rica Downtown Development Authority
+1125,1298809,0,0,0,0,1298809,0,0,0,0,Walker County Development Authority
+1126,2123723,0,0,0,0,2123723,0,0,0,0,Walker County Rural Water and Sewer Authority
+1127,20445136,0,0,0,0,20445136,0,0,0,0,Walker County Water and Sewerage Authority
+1128,0,0,0,,,0,0,0,,,Walton County Hospital Authority
+1129,0,0,0,,,0,0,0,,,Walton County Water and Sewerage Authority
+1130,0,0,0,,,0,0,0,,,Walton Industrial Building Authority
+1131,1198712,0,0,0,0,1198712,0,0,0,0,Warner Robins Building Authority
+1132,0,0,0,,,0,0,0,,,Warner Robins Public Facilities Authority
+1133,287210,136879,136879,32.276009,32.276009,287210,136879,136879,32.276009,32.276009,Washington County Airport Authority
+1134,712855,278463,278463,28.090179,28.090179,712855,278463,278463,28.090179,28.090179,Washington County Public Facilities Authority
+1135,1579462,201421,201421,11.310176,11.310176,1579462,201421,201421,11.310176,11.310176,Washington-Wilkes Payroll Development Authority
+1136,3705,216574,216574,98.318039,98.318039,3705,216574,216574,98.318039,98.318039,Waycross and Ware County Development Authority
+1138,0,0,0,,,0,0,0,,,Wayne County Solid Waste Management Authority
+1140,633359,314786,314786,33.200195,33.200195,633359,314786,314786,33.200195,33.200195,Waynesboro-Burke County Hospital Authority
+1141,0,0,0,,,0,0,0,,,Webster County Industrial Development Authority
+1142,0,0,0,,,0,0,0,,,West Central Georgia Broadband Joint Development Authority
+1143,0,0,0,,,0,0,0,,,West Central Georgia Joint Development Authority
+1144,662958,1251051,0,65.362862,0,662958,1251051,0,65.362862,0,West Georgia Airport Authority
+1145,0,0,0,,,0,0,0,,,West Georgia Joint Development Authority
+1147,800625,0,0,0,0,800625,0,0,0,0,West Point Development Authority
+1149,0,0,0,,,0,0,0,,,West Point Lake Development Authority
+1150,0,0,0,,,0,0,0,,,White County Building Authority
+1151,0,0,0,,,0,0,0,,,White County Industrial Building Authority
+1152,4816498,0,0,0,0,4816498,0,0,0,0,White County Water and Sewerage Authority
+1153,0,0,0,,,0,0,0,,,Wilcox County Industrial Development Authority
+1155,92949.27,0,0,0,0,92949.273,0,0,0,0,Winder-Barrow Industrial Building Authority
+1156,0,0,0,,,0,0,0,,,Woodbine Downtown Development Authority
+1158,134495.5,19761.76953125,19761.77,12.810916,12.810917,134495.5,19761.77,19761.77,12.810916,12.810916,Woodstock Area Convention and Visitors Bureau Authority
+1159,56,0,0,0,0,56,0,0,0,0,Woodstock Urban Redevelopment Agency
+1160,1455067,0,0,0,0,1455067,0,0,0,0,Worth County Economic Development Authority

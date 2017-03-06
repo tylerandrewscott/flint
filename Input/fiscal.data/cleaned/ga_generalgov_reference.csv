@@ -1,0 +1,621 @@
+CICOID,FIPS,CICO,NAMEGOV,GOVOFNAME_UL,RESIDENTCO,REGION,COSEAT,Fiscal_Yr
+1001001,13001,1,Appling County,County of Appling,Appling County,09,FALSE,2014
+1002002,13003,1,Atkinson County,County of Atkinson,Atkinson County,11,FALSE,2014
+1003003,13005,1,Bacon County,County of Bacon,Bacon County,11,FALSE,2014
+1004004,13007,1,Baker County,County of Baker,Baker County,10,FALSE,2014
+1005005,13009,1,Baldwin County,County of Baldwin,Baldwin County,06,FALSE,2014
+1006006,13011,1,Banks County,County of Banks,Banks County,02,FALSE,2014
+1007007,13013,1,Barrow County,County of Barrow,Barrow County,05,FALSE,2014
+1008008,13015,1,Bartow County,County of Bartow,Bartow County,01,FALSE,2014
+1009009,13017,1,Ben Hill County,County of Ben Hill,Ben Hill County,11,FALSE,2014
+1010010,13019,1,Berrien County,County of Berrien,Berrien County,11,FALSE,2014
+1012012,13023,1,Bleckley County,County of Bleckley,Bleckley County,09,FALSE,2014
+1013013,13025,1,Brantley County,County of Brantley,Brantley County,11,FALSE,2014
+1014014,13027,1,Brooks County,County of Brooks,Brooks County,11,FALSE,2014
+1015015,13029,1,Bryan County,County of Bryan,Bryan County,12,FALSE,2014
+1016016,13031,1,Bulloch County,County of Bulloch,Bulloch County,12,FALSE,2014
+1017017,13033,1,Burke County,County of Burke,Burke County,07,FALSE,2014
+1018018,13035,1,Butts County,County of Butts,Butts County,04,FALSE,2014
+1019019,13037,1,Calhoun County,County of Calhoun,Calhoun County,10,FALSE,2014
+1020020,13039,1,Camden County,County of Camden,Camden County,12,FALSE,2014
+1021021,13043,1,Candler County,County of Candler,Candler County,09,FALSE,2014
+1022022,13045,1,Carroll County,County of Carroll,Carroll County,04,FALSE,2014
+1023023,13047,1,Catoosa County,County of Catoosa,Catoosa County,01,FALSE,2014
+1024024,13049,1,Charlton County,County of Charlton,Charlton County,11,FALSE,2014
+1025025,13051,1,Chatham County,County of Chatham,Chatham County,12,FALSE,2014
+1027027,13055,1,Chattooga County,County of Chattooga,Chattooga County,01,FALSE,2014
+1028028,13057,1,Cherokee County,County of Cherokee,Cherokee County,03,FALSE,2014
+1030030,13061,1,Clay County,County of Clay,Clay County,08,FALSE,2014
+1031031,13063,1,Clayton County,County of Clayton,Clayton County,03,FALSE,2014
+1032032,13065,1,Clinch County,County of Clinch,Clinch County,11,FALSE,2014
+1033033,13067,1,Cobb County,County of Cobb,Cobb County,03,FALSE,2014
+1034034,13069,1,Coffee County,County of Coffee,Coffee County,11,FALSE,2014
+1035035,13071,1,Colquitt County,County of Colquitt,Colquitt County,10,FALSE,2014
+1036036,13073,1,Columbia County,County of Columbia,Columbia County,07,FALSE,2014
+1037037,13075,1,Cook County,County of Cook,Cook County,11,FALSE,2014
+1038038,13077,1,Coweta County,County of Coweta,Coweta County,04,FALSE,2014
+1039039,13079,1,Crawford County,County of Crawford,Crawford County,06,FALSE,2014
+1040040,13081,1,Crisp County,County of Crisp,Crisp County,08,FALSE,2014
+1041041,13083,1,Dade County,County of Dade,Dade County,01,FALSE,2014
+1042042,13085,1,Dawson County,County of Dawson,Dawson County,02,FALSE,2014
+1043043,13087,1,Decatur County,County of Decatur,Decatur County,10,FALSE,2014
+1044044,13089,1,DeKalb County,County of DeKalb,DeKalb County,03,FALSE,2014
+1045045,13091,1,Dodge County,County of Dodge,Dodge County,09,FALSE,2014
+1046046,13093,1,Dooly County,County of Dooly,Dooly County,08,FALSE,2014
+1047047,13095,1,Dougherty County,County of Dougherty,Dougherty County,10,FALSE,2014
+1048048,13097,1,Douglas County,County of Douglas,Douglas County,03,FALSE,2014
+1049049,13099,1,Early County,County of Early,Early County,10,FALSE,2014
+1051051,13103,1,Effingham County,County of Effingham,Effingham County,12,FALSE,2014
+1052052,13105,1,Elbert County,County of Elbert,Elbert County,05,FALSE,2014
+1053053,13107,1,Emanuel County,County of Emanuel,Emanuel County,09,FALSE,2014
+1054054,13109,1,Evans County,County of Evans,Evans County,09,FALSE,2014
+1055055,13111,1,Fannin County,County of Fannin,Fannin County,01,FALSE,2014
+1056056,13113,1,Fayette County,County of Fayette,Fayette County,03,FALSE,2014
+1057057,13115,1,Floyd County,County of Floyd,Floyd County,01,FALSE,2014
+1058058,13117,1,Forsyth County,County of Forsyth,Forsyth County,02,FALSE,2014
+1059059,13119,1,Franklin County,County of Franklin,Franklin County,02,FALSE,2014
+1060060,13121,1,Fulton County,County of Fulton,Fulton County,03,FALSE,2014
+1061061,13123,1,Gilmer County,County of Gilmer,Gilmer County,01,FALSE,2014
+1062062,13125,1,Glascock County,County of Glascock,Glascock County,07,FALSE,2014
+1063063,13127,1,Glynn County,County of Glynn,Glynn County,12,FALSE,2014
+1064064,13129,1,Gordon County,County of Gordon,Gordon County,01,FALSE,2014
+1065065,13131,1,Grady County,County of Grady,Grady County,10,FALSE,2014
+1066066,13133,1,Greene County,County of Greene,Greene County,05,FALSE,2014
+1067067,13135,1,Gwinnett County,County of Gwinnett,Gwinnett County,03,FALSE,2014
+1068068,13137,1,Habersham County,County of Habersham,Habersham County,02,FALSE,2014
+1069069,13139,1,Hall County,County of Hall,Hall County,02,FALSE,2014
+1070070,13141,1,Hancock County,County of Hancock,Hancock County,07,FALSE,2014
+1071071,13143,1,Haralson County,County of Haralson,Haralson County,01,FALSE,2014
+1072072,13145,1,Harris County,County of Harris,Harris County,08,FALSE,2014
+1073073,13147,1,Hart County,County of Hart,Hart County,02,FALSE,2014
+1074074,13149,1,Heard County,County of Heard,Heard County,04,FALSE,2014
+1075075,13151,1,Henry County,County of Henry,Henry County,03,FALSE,2014
+1076076,13153,1,Houston County,County of Houston,Houston County,06,FALSE,2014
+1077077,13155,1,Irwin County,County of Irwin,Irwin County,11,FALSE,2014
+1078078,13157,1,Jackson County,County of Jackson,Jackson County,05,FALSE,2014
+1079079,13159,1,Jasper County,County of Jasper,Jasper County,05,FALSE,2014
+1080080,13161,1,Jeff Davis County,County of Jeff Davis,Jeff Davis County,09,FALSE,2014
+1081081,13163,1,Jefferson County,County of Jefferson,Jefferson County,07,FALSE,2014
+1082082,13165,1,Jenkins County,County of Jenkins,Jenkins County,07,FALSE,2014
+1083083,13167,1,Johnson County,County of Johnson,Johnson County,09,FALSE,2014
+1084084,13169,1,Jones County,County of Jones,Jones County,06,FALSE,2014
+1085085,13171,1,Lamar County,County of Lamar,Lamar County,04,FALSE,2014
+1086086,13173,1,Lanier County,County of Lanier,Lanier County,11,FALSE,2014
+1087087,13175,1,Laurens County,County of Laurens,Laurens County,09,FALSE,2014
+1088088,13177,1,Lee County,County of Lee,Lee County,10,FALSE,2014
+1089089,13179,1,Liberty County,County of Liberty,Liberty County,12,FALSE,2014
+1090090,13181,1,Lincoln County,County of Lincoln,Lincoln County,07,FALSE,2014
+1091091,13183,1,Long County,County of Long,Long County,12,FALSE,2014
+1092092,13185,1,Lowndes County,County of Lowndes,Lowndes County,11,FALSE,2014
+1093093,13187,1,Lumpkin County,County of Lumpkin,Lumpkin County,02,FALSE,2014
+1094094,13189,1,McDuffie County,County of McDuffie,McDuffie County,07,FALSE,2014
+1095095,13191,1,McIntosh County,County of McIntosh,McIntosh County,12,FALSE,2014
+1096096,13193,1,Macon County,County of Macon,Macon County,08,FALSE,2014
+1097097,13195,1,Madison County,County of Madison,Madison County,05,FALSE,2014
+1099099,13199,1,Meriwether County,County of Meriwether,Meriwether County,04,FALSE,2014
+1100100,13201,1,Miller County,County of Miller,Miller County,10,FALSE,2014
+1101101,13205,1,Mitchell County,County of Mitchell,Mitchell County,10,FALSE,2014
+1103103,13209,1,Montgomery County,County of Montgomery,Montgomery County,09,FALSE,2014
+1104104,13211,1,Morgan County,County of Morgan,Morgan County,05,FALSE,2014
+1105105,13213,1,Murray County,County of Murray,Murray County,01,FALSE,2014
+1107107,13217,1,Newton County,County of Newton,Newton County,05,FALSE,2014
+1108108,13219,1,Oconee County,County of Oconee,Oconee County,05,FALSE,2014
+1109109,13221,1,Oglethorpe County,County of Oglethorpe,Oglethorpe County,05,FALSE,2014
+1110110,13223,1,Paulding County,County of Paulding,Paulding County,01,FALSE,2014
+1111111,13225,1,Peach County,County of Peach,Peach County,06,FALSE,2014
+1112112,13227,1,Pickens County,County of Pickens,Pickens County,01,FALSE,2014
+1113113,13229,1,Pierce County,County of Pierce,Pierce County,11,FALSE,2014
+1114114,13231,1,Pike County,County of Pike,Pike County,04,FALSE,2014
+1115115,13233,1,Polk County,County of Polk,Polk County,01,FALSE,2014
+1116116,13235,1,Pulaski County,County of Pulaski,Pulaski County,06,FALSE,2014
+1117117,13237,1,Putnam County,County of Putnam,Putnam County,06,FALSE,2014
+1119119,13241,1,Rabun County,County of Rabun,Rabun County,02,FALSE,2014
+1120120,13243,1,Randolph County,County of Randolph,Randolph County,08,FALSE,2014
+1122122,13247,1,Rockdale County,County of Rockdale,Rockdale County,03,FALSE,2014
+1123123,13249,1,Schley County,County of Schley,Schley County,08,FALSE,2014
+1125125,13253,1,Seminole County,County of Seminole,Seminole County,10,FALSE,2014
+1126126,13255,1,Spalding County,County of Spalding,Spalding County,04,FALSE,2014
+1127127,13257,1,Stephens County,County of Stephens,Stephens County,02,FALSE,2014
+1128128,13259,1,Stewart County,County of Stewart,Stewart County,08,FALSE,2014
+1129129,13261,1,Sumter County,County of Sumter,Sumter County,08,FALSE,2014
+1130130,13263,1,Talbot County,County of Talbot,Talbot County,08,FALSE,2014
+1131131,13265,1,Taliaferro County,County of Taliaferro,Taliaferro County,07,FALSE,2014
+1132132,13267,1,Tattnall County,County of Tattnall,Tattnall County,09,FALSE,2014
+1133133,13269,1,Taylor County,County of Taylor,Taylor County,08,FALSE,2014
+1134134,13271,1,Telfair County,County of Telfair,Telfair County,09,FALSE,2014
+1135135,13273,1,Terrell County,County of Terrell,Terrell County,10,FALSE,2014
+1136136,13275,1,Thomas County,County of Thomas,Thomas County,10,FALSE,2014
+1137137,13277,1,Tift County,County of Tift,Tift County,11,FALSE,2014
+1138138,13279,1,Toombs County,County of Toombs,Toombs County,09,FALSE,2014
+1139139,13281,1,Towns County,County of Towns,Towns County,02,FALSE,2014
+1140140,13283,1,Treutlen County,County of Treutlen,Treutlen County,09,FALSE,2014
+1141141,13285,1,Troup County,County of Troup,Troup County,04,FALSE,2014
+1142142,13287,1,Turner County,County of Turner,Turner County,11,FALSE,2014
+1143143,13289,1,Twiggs County,County of Twiggs,Twiggs County,06,FALSE,2014
+1144144,13291,1,Union County,County of Union,Union County,02,FALSE,2014
+1145145,13293,1,Upson County,County of Upson,Upson County,04,FALSE,2014
+1146146,13295,1,Walker County,County of Walker,Walker County,01,FALSE,2014
+1147147,13297,1,Walton County,County of Walton,Walton County,05,FALSE,2014
+1148148,13299,1,Ware County,County of Ware,Ware County,11,FALSE,2014
+1149149,13301,1,Warren County,County of Warren,Warren County,07,FALSE,2014
+1150150,13303,1,Washington County,County of Washington,Washington County,07,FALSE,2014
+1151151,13305,1,Wayne County,County of Wayne,Wayne County,09,FALSE,2014
+1153153,13309,1,Wheeler County,County of Wheeler,Wheeler County,09,FALSE,2014
+1154154,13311,1,White County,County of White,White County,02,FALSE,2014
+1155155,13313,1,Whitfield County,County of Whitfield,Whitfield County,01,FALSE,2014
+1156156,13315,1,Wilcox County,County of Wilcox,Wilcox County,09,FALSE,2014
+1157157,13317,1,Wilkes County,County of Wilkes,Wilkes County,07,FALSE,2014
+1158158,13319,1,Wilkinson County,County of Wilkinson,Wilkinson County,06,FALSE,2014
+1159159,13321,1,Worth County,County of Worth,Worth County,10,FALSE,2014
+2001001,1306016,2,Baxley City,City of Baxley,Appling County,09,TRUE,2014
+2001002,1374852,2,Surrency Town,Town of Surrency,Appling County,09,FALSE,2014
+2002001,1359808,2,Pearson City,City of Pearson,Atkinson County,11,TRUE,2014
+2002002,1382972,2,Willacoochee City,City of Willacoochee,Atkinson County,11,FALSE,2014
+2003001,1301612,2,Alma City,City of Alma,Bacon County,11,TRUE,2014
+2005001,1351492,2,Milledgeville City,City of Milledgeville,Baldwin County,06,TRUE,2014
+2006001,1339720,2,Homer Town,Town of Homer,Banks County,02,TRUE,2014
+2007001,1304140,2,Auburn City,City of Auburn,Barrow County,05,FALSE,2014
+2007002,1307612,2,Bethlehem Town,Town of Bethlehem,Barrow County,05,FALSE,2014
+2007003,1313184,2,Carl Town,Town of Carl,Barrow County,05,FALSE,2014
+2007005,1373312,2,Statham City,City of Statham,Barrow County,05,FALSE,2014
+2007006,1383420,2,Winder City,City of Winder,Barrow County,05,TRUE,2014
+2008001,1300436,2,Adairsville City,City of Adairsville,Bartow County,01,FALSE,2014
+2008002,1313688,2,Cartersville City,City of Cartersville,Bartow County,01,TRUE,2014
+2008003,1327344,2,Emerson City,City of Emerson,Bartow County,01,FALSE,2014
+2008004,1343668,2,Kingston City,City of Kingston,Bartow County,01,FALSE,2014
+2008005,1375664,2,Taylorsville Town,Town of Taylorsville,Bartow County,01,FALSE,2014
+2008006,1382468,2,White City,City of White,Bartow County,01,FALSE,2014
+2008601,1327988,2,Euharlee City,City of Euharlee,Bartow County,01,FALSE,2014
+2009001,1329528,2,Fitzgerald City,City of Fitzgerald,Ben Hill County,11,TRUE,2014
+2010003,1354264,2,Nashville City,City of Nashville,Berrien County,11,TRUE,2014
+2012001,1317328,2,Cochran City,City of Cochran,Bleckley County,09,TRUE,2014
+2013001,1339216,2,Hoboken City,City of Hoboken,Brantley County,11,FALSE,2014
+2013002,1354124,2,Nahunta City,City of Nahunta,Brantley County,11,TRUE,2014
+2014001,1353032,2,Morven City,City of Morven,Brooks County,11,FALSE,2014
+2014002,1363224,2,Quitman City,City of Quitman,Brooks County,11,TRUE,2014
+2015001,1360004,2,Pembroke City,City of Pembroke,Bryan County,12,TRUE,2014
+2015801,1365044,2,Richmond Hill City,City of Richmond Hill,Bryan County,12,FALSE,2014
+2016001,1311000,2,Brooklet City,City of Brooklet,Bulloch County,12,FALSE,2014
+2016002,1362216,2,Portal Town,Town of Portal,Bulloch County,12,FALSE,2014
+2016003,1373256,2,Statesboro City,City of Statesboro,Bulloch County,12,TRUE,2014
+2016601,1364372,2,Register Town,Town of Register,Bulloch County,12,FALSE,2014
+2017001,1332916,2,Girard Town,Town of Girard,Burke County,07,FALSE,2014
+2017003,1368740,2,Sardis City,City of Sardis,Burke County,07,FALSE,2014
+2017004,1380984,2,Waynesboro City,City of Waynesboro,Burke County,07,TRUE,2014
+2018002,1341596,2,Jackson City,City of Jackson,Butts County,04,TRUE,2014
+2018003,1342156,2,Jenkinsburg Town,Town of Jenkinsburg,Butts County,04,FALSE,2014
+2019001,1326448,2,Edison City,City of Edison,Calhoun County,10,FALSE,2014
+2019002,1345600,2,Leary City,City of Leary,Calhoun County,10,FALSE,2014
+2019003,1352696,2,Morgan City,City of Morgan,Calhoun County,10,TRUE,2014
+2019004,1302928,2,Arlington City,City of Arlington,Calhoun County,10,FALSE,2014
+2020001,1343640,2,Kingsland City,City of Kingsland,Camden County,12,FALSE,2014
+2020002,1367984,2,St. Marys City,City of St. Marys,Camden County,12,FALSE,2014
+2020003,1383868,2,Woodbine City,City of Woodbine,Camden County,12,TRUE,2014
+2021001,1351072,2,Metter City,City of Metter,Candler County,09,TRUE,2014
+2021002,1363000,2,Pulaski Town,Town of Pulaski,Candler County,09,FALSE,2014
+2022001,1309544,2,Bowdon City,City of Bowdon,Carroll County,04,FALSE,2014
+2022002,1313492,2,Carrollton City,City of Carrollton,Carroll County,04,TRUE,2014
+2022003,1353620,2,Mount Zion City,City of Mount Zion,Carroll County,04,FALSE,2014
+2022005,1375832,2,Temple City,City of Temple,Carroll County,04,FALSE,2014
+2022006,1379528,2,Villa Rica City,City of Villa Rica,Carroll County,04,FALSE,2014
+2023001,1330956,2,Fort Oglethorpe City,City of Fort Oglethorpe,Catoosa County,01,FALSE,2014
+2023002,1365324,2,Ringgold City,City of Ringgold,Catoosa County,01,TRUE,2014
+2024001,1330424,2,Folkston City,City of Folkston,Charlton County,11,TRUE,2014
+2024002,1339692,2,Homeland City,City of Homeland,Charlton County,11,FALSE,2014
+2025001,1332048,2,Garden City,City of Garden City,Chatham County,12,FALSE,2014
+2025002,1362104,2,Pooler City,City of Pooler,Chatham County,12,FALSE,2014
+2025003,1369000,2,Savannah City,City of Savannah,Chatham County,12,TRUE,2014
+2025004,1378036,2,Tybee Island City,City of Tybee Island,Chatham County,12,FALSE,2014
+2025005,1376364,2,Thunderbolt Town,Town of Thunderbolt,Chatham County,12,FALSE,2014
+2025501,1362328,2,Port Wentworth City,City of Port Wentworth,Chatham County,12,FALSE,2014
+2025502,1379164,2,Vernonburg Town,Town of Vernonburg,Chatham County,12,FALSE,2014
+2025901,1308844,2,Bloomingdale City,City of Bloomingdale,Chatham County,12,FALSE,2014
+2027001,1348092,2,Lyerly Town,Town of Lyerly,Chattooga County,01,FALSE,2014
+2027002,1350848,2,Menlo City,City of Menlo,Chattooga County,01,FALSE,2014
+2027003,1374376,2,Summerville City,City of Summerville,Chattooga County,01,TRUE,2014
+2027004,1377540,2,Trion Town,Town of Trion,Chattooga County,01,FALSE,2014
+2028001,1305036,2,Ball Ground City,City of Ball Ground,Cherokee County,03,FALSE,2014
+2028002,1312988,2,Canton City,City of Canton,Cherokee County,03,TRUE,2014
+2028003,1339524,2,Holly Springs City,City of Holly Springs,Cherokee County,03,FALSE,2014
+2028004,1379948,2,Waleska City,City of Waleska,Cherokee County,03,FALSE,2014
+2028005,1384176,2,Woodstock City,City of Woodstock,Cherokee County,03,FALSE,2014
+2029002,1383728,2,Winterville City,City of Winterville,Athens-Clarke,05,FALSE,2014
+2030001,1308956,2,Bluffton Town,Town of Bluffton,Clay County,08,FALSE,2014
+2030002,1330816,2,Fort Gaines City,City of Fort Gaines,Clay County,08,TRUE,2014
+2031001,1330536,2,Forest Park City,City of Forest Park,Clayton County,03,FALSE,2014
+2031002,1342604,2,Jonesboro City,City of Jonesboro,Clayton County,03,TRUE,2014
+2031003,1344508,2,Lake City,City of Lake City,Clayton County,03,FALSE,2014
+2031004,1353004,2,Morrow City,City of Morrow,Clayton County,03,FALSE,2014
+2031006,1365464,2,Riverdale City,City of Riverdale,Clayton County,03,FALSE,2014
+2031901,1347616,2,Lovejoy City,City of Lovejoy,Clayton County,03,FALSE,2014
+2032001,1302844,2,Argyle Town,Town of Argyle,Clinch County,11,FALSE,2014
+2032002,1324796,2,DuPont Town,Town of DuPont,Clinch County,11,FALSE,2014
+2032003,1339748,2,Homerville City,City of Homerville,Clinch County,11,TRUE,2014
+2032501,1328744,2,Fargo City,City of Fargo,Clinch County,11,FALSE,2014
+2033001,1300408,2,Acworth City,City of Acworth,Cobb County,03,FALSE,2014
+2033002,1304252,2,Austell City,City of Austell,Cobb County,03,FALSE,2014
+2033003,1343192,2,Kennesaw City,City of Kennesaw,Cobb County,03,FALSE,2014
+2033004,1349756,2,Marietta City,City of Marietta,Cobb County,03,TRUE,2014
+2033005,1362524,2,Powder Springs City,City of Powder Springs,Cobb County,03,FALSE,2014
+2033006,1371492,2,Smyrna City,City of Smyrna,Cobb County,03,FALSE,2014
+2034001,1302060,2,Ambrose City,City of Ambrose,Coffee County,11,FALSE,2014
+2034002,1311504,2,Broxton City,City of Broxton,Coffee County,11,FALSE,2014
+2034003,1323872,2,Douglas City,City of Douglas,Coffee County,11,TRUE,2014
+2034004,1355440,2,Nicholls City,City of Nicholls,Coffee County,11,FALSE,2014
+2035001,1307304,2,Berlin City,City of Berlin,Colquitt County,10,FALSE,2014
+2035003,1323284,2,Doerun City,City of Doerun,Colquitt County,10,FALSE,2014
+2035004,1327008,2,Ellenton City,City of Ellenton,Colquitt County,10,FALSE,2014
+2035005,1331684,2,Funston City,City of Funston,Colquitt County,10,FALSE,2014
+2035006,1353060,2,Moultrie City,City of Moultrie,Colquitt County,10,TRUE,2014
+2035007,1355860,2,Norman Park City,City of Norman Park,Colquitt County,10,FALSE,2014
+2035008,1365604,2,Riverside Town,Town of Riverside,Colquitt County,10,FALSE,2014
+2036001,1336696,2,Harlem City,City of Harlem,Columbia County,07,TRUE,2014
+2036002,1335716,2,Grovetown City,City of Grovetown,Columbia County,07,FALSE,2014
+2037001,1300576,2,Adel City,City of Adel,Cook County,11,TRUE,2014
+2037002,1314192,2,Cecil City,City of Cecil,Cook County,11,FALSE,2014
+2037003,1345936,2,Lenox Town,Town of Lenox,Cook County,11,FALSE,2014
+2037004,1372556,2,Sparks Town,Town of Sparks,Cook County,11,FALSE,2014
+2038002,1336528,2,Haralson Town,Town of Haralson,Coweta County,04,FALSE,2014
+2038003,1352668,2,Moreland Town,Town of Moreland,Coweta County,04,FALSE,2014
+2038004,1355020,2,Newnan City,City of Newnan,Coweta County,04,TRUE,2014
+2038005,1369672,2,Senoia City,City of Senoia,Coweta County,04,FALSE,2014
+2038006,1369980,2,Sharpsburg Town,Town of Sharpsburg,Coweta County,04,FALSE,2014
+2038007,1377764,2,Turin Town,Town of Turin,Coweta County,04,FALSE,2014
+2039001,1365856,2,Roberta City,City of Roberta,Crawford County,06,TRUE,2014
+2040001,1302564,2,Arabi Town,Town of Arabi,Crisp County,08,FALSE,2014
+2040002,1319616,2,Cordele City,City of Cordele,Crisp County,08,TRUE,2014
+2041001,1377372,2,Trenton City,City of Trenton,Dade County,01,TRUE,2014
+2042001,1321940,2,Dawsonville City,City of Dawsonville,Dawson County,02,TRUE,2014
+2043001,1304084,2,Attapulgus City,City of Attapulgus,Decatur County,10,FALSE,2014
+2043002,1304896,2,Bainbridge City,City of Bainbridge,Decatur County,10,TRUE,2014
+2043003,1310608,2,Brinson Town,Town of Brinson,Decatur County,10,FALSE,2014
+2044001,1304644,2,Avondale Estates City,City of Avondale Estates,DeKalb County,03,FALSE,2014
+2044002,1315172,2,Chamblee City,City of Chamblee,DeKalb County,03,FALSE,2014
+2044003,1316544,2,Clarkston City,City of Clarkston,DeKalb County,03,FALSE,2014
+2044004,1322052,2,Decatur City,City of Decatur,DeKalb County,03,TRUE,2014
+2044005,1323536,2,Doraville City,City of Doraville,DeKalb County,03,FALSE,2014
+2044006,1346860,2,Lithonia City,City of Lithonia,DeKalb County,03,FALSE,2014
+2044008,1361040,2,Pine Lake City,City of Pine Lake,DeKalb County,03,FALSE,2014
+2044009,1373816,2,Stone Mountain City,City of Stone Mountain,DeKalb County,03,FALSE,2014
+2044010,1324768,2,Dunwoody City,City of Dunwoody,DeKalb County,03,FALSE,2014
+2045001,1315648,2,Chauncey City,City of Chauncey,Dodge County,09,FALSE,2014
+2045002,1315900,2,Chester Town,Town of Chester,Dodge County,09,FALSE,2014
+2045003,1325552,2,Eastman City,City of Eastman,Dodge County,09,TRUE,2014
+2045004,1364932,2,Rhine Town,Town of Rhine,Dodge County,09,FALSE,2014
+2046001,1312232,2,Byromville Town,Town of Byromville,Dooly County,08,FALSE,2014
+2046002,1346384,2,Lilly City,City of Lilly,Dooly County,08,FALSE,2014
+2046003,1360984,2,Pinehurst City,City of Pinehurst,Dooly County,08,FALSE,2014
+2046005,1379444,2,Vienna City,City of Vienna,Dooly County,08,TRUE,2014
+2046501,1323480,2,Dooling Town,Town of Dooling,Dooly County,08,FALSE,2014
+2047001,1301052,2,Albany City,City of Albany,Dougherty County,10,TRUE,2014
+2048001,1323900,2,Douglasville City,City of Douglasville,Douglas County,03,TRUE,2014
+2049001,1308536,2,Blakely City,City of Blakely,Early County,10,TRUE,2014
+2049003,1341792,2,Jakin City,City of Jakin,Early County,10,FALSE,2014
+2051001,1335884,2,Guyton City,City of Guyton,Effingham County,12,FALSE,2014
+2051002,1365296,2,Rincon City,City of Rincon,Effingham County,12,FALSE,2014
+2051003,1372780,2,Springfield City,City of Springfield,Effingham County,12,TRUE,2014
+2052001,1309712,2,Bowman City,City of Bowman,Elbert County,05,FALSE,2014
+2052002,1326616,2,Elberton City,City of Elberton,Elbert County,05,TRUE,2014
+2053001,1332188,2,Garfield City,City of Garfield,Emanuel County,09,FALSE,2014
+2053002,1356644,2,Nunez City,City of Nunez,Emanuel County,09,FALSE,2014
+2053005,1374964,2,Swainsboro City,City of Swainsboro,Emanuel County,09,TRUE,2014
+2053801,1374348,2,Summertown City,City of Summertown,Emanuel County,09,FALSE,2014
+2054001,1316600,2,Claxton City,City of Claxton,Evans County,09,TRUE,2014
+2054002,1336024,2,Hagan City,City of Hagan,Evans County,09,FALSE,2014
+2054701,1306688,2,Bellville City,City of Bellville,Evans County,09,FALSE,2014
+2054801,1321268,2,Daisy City,City of Daisy,Evans County,09,FALSE,2014
+2055001,1308928,2,Blue Ridge City,City of Blue Ridge,Fannin County,01,TRUE,2014
+2055002,1348428,2,McCaysville City,City of McCaysville,Fannin County,01,FALSE,2014
+2056001,1328968,2,Fayetteville City,City of Fayetteville,Fayette County,03,TRUE,2014
+2056002,1378044,2,Tyrone Town,Town of Tyrone,Fayette County,03,FALSE,2014
+2056501,1311056,2,Brooks Town,Town of Brooks,Fayette County,03,FALSE,2014
+2056701,1359724,2,Peachtree City,City of Peachtree City,Fayette County,03,FALSE,2014
+2056901,1384288,2,Woolsey Town,Town of Woolsey,Fayette County,03,FALSE,2014
+2057001,1314108,2,Cave Spring City,City of Cave Spring,Floyd County,01,FALSE,2014
+2057002,1366668,2,Rome City,City of Rome,Floyd County,01,TRUE,2014
+2058001,1320932,2,Cumming City,City of Cumming,Forsyth County,02,TRUE,2014
+2059001,1312932,2,Canon City,City of Canon,Franklin County,02,FALSE,2014
+2059002,1313352,2,Carnesville City,City of Carnesville,Franklin County,02,TRUE,2014
+2059003,1331320,2,Franklin Springs City,City of Franklin Springs,Franklin County,02,FALSE,2014
+2059004,1345460,2,Lavonia City,City of Lavonia,Franklin County,02,FALSE,2014
+2059005,1367452,2,Royston City,City of Royston,Franklin County,02,FALSE,2014
+2060001,1301696,2,Alpharetta City,City of Alpharetta,Fulton County,03,FALSE,2014
+2060002,1304000,2,Atlanta City,City of Atlanta,Fulton County,03,TRUE,2014
+2060003,1317776,2,College Park City,City of College Park,Fulton County,03,FALSE,2014
+2060004,1325720,2,East Point City,City of East Point,Fulton County,03,FALSE,2014
+2060005,1328380,2,Fairburn City,City of Fairburn,Fulton County,03,FALSE,2014
+2060006,1336472,2,Hapeville City,City of Hapeville,Fulton County,03,FALSE,2014
+2060007,1353172,2,Mountain Park City,City of Mountain Park,Fulton County,03,FALSE,2014
+2060008,1358884,2,Palmetto City,City of Palmetto,Fulton County,03,FALSE,2014
+2060009,1367284,2,Roswell City,City of Roswell,Fulton County,03,FALSE,2014
+2060010,1378324,2,Union City,City of Union City,Fulton County,03,FALSE,2014
+2060501,1368516,2,Sandy Springs City,City of Sandy Springs,Fulton County,03,FALSE,2014
+2060502,1342425,2,Johns Creek City,City of Johns Creek,Fulton County,03,FALSE,2014
+2060503,1351670,2,Milton City,City of Milton,Fulton County,03,FALSE,2014
+2060504,1315552,2,Chattahoochee Hills City,City of Chattahoochee Hills,Fulton County,03,FALSE,2014
+2061001,1325356,2,East Ellijay City,City of East Ellijay,Gilmer County,01,FALSE,2014
+2061002,1327092,2,Ellijay City,City of Ellijay,Gilmer County,01,TRUE,2014
+2062001,1326224,2,Edgehill City,City of Edgehill,Glascock County,07,FALSE,2014
+2062002,1332748,2,Gibson City,City of Gibson,Glascock County,07,TRUE,2014
+2062003,1351968,2,Mitchell Town,Town of Mitchell,Glascock County,07,FALSE,2014
+2063001,1311560,2,Brunswick City,City of Brunswick,Glynn County,12,TRUE,2014
+2064001,1312456,2,Calhoun City,City of Calhoun,Gordon County,01,TRUE,2014
+2064002,1328492,2,Fairmount City,City of Fairmount,Gordon County,01,FALSE,2014
+2064601,1364736,2,Resaca Town,Town of Resaca,Gordon County,01,FALSE,2014
+2065001,1312400,2,Cairo City,City of Cairo,Grady County,10,TRUE,2014
+2065002,1382412,2,Whigham City,City of Whigham,Grady County,10,FALSE,2014
+2066001,1334876,2,Greensboro City,City of Greensboro,Greene County,05,TRUE,2014
+2066002,1370932,2,Siloam Town,Town of Siloam,Greene County,05,FALSE,2014
+2066003,1378380,2,Union Point City,City of Union Point,Greene County,05,FALSE,2014
+2066004,1382692,2,White Plains City,City of White Plains,Greene County,05,FALSE,2014
+2066005,1384260,2,Woodville City,City of Woodville,Greene County,05,FALSE,2014
+2067002,1311784,2,Buford City,City of Buford,Gwinnett County,03,FALSE,2014
+2067003,1321184,2,Dacula City,City of Dacula,Gwinnett County,03,FALSE,2014
+2067004,1324600,2,Duluth City,City of Duluth,Gwinnett County,03,FALSE,2014
+2067005,1345488,2,Lawrenceville City,City of Lawrenceville,Gwinnett County,03,TRUE,2014
+2067006,1346356,2,Lilburn City,City of Lilburn,Gwinnett County,03,FALSE,2014
+2067007,1355776,2,Norcross City,City of Norcross,Gwinnett County,03,FALSE,2014
+2067008,1364792,2,Rest Haven City,City of Rest Haven,Gwinnett County,03,FALSE,2014
+2067009,1371604,2,Snellville City,City of Snellville,Gwinnett County,03,FALSE,2014
+2067010,1374180,2,Sugar Hill City,City of Sugar Hill,Gwinnett County,03,FALSE,2014
+2067011,1374936,2,Suwanee City,City of Suwanee,Gwinnett County,03,FALSE,2014
+2067501,1334596,2,Grayson City,City of Grayson,Gwinnett County,03,FALSE,2014
+2067502,1359735,2,Peachtree Corners City,City of Peachtree Corners,Gwinnett County,03,FALSE,2014
+2068002,1304980,2,Baldwin City,City of Baldwin,Habersham County,02,FALSE,2014
+2068003,1316460,2,Clarkesville City,City of Clarkesville,Habersham County,02,TRUE,2014
+2068004,1319728,2,Cornelia City,City of Cornelia,Habersham County,02,FALSE,2014
+2068005,1322304,2,Demorest City,City of Demorest,Habersham County,02,FALSE,2014
+2068006,1353284,2,Mount Airy Town,Town of Mount Airy,Habersham County,02,FALSE,2014
+2068501,1375328,2,Tallulah Falls Town,Town of Tallulah Falls,Habersham County,02,FALSE,2014
+2069001,1316796,2,Clermont Town,Town of Clermont,Hall County,02,FALSE,2014
+2069002,1330340,2,Flowery Branch City,City of Flowery Branch,Hall County,02,FALSE,2014
+2069003,1331908,2,Gainesville City,City of Gainesville,Hall County,02,TRUE,2014
+2069004,1332860,2,Gillsville City,City of Gillsville,Hall County,02,FALSE,2014
+2069005,1347896,2,Lula City,City of Lula,Hall County,02,FALSE,2014
+2069006,1357260,2,Oakwood City,City of Oakwood,Hall County,02,FALSE,2014
+2070001,1372584,2,Sparta City,City of Sparta,Hancock County,07,TRUE,2014
+2071001,1310132,2,Bremen City,City of Bremen,Haralson County,01,FALSE,2014
+2071002,1311616,2,Buchanan City,City of Buchanan,Haralson County,01,TRUE,2014
+2071003,1375300,2,Tallapoosa City,City of Tallapoosa,Haralson County,01,FALSE,2014
+2071004,1379808,2,Waco Town,Town of Waco,Haralson County,01,FALSE,2014
+2072002,1336220,2,Hamilton City,City of Hamilton,Harris County,08,TRUE,2014
+2072003,1380844,2,Waverly Hall Town,Town of Waverly Hall,Harris County,08,FALSE,2014
+2072501,1361124,2,Pine Mountain Town,Town of Pine Mountain,Harris County,08,FALSE,2014
+2072502,1370428,2,Shiloh City,City of Shiloh,Harris County,08,FALSE,2014
+2073001,1309656,2,Bowersville Town,Town of Bowersville,Hart County,02,FALSE,2014
+2073002,1337144,2,Hartwell City,City of Hartwell,Hart County,02,TRUE,2014
+2074001,1315026,2,Centralhatchee Town,Town of Centralhatchee,Heard County,04,FALSE,2014
+2074003,1331292,2,Franklin City,City of Franklin,Heard County,04,TRUE,2014
+2074801,1327708,2,Ephesus City,City of Ephesus,Heard County,04,FALSE,2014
+2075001,1336276,2,Hampton City,City of Hampton,Henry County,03,FALSE,2014
+2075002,1347140,2,Locust Grove City,City of Locust Grove,Henry County,03,FALSE,2014
+2075004,1373704,2,Stockbridge City,City of Stockbridge,Henry County,03,FALSE,2014
+2076001,1360340,2,Perry City,City of Perry,Houston County,06,TRUE,2014
+2076002,1380508,2,Warner Robins City,City of Warner Robins,Houston County,06,FALSE,2014
+2076501,1314920,2,Centerville Town,Town of Centerville,Houston County,06,FALSE,2014
+2077001,1357428,2,Ocilla City,City of Ocilla,Irwin County,11,TRUE,2014
+2078001,1302648,2,Arcade Town,Town of Arcade,Jackson County,05,FALSE,2014
+2078002,1310076,2,Braselton Town,Town of Braselton,Jackson County,05,FALSE,2014
+2078003,1319112,2,Commerce City,City of Commerce,Jackson County,05,FALSE,2014
+2078005,1341988,2,Jefferson City,City of Jefferson,Jackson County,05,TRUE,2014
+2078006,1360032,2,Pendergrass Town,Town of Pendergrass,Jackson County,05,FALSE,2014
+2078007,1375412,2,Talmo Town,Town of Talmo,Jackson County,05,FALSE,2014
+2079001,1352416,2,Monticello City,City of Monticello,Jasper County,05,TRUE,2014
+2079002,1369784,2,Shady Dale City,City of Shady Dale,Jasper County,05,FALSE,2014
+2080001,1337564,2,Hazlehurst City,City of Hazlehurst,Jeff Davis County,09,TRUE,2014
+2080701,1322388,2,Denton City,City of Denton,Jeff Davis County,09,FALSE,2014
+2081001,1304448,2,Avera City,City of Avera,Jefferson County,07,FALSE,2014
+2081002,1305680,2,Bartow Town,Town of Bartow,Jefferson County,07,FALSE,2014
+2081003,1347560,2,Louisville City,City of Louisville,Jefferson County,07,TRUE,2014
+2081004,1373004,2,Stapleton City,City of Stapleton,Jefferson County,07,FALSE,2014
+2081007,1384456,2,Wrens City,City of Wrens,Jefferson County,07,FALSE,2014
+2082001,1351520,2,Millen City,City of Millen,Jenkins County,07,TRUE,2014
+2083001,1300660,2,Adrian City,City of Adrian,Johnson County,09,FALSE,2014
+2083002,1343892,2,Kite City,City of Kite,Johnson County,09,FALSE,2014
+2083003,1384512,2,Wrightsville City,City of Wrightsville,Johnson County,09,TRUE,2014
+2084001,1334512,2,Gray City,City of Gray,Jones County,06,TRUE,2014
+2085001,1301248,2,Aldora Town,Town of Aldora,Lamar County,04,FALSE,2014
+2085002,1305344,2,Barnesville City,City of Barnesville,Lamar County,04,TRUE,2014
+2086001,1344592,2,Lakeland City,City of Lakeland,Lanier County,11,TRUE,2014
+2087001,1312344,2,Cadwell Town,Town of Cadwell,Laurens County,09,FALSE,2014
+2087002,1322752,2,Dexter Town,Town of Dexter,Laurens County,09,FALSE,2014
+2087003,1324376,2,Dublin City,City of Dublin,Laurens County,09,TRUE,2014
+2087004,1324488,2,Dudley City,City of Dudley,Laurens County,09,FALSE,2014
+2087005,1325300,2,East Dublin City,City of East Dublin,Laurens County,09,FALSE,2014
+2087007,1364680,2,Rentz City,City of Rentz,Laurens County,09,FALSE,2014
+2088001,1345768,2,Leesburg City,City of Leesburg,Lee County,10,TRUE,2014
+2088002,1371464,2,Smithville City,City of Smithville,Lee County,10,FALSE,2014
+2089001,1338964,2,Hinesville City,City of Hinesville,Liberty County,12,TRUE,2014
+2089501,1330088,2,Flemington City,City of Flemington,Liberty County,12,FALSE,2014
+2089502,1364960,2,Riceboro City,City of Riceboro,Liberty County,12,FALSE,2014
+2089601,1335800,2,Gum Branch City,City of Gum Branch,Liberty County,12,FALSE,2014
+2089801,1301472,2,Allenhurst City,City of Allenhurst,Liberty County,12,FALSE,2014
+2089901,1380256,2,Walthourville City,City of Walthourville,Liberty County,12,FALSE,2014
+2090001,1346552,2,Lincolnton City,City of Lincolnton,Lincoln County,07,TRUE,2014
+2091001,1347784,2,Ludowici City,City of Ludowici,Long County,12,TRUE,2014
+2092001,1336052,2,Hahira City,City of Hahira,Lowndes County,11,FALSE,2014
+2092002,1344704,2,Lake Park City,City of Lake Park,Lowndes County,11,FALSE,2014
+2092003,1364596,2,Remerton City,City of Remerton,Lowndes County,11,FALSE,2014
+2092004,1378800,2,Valdosta City,City of Valdosta,Lowndes County,11,TRUE,2014
+2093001,1321240,2,Dahlonega City,City of Dahlonega,Lumpkin County,02,TRUE,2014
+2094001,1322024,2,Dearing Town,Town of Dearing,McDuffie County,07,FALSE,2014
+2094002,1376280,2,Thomson City,City of Thomson,McDuffie County,07,TRUE,2014
+2095001,1321716,2,Darien City,City of Darien,McIntosh County,12,TRUE,2014
+2096001,1340812,2,Ideal City,City of Ideal,Macon County,08,FALSE,2014
+2096002,1349924,2,Marshallville City,City of Marshallville,Macon County,08,FALSE,2014
+2096003,1352304,2,Montezuma City,City of Montezuma,Macon County,08,FALSE,2014
+2096004,1357736,2,Oglethorpe City,City of Oglethorpe,Macon County,08,TRUE,2014
+2097001,1313212,2,Carlton City,City of Carlton,Madison County,05,FALSE,2014
+2097002,1317552,2,Colbert City,City of Colbert,Madison County,05,FALSE,2014
+2097003,1319084,2,Comer City,City of Comer,Madison County,05,FALSE,2014
+2097006,1340840,2,Ila City,City of Ila,Madison County,05,FALSE,2014
+2098001,1311728,2,Buena Vista City,City of Buena Vista,Marion County,08,TRUE,2014
+2099001,1332384,2,Gay Town,Town of Gay,Meriwether County,04,FALSE,2014
+2099002,1335016,2,Greenville City,City of Greenville,Meriwether County,04,TRUE,2014
+2099003,1347252,2,Lone Oak Town,Town of Lone Oak,Meriwether County,04,FALSE,2014
+2099004,1348008,2,Luthersville Town,Town of Luthersville,Meriwether County,04,FALSE,2014
+2099005,1349532,2,Manchester City,City of Manchester,Meriwether County,04,FALSE,2014
+2099006,1380480,2,Warm Springs City,City of Warm Springs,Meriwether County,04,FALSE,2014
+2099007,1383896,2,Woodbury City,City of Woodbury,Meriwether County,04,FALSE,2014
+2100002,1318000,2,Colquitt City,City of Colquitt,Miller County,10,TRUE,2014
+2101001,1304840,2,Baconton City,City of Baconton,Mitchell County,10,FALSE,2014
+2101002,1312624,2,Camilla City,City of Camilla,Mitchell County,10,TRUE,2014
+2101003,1359976,2,Pelham City,City of Pelham,Mitchell County,10,FALSE,2014
+2102002,1330732,2,Forsyth City,City of Forsyth,Monroe County,06,TRUE,2014
+2103001,1300828,2,Ailey City,City of Ailey,Montgomery County,09,FALSE,2014
+2103002,1301808,2,Alston Town,Town of Alston,Montgomery County,09,FALSE,2014
+2103701,1338348,2,Higgston Town,Town of Higgston,Montgomery County,09,FALSE,2014
+2104001,1309488,2,Bostwick City,City of Bostwick,Morgan County,05,FALSE,2014
+2104002,1311672,2,Buckhead Town,Town of Buckhead,Morgan County,05,FALSE,2014
+2104003,1349196,2,Madison City,City of Madison,Morgan County,05,TRUE,2014
+2104004,1367760,2,Rutledge City,City of Rutledge,Morgan County,05,FALSE,2014
+2105001,1315508,2,Chatsworth City,City of Chatsworth,Murray County,01,TRUE,2014
+2105003,1327932,2,Eton City,City of Eton,Murray County,01,FALSE,2014
+2107001,1320064,2,Covington City,City of Covington,Newton County,05,TRUE,2014
+2107003,1354656,2,Newborn Town,Town of Newborn,Newton County,05,FALSE,2014
+2107004,1358744,2,Oxford City,City of Oxford,Newton County,05,FALSE,2014
+2108001,1308200,2,Bishop Town,Town of Bishop,Oconee County,05,FALSE,2014
+2108002,1309068,2,Bogart City,City of Bogart,Oconee County,05,FALSE,2014
+2108005,1356308,2,North High Shoals Town,Town of North High Shoals,Oconee County,05,FALSE,2014
+2108006,1380788,2,Watkinsville City,City of Watkinsville,Oconee County,05,TRUE,2014
+2109002,1346188,2,Lexington City,City of Lexington,Oglethorpe County,05,TRUE,2014
+2109801,1303124,2,Arnoldsville City,City of Arnoldsville,Oglethorpe County,05,FALSE,2014
+2110001,1321324,2,Dallas City,City of Dallas,Paulding County,01,TRUE,2014
+2110002,1339076,2,Hiram City,City of Hiram,Paulding County,01,FALSE,2014
+2111001,1312260,2,Byron City,City of Byron,Peach County,06,FALSE,2014
+2111002,1331096,2,Fort Valley City,City of Fort Valley,Peach County,06,TRUE,2014
+2112001,1341932,2,Jasper City,City of Jasper,Pickens County,01,TRUE,2014
+2112002,1354572,2,Nelson City,City of Nelson,Pickens County,01,FALSE,2014
+2113001,1308284,2,Blackshear City,City of Blackshear,Pierce County,11,TRUE,2014
+2113002,1359500,2,Patterson City,City of Patterson,Pierce County,11,FALSE,2014
+2113501,1357568,2,Offerman City,City of Offerman,Pierce County,11,FALSE,2014
+2114001,1319168,2,Concord City,City of Concord,Pike County,04,FALSE,2014
+2114002,1350596,2,Meansville City,City of Meansville,Pike County,04,FALSE,2014
+2114003,1352108,2,Molena City,City of Molena,Pike County,04,FALSE,2014
+2114004,1383084,2,Williamson City,City of Williamson,Pike County,04,FALSE,2014
+2114005,1385128,2,Zebulon City,City of Zebulon,Pike County,04,TRUE,2014
+2115001,1366276,2,Rockmart City,City of Rockmart,Polk County,01,FALSE,2014
+2116001,1337396,2,Hawkinsville City,City of Hawkinsville,Pulaski County,06,TRUE,2014
+2117001,1326084,2,Eatonton City,City of Eatonton,Putnam County,06,TRUE,2014
+2119001,1316656,2,Clayton City,City of Clayton,Rabun County,02,TRUE,2014
+2119002,1322976,2,Dillard City,City of Dillard,Rabun County,02,FALSE,2014
+2119003,1353116,2,Mountain City,Town of Mountain City,Rabun County,02,FALSE,2014
+2119005,1376504,2,Tiger Town,Town of Tiger,Rabun County,02,FALSE,2014
+2119601,1371282,2,Sky Valley City,City of Sky Valley,Rabun County,02,FALSE,2014
+2120003,1321072,2,Cuthbert City,City of Cuthbert,Randolph County,08,TRUE,2014
+2120004,1370120,2,Shellman City,City of Shellman,Randolph County,08,FALSE,2014
+2121002,1309040,2,Blythe Town,Town of Blythe,Augusta/Richmond,07,FALSE,2014
+2121003,1338040,2,Hephzibah City,City of Hephzibah,Augusta/Richmond,07,FALSE,2014
+2122001,1319336,2,Conyers City,City of Conyers,Rockdale County,03,TRUE,2014
+2124001,1338920,2,Hiltonia City,City of Hiltonia,Screven County,12,FALSE,2014
+2124002,1354992,2,Newington Town,Town of Newington,Screven County,12,FALSE,2014
+2124003,1366444,2,Rocky Ford City,City of Rocky Ford,Screven County,12,FALSE,2014
+2124004,1375160,2,Sylvania City,City of Sylvania,Screven County,12,TRUE,2014
+2124501,1358100,2,Oliver City,City of Oliver,Screven County,12,FALSE,2014
+2125001,1323368,2,Donalsonville City,City of Donalsonville,Seminole County,10,TRUE,2014
+2125002,1341344,2,Iron City,Town of Iron City,Seminole County,10,FALSE,2014
+2126001,1335324,2,Griffin City,City of Griffin,Spalding County,04,TRUE,2014
+2126003,1374572,2,Sunny Side City,City of Sunny Side,Spalding County,04,FALSE,2014
+2126901,1358296,2,Orchard Hill Town,Town of Orchard Hill,Spalding County,04,FALSE,2014
+2127001,1350008,2,Martin Town,Town of Martin,Stephens County,02,FALSE,2014
+2127002,1376756,2,Toccoa City,City of Toccoa,Stephens County,02,TRUE,2014
+2128002,1365016,2,Richland City,City of Richland,Stewart County,08,FALSE,2014
+2129001,1302116,2,Americus City,City of Americus,Sumter County,08,TRUE,2014
+2129004,1346020,2,Leslie City,City of Leslie,Sumter County,08,FALSE,2014
+2129005,1361628,2,Plains City,City of Plains,Sumter County,08,FALSE,2014
+2130001,1332412,2,Geneva Town,Town of Geneva,Talbot County,08,FALSE,2014
+2131001,1320316,2,Crawfordville City,City of Crawfordville,Taliaferro County,07,TRUE,2014
+2131002,1369896,2,Sharon City,City of Sharon,Taliaferro County,07,FALSE,2014
+2132001,1317272,2,Cobbtown City,City of Cobbtown,Tattnall County,09,FALSE,2014
+2132002,1317832,2,Collins City,City of Collins,Tattnall County,09,FALSE,2014
+2132003,1333336,2,Glennville City,City of Glennville,Tattnall County,09,FALSE,2014
+2132004,1349504,2,Manassas City,City of Manassas,Tattnall County,09,FALSE,2014
+2132005,1364512,2,Reidsville City,City of Reidsville,Tattnall County,09,TRUE,2014
+2133001,1312120,2,Butler City,City of Butler,Taylor County,08,TRUE,2014
+2133002,1364876,2,Reynolds City,City of Reynolds,Taylor County,08,FALSE,2014
+2134001,1337816,2,Helena City,City of Helena,Telfair County,09,FALSE,2014
+2134002,1341708,2,Jacksonville City,City of Jacksonville,Telfair County,09,FALSE,2014
+2134003,1347952,2,Lumber City,City of Lumber City,Telfair County,09,FALSE,2014
+2134004,1349084,2,McRae City,City of McRae,Telfair County,09,TRUE,2014
+2134005,1351408,2,Milan City,City of Milan,Telfair County,09,FALSE,2014
+2134006,1369336,2,Scotland City,City of Scotland,Telfair County,09,FALSE,2014
+2135001,1310860,2,Bronwood City,City of Bronwood,Terrell County,10,FALSE,2014
+2135002,1321912,2,Dawson City,City of Dawson,Terrell County,10,TRUE,2014
+2135003,1359416,2,Parrott Town,Town of Parrott,Terrell County,10,FALSE,2014
+2136001,1305708,2,Barwick City,City of Barwick,Thomas County,10,FALSE,2014
+2136002,1309460,2,Boston City,City of Boston,Thomas County,10,FALSE,2014
+2136003,1319392,2,Coolidge City,City of Coolidge,Thomas County,10,FALSE,2014
+2136004,1350680,2,Meigs City,City of Meigs,Thomas County,10,FALSE,2014
+2136005,1357372,2,Ochlocknee Town,Town of Ochlocknee,Thomas County,10,FALSE,2014
+2136006,1359556,2,Pavo City,City of Pavo,Thomas County,10,FALSE,2014
+2136007,1376224,2,Thomasville City,City of Thomasville,Thomas County,10,TRUE,2014
+2137001,1358184,2,Omega City,City of Omega,Tift County,11,FALSE,2014
+2137002,1376476,2,Tifton City,City of Tifton,Tift County,11,TRUE,2014
+2137003,1378100,2,Ty Ty City,City of Ty Ty,Tift County,11,FALSE,2014
+2138001,1348232,2,Lyons City,City of Lyons,Toombs County,09,TRUE,2014
+2138002,1379388,2,Vidalia City,City of Vidalia,Toombs County,09,FALSE,2014
+2139001,1338124,2,Hiawassee City,City of Hiawassee,Towns County,02,TRUE,2014
+2139002,1384960,2,Young Harris City,City of Young Harris,Towns County,02,FALSE,2014
+2140001,1371772,2,Soperton City,City of Soperton,Treutlen County,09,TRUE,2014
+2141001,1339244,2,Hogansville City,City of Hogansville,Troup County,04,FALSE,2014
+2141002,1344340,2,LaGrange City,City of LaGrange,Troup County,04,TRUE,2014
+2141003,1382132,2,West Point City,City of West Point,Troup County,04,FALSE,2014
+2142001,1303236,2,Ashburn City,City of Ashburn,Turner County,11,TRUE,2014
+2142002,1363840,2,Rebecca Town,Town of Rebecca,Turner County,11,FALSE,2014
+2142003,1375104,2,Sycamore City,City of Sycamore,Turner County,11,FALSE,2014
+2143001,1342100,2,Jeffersonville City,City of Jeffersonville,Twiggs County,06,TRUE,2014
+2144001,1308480,2,Blairsville City,City of Blairsville,Union County,02,TRUE,2014
+2145004,1376168,2,Thomaston City,City of Thomaston,Upson County,04,TRUE,2014
+2145005,1384708,2,Yatesville Town,Town of Yatesville,Upson County,04,FALSE,2014
+2146001,1315984,2,Chickamauga City,City of Chickamauga,Walker County,01,FALSE,2014
+2146002,1344312,2,LaFayette City,City of LaFayette,Walker County,01,TRUE,2014
+2146004,1367256,2,Rossville City,City of Rossville,Walker County,01,FALSE,2014
+2146801,1347336,2,Lookout Mountain City,City of Lookout Mountain,Walker County,01,FALSE,2014
+2147001,1333896,2,Good Hope City,City of Good Hope,Walton County,05,FALSE,2014
+2147002,1342184,2,Jersey City,City of Jersey,Walton County,05,FALSE,2014
+2147003,1352192,2,Monroe City,City of Monroe,Walton County,05,TRUE,2014
+2147004,1371660,2,Social Circle City,City of Social Circle,Walton County,05,FALSE,2014
+2147005,1347196,2,Loganville City,City of Loganville,Walton County,05,FALSE,2014
+2147504,1380228,2,Walnut Grove City,City of Walnut Grove,Walton County,05,FALSE,2014
+2147901,1307640,2,Between Town,Town of Between,Walton County,05,FALSE,2014
+2148001,1380956,2,Waycross City,City of Waycross,Ware County,11,TRUE,2014
+2149001,1312512,2,Camak Town,Town of Camak,Warren County,07,FALSE,2014
+2149002,1356560,2,Norwood City,City of Norwood,Warren County,07,FALSE,2014
+2149003,1380592,2,Warrenton City,City of Warrenton,Warren County,07,TRUE,2014
+2150001,1321800,2,Davisboro City,City of Davisboro,Washington County,07,FALSE,2014
+2150002,1336920,2,Harrison Town,Town of Harrison,Washington County,07,FALSE,2014
+2150003,1365156,2,Riddleville Town,Town of Riddleville,Washington County,07,FALSE,2014
+2150004,1368208,2,Sandersville City,City of Sandersville,Washington County,07,TRUE,2014
+2150005,1375888,2,Tennille City,City of Tennille,Washington County,07,FALSE,2014
+2150501,1322108,2,Deepstep Town,Town of Deepstep,Washington County,07,FALSE,2014
+2150801,1357456,2,Oconee City,City of Oconee,Washington County,07,FALSE,2014
+2151001,1342268,2,Jesup City,City of Jesup,Wayne County,09,TRUE,2014
+2151002,1357540,2,Odum City,City of Odum,Wayne County,09,FALSE,2014
+2153001,1300996,2,Alamo Town,Town of Alamo,Wheeler County,09,TRUE,2014
+2153002,1333392,2,Glenwood City,City of Glenwood,Wheeler County,09,FALSE,2014
+2154001,1316824,2,Cleveland City,City of Cleveland,White County,02,TRUE,2014
+2154002,1337788,2,Helen City,City of Helen,White County,02,FALSE,2014
+2155001,1321380,2,Dalton City,City of Dalton,Whitfield County,01,TRUE,2014
+2155801,1317496,2,Cohutta Town,Town of Cohutta,Whitfield County,01,FALSE,2014
+2155803,1378996,2,Varnell City,City of Varnell,Whitfield County,01,FALSE,2014
+2156002,1361320,2,Pineview Town,Town of Pineview,Wilcox County,09,FALSE,2014
+2157002,1380704,2,Washington City,City of Washington,Wilkes County,07,TRUE,2014
+2157801,1363756,2,Rayle Town,Town of Rayle,Wilkes County,07,FALSE,2014
+2158001,1301500,2,Allentown City,City of Allentown,Wilkinson County,06,FALSE,2014
+2158002,1321688,2,Danville Town,Town of Danville,Wilkinson County,06,FALSE,2014
+2158003,1333980,2,Gordon City,City of Gordon,Wilkinson County,06,FALSE,2014
+2158004,1341400,2,Irwinton City,City of Irwinton,Wilkinson County,06,TRUE,2014
+2158005,1341540,2,Ivey City,City of Ivey,Wilkinson County,06,FALSE,2014
+2158006,1348848,2,McIntyre Town,Town of McIntyre,Wilkinson County,06,FALSE,2014
+2158007,1376952,2,Toomsboro City,City of Toomsboro,Wilkinson County,06,FALSE,2014
+2159001,1362496,2,Poulan City,City of Poulan,Worth County,10,FALSE,2014
+2159003,1375188,2,Sylvester City,City of Sylvester,Worth County,10,TRUE,2014
+2159004,1380676,2,Warwick City,City of Warwick,Worth County,10,FALSE,2014
+3011011,13021,3,Macon-Bibb County,Consolidated Government of Macon-Bibb,Macon-Bibb County,06,FALSE,2014
+3026026,13053,3,Cusseta-Chattahoochee CG,Consolidated Government of Cusseta-Chattahoochee,Cusseta-Chattahooche,08,TRUE,2014
+3029029,13059,3,Athens-Clarke CG,Consolidated Government of Athens-Clarke,Athens-Clarke CG,05,TRUE,2014
+3050050,13101,3,Echols County CG,Consolidated Government of Echols,Echols County CG,11,TRUE,2014
+3106002,13215,3,Columbus/Muscogee CG,Consolidated Government of Columbus/Muscogee,Columbus/Muscogee CG,08,TRUE,2014
+3118118,13239,3,Georgetown-Quitman CG,Consolidated Government of Georgetown-Quitman,Georgetown-Quitman C,08,TRUE,2014
+3121121,13245,3,Augusta/Richmond CG,Consolidated Government of Augusta/Richmond,Augusta/Richmond CG,07,TRUE,2014
+3152152,13307,3,Webster County Unified,Unified Government of Webster County,Webster County Unifi,08,FALSE,2014

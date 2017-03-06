@@ -1,0 +1,991 @@
+,Unnamed: 0,Name,Title,Year,Org.Name,Link,Type,find_address,lat,lon
+0,1,Gene Tomberlin,Mayor,2011,Abbeville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00184,City,"Abbeville City, GA",31.9921223,-83.3068243
+13,15,Kasim Reed,Mayor,2011,Atlanta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04000,City,"Atlanta City, GA",33.7489954,-84.3879824
+48,52,Patricia Cole,Mayor,2011,Blythe City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09040,City,"Blythe City, GA",33.2926427,-82.2015103
+60,66,Brenda Cooper,Mayor,2011,Camak City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12512,City,"Camak City, GA",33.4534709,-82.6459668
+69,75,James Nix,Mayor,2011,Clermont City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16796,City,"Clermont City, GA",34.4778752,-83.7735148
+78,84,Thomas Allegood,Mayor,2011,Acworth City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00408,City,"Acworth City, GA",34.0659329,-84.6768796
+97,103,Johnny Medley,Mayor,2011,Attapulgus City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04084,City,"Attapulgus City, GA",30.7490815,-84.4837998
+107,116,Teresa Glenn,Mayor,2011,Bogart City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09068,City,"Bogart City, GA",33.949281,-83.53460799999999
+116,127,Mary Jo Haywood,Mayor,2011,Camilla City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12624,City,"Camilla City, GA",31.2312933,-84.21046109999999
+137,151,Donald Stanley,Mayor,2011,Cleveland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16824,City,"Cleveland City, GA",34.5970402,-83.7632366
+153,171,Evan King,Mayor,2011,Adairsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00436,City,"Adairsville City, GA",34.3687021,-84.9341093
+170,188,Linda Blechinger,Mayor,2011,Auburn City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04140,City,"Auburn City, GA",34.0137179,-83.8276759
+188,208,Danny Groover,Mayor,2011,Boston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09460,City,"Boston City, GA",30.7918613,-83.78988679999999
+200,221,Ray Morgan,Mayor,2011,Canon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12932,City,"Canon City, GA",34.3462158,-83.1098717
+212,238,Charles Hadsock,Mayor,2011,Climax City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16908,City,"Climax City, GA",30.8760231,-84.4312983
+223,250,Richard Barr,Mayor,2011,Adel City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00576,City,"Adel City, GA",31.1371358,-83.4234936
+244,274,Deke Copenhaver,Mayor,2011,Augusta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04196,City,"Augusta City, GA",33.4734978,-82.0105148
+272,305,John Bostwick,Mayor,2011,Bostwick City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09488,City,"Bostwick City, GA",33.7373442,-83.5143312
+279,312,Gene Hobgood,Mayor,2011,Canton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12988,City,"Canton City, GA",34.2367621,-84.4907621
+301,335,Cliff Avant,Mayor,2011,Cochran City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=17328,City,"Cochran City, GA",32.3868278,-83.35460979999999
+320,360,Joel Kea,Mayor,2011,Adrian City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00660,City,"Adrian City, GA",32.5307224,-82.5892995
+334,375,Joe Jerkins,Mayor,2011,Austell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04252,City,"Austell City, GA",33.8126059,-84.6343783
+351,394,James Watts,Mayor,2011,Bowdon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09544,City,"Bowdon City, GA",33.5378885,-85.2532818
+365,408,David Brock,Mayor,2011,Carl City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=13184,City,"Carl City, GA",34.005663,-83.8112862
+374,418,Don Henderson,Mayor,2011,Cohutta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=17496,City,"Cohutta City, GA",34.95952090000001,-84.95272349999999
+381,426,James Fulmer,Mayor,2011,Ailey City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00828,City,"Ailey City, GA",32.1874042,-82.5656886
+394,440,Tommy Shepard,Mayor,2011,Avera City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04448,City,"Avera City, GA",33.1940354,-82.5270728
+405,454,Pamela Johnson,Mayor,2011,Bowman City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=09712,City,"Bowman City, GA",34.2048295,-83.0307002
+418,471,Rufus Kidd,Mayor,2011,Carlton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=13212,City,"Carlton City, GA",34.0431675,-83.0337558
+427,481,Chris Peck,Mayor,2011,Colbert City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=17552,City,"Colbert City, GA",34.0378903,-83.2126517
+434,489,Debbie Fountain,Mayor,2011,Alamo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=00996,City,"Alamo City, GA",32.1471202,-82.7779171
+447,502,Ed Rieker,Mayor,2011,Avondale Estates City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04644,City,"Avondale Estates City, GA",33.7714939,-84.26714439999999
+464,519,Bill Orr,Mayor,2011,Braselton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=10076,City,"Braselton City, GA",34.1092735,-83.7626729
+481,538,Harris Little,Mayor,2011,Carnesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=13352,City,"Carnesville City, GA",34.3698266,-83.23515499999999
+489,546,Jack Longino,Mayor,2011,College Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=17776,City,"College Park City, GA",33.6534427,-84.4493725
+515,573,Waymond Smith,Mayor,2011,Alapaha City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01024,City,"Alapaha City, GA",31.3851954,-83.2229323
+529,589,Annette Morman,Mayor,2011,Baconton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04840,City,"Baconton City, GA",31.379623,-84.161017
+539,599,Richard Fennell,Mayor,2011,Braswell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=10104,City,"Braswell City, GA",33.9892676,-84.9629999
+548,608,Wayne Garner,Mayor,2011,Carrollton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=13492,City,"Carrollton City, GA",33.5801103,-85.0766113
+570,633,M. Kenneth Jarrell,Mayor,2011,Collins City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=17832,City,"Collins City, GA",32.1813013,-82.1090083
+583,650,Willie Adams,Mayor,2011,Albany City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01052,City,"Albany City, GA",31.5785074,-84.15574099999999
+614,681,Edward Reynolds,Mayor,2011,Bainbridge City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04896,City,"Bainbridge City, GA",30.9037995,-84.57546990000002
+643,712,Sharon Sewell,Mayor,2011,Bremen City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=10132,City,"Bremen City, GA",33.7212179,-85.1455036
+663,734,Matt Santini,Mayor,2011,Cartersville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=13688,City,"Cartersville City, GA",34.1650972,-84.7999382
+692,764,Jerry Chapman,Mayor,2011,Colquitt City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=18000,City,"Colquitt City, GA",31.17129349999999,-84.7332527
+707,780,James Matthews,Chairman,2011,Aldora City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01248,City,"Aldora City, GA",33.0520707,-84.17575029999999
+711,785,Jerry Neace,Mayor,2011,Baldwin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=04980,City,"Baldwin City, GA",34.4917665,-83.5373946
+727,802,James Earp,Mayor,2011,Brinson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=10608,City,"Brinson City, GA",30.97685319999999,-84.7376974
+734,813,Robert Ware,Mayor,2011,Cave Spring City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=14108,City,"Cave Spring City, GA",34.1075975,-85.33634339999999
+744,827,Teresa Tomlinson,Mayor,2011,Columbus City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19000,City,"Columbus City, GA",32.4609764,-84.9877094
+776,859,Thomas Hines,Mayor,2011,Allenhurst City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01472,City,"Allenhurst City, GA",31.7841014,-81.60761169999999
+781,864,A. R. (Rick) Roberts,Mayor,2011,Ball Ground City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=05036,City,"Ball Ground City, GA",34.3372664,-84.3779515
+795,879,Reuben Hawkins,Mayor,2011,Bronwood City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=10860,City,"Bronwood City, GA",31.8310001,-84.364358
+807,891,James Spencer,Mayor,2011,Cecil City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=14192,City,"Cecil City, GA",31.0454716,-83.3921031
+817,902,David McMickle,Mayor,2011,Comer City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19084,City,"Comer City, GA",34.0637227,-83.1254261
+829,915,Cloyce Pittman,Mayor,2011,Allentown City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01500,City,"Allentown City, GA",32.5932119,-83.2257127
+837,924,Peter Banks,Mayor,2011,Barnesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=05344,City,"Barnesville City, GA",33.0545709,-84.15574950000001
+854,946,Joe Grooms,Mayor,2011,Brooklet City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11000,City,"Brooklet City, GA",32.37962940000001,-81.6631659
+867,961,Johnny Barrett,Commission Chairman,2011,Cedartown City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=14500,City,"Cedartown City, GA",34.0112715,-85.25658229999999
+886,981,Charles Hardy,Mayor,2011,Commerce City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19112,City,"Commerce City, GA",34.203997,-83.4571057
+910,1005,Wayne Williams,Mayor,2011,Alma City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01612,City,"Alma City, GA",31.5393701,-82.4623557
+927,1026,Hubert Jordan,Mayor,2011,Bartow City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=05680,City,"Bartow City, GA",32.8787666,-82.4737399
+937,1041,"Daniel Langford, Jr.",Mayor,2011,Brooks City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11056,City,"Brooks City, GA",33.2909517,-84.45936999999999
+947,1051,John Harley,Mayor,2011,Centerville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=14920,City,"Centerville City, GA",32.630145,-83.6896285
+962,1067,Sonny Story,Mayor,2011,Concord City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19168,City,"Concord City, GA",33.0912359,-84.4374232
+971,1081,Arthur Letchas,Mayor,2011,Alpharetta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01696,City,"Alpharetta City, GA",34.0753762,-84.2940899
+990,1102,Ned Simmons,Mayor,2011,Barwick City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=05708,City,"Barwick City, GA",30.8901919,-83.7407217
+1002,1115,Lester Givens,Council Member,2011,Broxton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11504,City,"Broxton City, GA",31.6251911,-82.88681129999999
+1013,1127,Barbie Crockett,Mayor,2011,Centralhatchee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15026,City,"Centralhatchee City, GA",33.3690045,-85.103554
+1021,1135,Randal Mills,Mayor,2011,Conyers City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19336,City,"Conyers City, GA",33.6676103,-84.01769039999999
+1041,1157,Doyle Waller,Mayor,2011,Alston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01808,City,"Alston City, GA",32.080743,-82.4776303
+1049,1165,Stephen Rigdon,Mayor,2011,Baxley City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=06016,City,"Baxley City, GA",31.7782514,-82.3484618
+1069,1187,Bryan Thompson,Mayor,2011,Brunswick City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11560,City,"Brunswick City, GA",31.1499528,-81.49148939999999
+1093,1212,Eric Clarkson,Mayor,2011,Chamblee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15172,City,"Chamblee City, GA",33.8920468,-84.29881259999999
+1109,1230,Diane Causey,Mayor,2011,Coolidge City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19392,City,"Coolidge City, GA",31.0112991,-83.86628209999999
+1121,1245,Audrey Turner,Mayor,2011,Alto City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=01948,City,"Alto City, GA",34.4673222,-83.5737843
+1137,1261,Lois Salter,Mayor,2011,Berkeley Lake City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=07248,City,"Berkeley Lake City, GA",33.983712,-84.18658479999999
+1148,1274,Benjamin Biggers,Mayor,2011,Buchanan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11616,City,"Buchanan City, GA",33.8021734,-85.1900624
+1160,1286,Tyson Haynes,Mayor,2011,Chatsworth City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15508,City,"Chatsworth City, GA",34.7659145,-84.7699385
+1174,1301,Zack Wade,Commission Chairman,2011,Cordele City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19616,City,"Cordele City, GA",31.9635074,-83.7823938
+1195,1327,Henry Milhollin,Mayor,2011,Ambrose City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02060,City,"Ambrose City, GA",31.5938031,-83.0143147
+1204,1337,Dale Williams,Mayor,2011,Berlin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=07304,City,"Berlin City, GA",31.06824409999999,-83.623778
+1216,1350,Ricky Walker,Mayor,2011,Buckhead City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11672,City,"Buckhead City, GA",33.5684599,-83.3623853
+1225,1359,Don Hayes,Mayor,2011,Chattahoochee Hills City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15552,City,"Chattahoochee Hills City, GA",33.5479728,-84.76306819999999
+1243,1377,Don Bagwell,Acting Mayor,2011,Cornelia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=19728,City,"Cornelia City, GA",34.5114883,-83.5271166
+1260,1395,Barry Blount,Mayor,2011,Americus City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02116,City,"Americus City, GA",32.0723861,-84.23268759999999
+1282,1417,Sandy McNab,Mayor,2011,Bethlehem City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=07612,City,"Bethlehem City, GA",33.9320556,-83.7137827
+1291,1426,Ralph Brown,Mayor,2011,Buena Vista City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11728,City,"Buena Vista City, GA",32.3190398,-84.51714109999999
+1305,1440,James Burch,Mayor,2011,Chauncey City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15648,City,"Chauncey City, GA",32.1046197,-83.0645928
+1318,1455,Kim Carter,Mayor,2011,Covington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=20064,City,"Covington City, GA",33.5967815,-83.8601827
+1348,1485,Marvin Baugh,Mayor,2011,Andersonville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02256,City,"Andersonville City, GA",32.1959947,-84.13990849999999
+1358,1497,Johnny Pritchett,Mayor,2011,Bishop City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08200,City,"Bishop City, GA",33.8192864,-83.4387722
+1365,1504,Phillip Beard,Commission Chairman,2011,Buford City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=11784,City,"Buford City, GA",34.1206564,-84.0043513
+1381,1523,Charles Parker,Mayor,2011,Chester City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15900,City,"Chester City, GA",32.3937787,-83.15292989999999
+1391,1535,James Coile,Mayor,2011,Crawford City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=20288,City,"Crawford City, GA",33.8828954,-83.154596
+1401,1546,Alan Douglas,Mayor,2011,Arabi City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02564,City,"Arabi City, GA",31.8315661,-83.73794869999999
+1409,1555,Thomas Davis,Mayor,2011,Blackshear City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08284,City,"Blackshear City, GA",31.3060513,-82.2420661
+1425,1573,Joel Posey,Mayor,2011,Butler City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12120,City,"Butler City, GA",32.5570898,-84.2382482
+1439,1587,Ray Crowder,Mayor,2011,Chickamauga City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=15984,City,"Chickamauga City, GA",34.8711879,-85.2907896
+1454,1605,J.H. Milner,Mayor,2011,Crawfordville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=20316,City,"Crawfordville City, GA",33.5540209,-82.8959785
+1465,1618,Doug Haynie,Mayor,2011,Arcade City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02648,City,"Arcade City, GA",34.0778881,-83.5615536
+1476,1632,Jim Conley,Mayor,2011,Blairsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08480,City,"Blairsville City, GA",34.8761989,-83.95824119999999
+1491,1647,Lawrence Collins,Mayor,2011,Byron City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12260,City,"Byron City, GA",32.6537561,-83.7596295
+1508,1667,Terry Greene,Mayor,2011,Clarkesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16460,City,"Clarkesville City, GA",34.6125971,-83.5248933
+1526,1686,Steve Eller,Mayor,2011,Culloden City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=20848,City,"Culloden City, GA",32.86319050000001,-84.0938017
+1539,1699,Wallace Mincey,Mayor,2011,Argyle City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02844,City,"Argyle City, GA",31.0741004,-82.64847259999999
+1546,1706,Ric Hall,Mayor,2011,Blakely City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08536,City,"Blakely City, GA",31.3776754,-84.93409199999999
+1560,1722,Richard Dowdy,Mayor,2011,Cadwell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12344,City,"Cadwell City, GA",32.339615,-83.04209159999999
+1570,1733,Emanuel Ransom,Mayor,2011,Clarkston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16544,City,"Clarkston City, GA",33.8095487,-84.23964339999999
+1586,1751,H. Ford Gravitt,Mayor,2011,Cumming City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=20932,City,"Cumming City, GA",34.2073196,-84.14019259999999
+1610,1776,Marvin King,Mayor,2011,Arlington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=02928,City,"Arlington City, GA",31.4398976,-84.7249188
+1627,1801,Richard VanLandingham,Mayor,2011,Cairo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12400,City,"Cairo City, GA",30.8774132,-84.2012897
+1647,1822,Luther Royal,Mayor,2011,Claxton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16600,City,"Claxton City, GA",32.1615814,-81.9040047
+1664,1845,Emmett Moore,Chairman,2011,Cusseta-Chattahoochee CG,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21017,CG,"Cusseta-Chattahoochee CG, GA",32.3061354,-84.77704849999999
+1677,1861,James Hedges,Mayor,2011,Ashburn City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=03236,City,"Ashburn City, GA",31.7060134,-83.653224
+1695,1880,Donna Whitener,Mayor,2011,Blue Ridge City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08928,City,"Blue Ridge City, GA",34.8639719,-84.32408699999999
+1710,1900,James Palmer,Mayor,2011,Calhoun City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=12456,City,"Calhoun City, GA",34.502587,-84.9510542
+1733,1926,David Phillips,Mayor,2011,Clayton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=16656,City,"Clayton City, GA",34.8781479,-83.4009933
+1750,1944,Steve Whatley,Mayor,2011,Cuthbert City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21072,City,"Cuthbert City, GA",31.7712748,-84.7893658
+1767,1962,Nancy Denson,Mayor,2011,Athens-Clarke CG,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=03440,CG,"Athens-Clarke CG, GA",33.9519347,-83.357567
+1796,1992,Deloris Redding,Mayor,2011,Bluffton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=08956,City,"Bluffton City, GA",31.5229496,-84.8677008
+1805,2002,Jimmy Wilbanks,Mayor,2011,Dacula City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21184,City,"Dacula City, GA",33.9887165,-83.8979573
+1818,2017,Nancy Harris,Mayor,2011,Duluth City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=24600,City,"Duluth City, GA",34.0028786,-84.1446376
+1839,2039,Mike Miller,Mayor,2011,Flowery Branch City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30340,City,"Flowery Branch City, GA",34.1851017,-83.9251809
+1858,2060,Jim Hinkle,Mayor,2011,Grayson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=34596,City,"Grayson City, GA",33.8942729,-83.95573999999999
+1867,2070,Jack Paris,Mayor,2011,Hiram City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39076,City,"Hiram City, GA",33.8756601,-84.7621592
+1881,2085,Gary McCullough,Mayor,2011,Dahlonega City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21240,City,"Dahlonega City, GA",34.5261465,-83.9843953
+1901,2105,Ken Wright,Mayor,2011,Dunwoody City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=24768,City,"Dunwoody City, GA",33.9462125,-84.3346473
+1923,2127,Ruby Baker,Council Member,2011,Folkston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30424,City,"Folkston City, GA",30.8305102,-82.0098375
+1937,2141,Glenn Wright,Mayor,2011,Greensboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=34876,City,"Greensboro City, GA",33.5756831,-83.18237890000002
+1956,2161,Charles Lee,Mayor,2011,Hoboken City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39216,City,"Hoboken City, GA",31.1810559,-82.1348416
+1969,2177,Boyd Austin,Mayor,2011,Dallas City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21324,City,"Dallas City, GA",33.9244531,-84.8413056
+1988,2197,Herbert Register,Mayor,2011,Dupont City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=24796,City,"Dupont City, GA",30.9885419,-82.87153049999999
+1998,2208,Corine Deyton,Mayor,2011,Forest Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30536,City,"Forest Park City, GA",33.6220542,-84.36909179999999
+2015,2226,James Bray,Mayor,2011,Greenville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=35016,City,"Greenville City, GA",33.0287373,-84.7129848
+2029,2243,Jimmy Jackson,Mayor,2011,Hogansville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39244,City,"Hogansville City, GA",33.1731769,-84.914936
+2050,2264,David Pennington,Mayor,2011,Dalton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21380,City,"Dalton City, GA",34.7698021,-84.9702228
+2072,2289,George Gornto,Mayor,2011,East Dublin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=25300,City,"East Dublin City, GA",32.548222,-82.87180839999999
+2086,2303,Tye Howard,Mayor,2011,Forsyth City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30732,City,"Forsyth City, GA",33.0342974,-83.938242
+2105,2322,Joanne Todd,Chairman,2011,Griffin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=35324,City,"Griffin City, GA",33.2467807,-84.2640904
+2127,2349,Timothy Downing,Mayor,2011,Holly Springs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39524,City,"Holly Springs City, GA",34.1739857,-84.5013187
+2142,2365,Nathaniel Thompson,Mayor,2011,Damascus City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21436,City,"Damascus City, GA",31.2990682,-84.7188077
+2154,2381,Mack West,Mayor,2011,East Ellijay City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=25356,City,"East Ellijay City, GA",34.6839746,-84.4727049
+2166,2400,Samuel Johnson,Mayor,2011,Fort Gaines City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30816,City,"Fort Gaines City, GA",31.6090569,-85.0471505
+2178,2417,George James,Mayor,2011,Grovetown City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=35716,City,"Grovetown City, GA",33.4504157,-82.1981764
+2196,2436,Austin Hickox,Mayor,2011,Homeland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39692,City,"Homeland City, GA",30.8560651,-82.02094919999999
+2209,2454,Philip Croya,Mayor,2011,Danielsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21632,City,"Danielsville City, GA",34.1242771,-83.2212629
+2217,2462,Earnestine Pittman,Mayor,2011,East Point City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=25720,City,"East Point City, GA",33.6795531,-84.43937240000001
+2248,2493,Lynn Long,Mayor,2011,Fort Oglethorpe City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30956,City,"Fort Oglethorpe City, GA",34.9489645,-85.2569
+2269,2517,Richard Strickland,Mayor,2011,Gum Branch City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=35800,City,"Gum Branch City, GA",31.8371948,-81.6829431
+2276,2524,Doug Cheek,Mayor,2011,Homer City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39720,City,"Homer City, GA",34.3337156,-83.499055
+2285,2535,David Rickerson,Mayor,2011,Danville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21688,City,"Danville City, GA",32.6057103,-83.24543609999999
+2294,2544,Jack Burnham,Council Member,2011,Eastman City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=25552,City,"Eastman City, GA",32.1976729,-83.1776514
+2313,2564,John Stumbo,Mayor,2011,Fort Valley City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=31096,City,"Fort Valley City, GA",32.5537585,-83.8874084
+2330,2583,Michael Garvin,Mayor,2011,Guyton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=35884,City,"Guyton City, GA",32.3363045,-81.3914992
+2344,2600,Margaret Blitch,Mayor,2011,Homerville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=39748,City,"Homerville City, GA",31.0365983,-82.74708489999999
+2361,2620,John Cox,Mayor,2011,Darien City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21716,City,"Darien City, GA",31.3702255,-81.43399029999999
+2376,2637,John Reid,Mayor,2011,Eatonton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=26084,City,"Eatonton City, GA",33.3267997,-83.3884961
+2396,2661,Teresa Chapman,Mayor,2011,Franklin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=31292,City,"Franklin City, GA",33.2776182,-85.0979973
+2408,2673,Vernon Owens,Mayor,2011,Hagan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36024,City,"Hagan City, GA",32.1560257,-81.9337275
+2420,2691,Erma Denney,Mayor,2011,Hoschton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=40056,City,"Hoschton City, GA",34.096496,-83.7612839
+2430,2701,G.R. Holton,Mayor,2011,Dasher City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21744,City,"Dasher City, GA",30.7474278,-83.220704
+2439,2712,Durham Milburn,Mayor,2011,Edgehill City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=26224,City,"Edgehill City, GA",33.7822166,-84.4104225
+2445,2718,Lee Moore,Mayor,2011,Franklin Springs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=31320,City,"Franklin Springs City, GA",34.28482839999999,-83.1443161
+2458,2739,Wayne Bullard,Mayor,2011,Hahira City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36052,City,"Hahira City, GA",30.9913064,-83.3726575
+2473,2754,Paul Elkins,Mayor,2011,Hull City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=40532,City,"Hull City, GA",34.0148352,-83.2937659
+2480,2761,Hurley Ridgeway,Mayor,2011,Davisboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21800,City,"Davisboro City, GA",32.97904250000001,-82.60790949999999
+2489,2770,Reeves Lane,Mayor,2011,Edison City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=26448,City,"Edison City, GA",31.5582271,-84.7382526
+2502,2786,Ferrell Ruis,Mayor,2011,Funston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=31684,City,"Funston City, GA",31.1999071,-83.8735088
+2509,2793,Rebecca Chambers,Mayor,2011,Hamilton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36220,City,"Hamilton City, GA",32.7579106,-84.87493110000001
+2521,2809,Kathy Gordon,Mayor,2011,Ideal City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=40812,City,"Ideal City, GA",32.3695983,-84.1879675
+2535,2824,Robert Albritten,Mayor,2011,Dawson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21912,City,"Dawson City, GA",31.7735001,-84.4465826
+2550,2840,Larry Guest,Mayor,2011,Elberton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=26616,City,"Elberton City, GA",34.1112226,-82.8670839
+2571,2863,Ruth Bruner,Mayor,2011,Gainesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=31908,City,"Gainesville City, GA",34.2978794,-83.8240663
+2595,2887,Raiford Coley,Mayor,2011,Hampton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36276,City,"Hampton City, GA",33.3870578,-84.2829784
+2614,2908,Mike Coile,Mayor,2011,Ila City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=40840,City,"Ila City, GA",34.1726093,-83.29209879999999
+2622,2917,Joe Cox,Mayor,2011,Dawsonville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=21940,City,"Dawsonville City, GA",34.4212052,-84.1190804
+2632,2935,David Theiss,Mayor,2011,Ellaville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=26980,City,"Ellaville City, GA",32.2382139,-84.30907979999999
+2648,2956,Tennyson Holder,Mayor,2011,Garden City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32048,City,"Garden City, GA",32.1143715,-81.15400129999999
+2672,2980,Alan Hallman,Mayor,2011,Hapeville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36472,City,"Hapeville City, GA",33.660109,-84.4102046
+2692,3000,Ronnie Ingram,Mayor,2011,Iron City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41344,City,"Iron City, GA",31.0135189,-84.8129778
+2701,3011,Sean Kelley,Mayor,2011,Dearing City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22024,City,"Dearing City, GA",33.41319470000001,-82.3851255
+2709,3019,Betsy Kearce,Mayor,2011,Ellenton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27008,City,"Ellenton City, GA",31.1760205,-83.587389
+2719,3029,Virgil Rainey,Mayor,2011,Garfield City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32188,City,"Garfield City, GA",32.649885,-82.09817500000001
+2730,3041,Ted Bateman,Mayor,2011,Haralson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36528,City,"Haralson City, GA",33.2265099,-84.5713164
+2736,3047,Darrell Burns,Mayor,2011,Irwinton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41400,City,"Irwinton City, GA",32.8112594,-83.1726541
+2748,3061,William Floyd,Mayor,2011,Decatur City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22052,City,"Decatur City, GA",33.7748275,-84.2963123
+2768,3083,William Hoyle,Mayor,2011,Ellijay City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27092,City,"Ellijay City, GA",34.6948076,-84.4821498
+2781,3101,Ruth Nash,Mayor,2011,Gay City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32384,City,"Gay City, GA",33.0937361,-84.57381509999999
+2789,3109,Bobby Culpepper,Mayor,2011,Harlem City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36696,City,"Harlem City, GA",33.4145834,-82.3126237
+2803,3124,Ann Evans,Mayor,2011,Ivey City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41540,City,"Ivey City, GA",32.9070875,-83.2907147
+2814,3137,William Hutchings,Mayor,2011,Deepstep City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22108,City,"Deepstep City, GA",33.0182075,-82.96903329999999
+2823,3146,Al Pallone,Mayor,2011,Emerson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27344,City,"Emerson City, GA",34.1270426,-84.7554925
+2836,3159,Ollie Chester,Mayor,2011,Geneva City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32412,City,"Geneva City, GA",32.579862,-84.5507559
+2844,3167,Joe Walker,Mayor,2011,Harrison City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=36920,City,"Harrison City, GA",32.8262697,-82.7251364
+2856,3182,Harold McMichael,Council Member,2011,Jackson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41596,City,"Jackson City, GA",33.2945651,-83.96602089999999
+2870,3197,Malcolm Hunnicutt,Mayor,2011,Demorest City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22304,City,"Demorest City, GA",34.565098,-83.5451724
+2885,3213,Cecil Giddens,Mayor,2011,Enigma City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27596,City,"Enigma City, GA",31.4129695,-83.3290468
+2896,3226,Richard Morris,Chairman,2011,Georgetown City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32528,City,"Georgetown City, GA",31.9832644,-81.22733339999999
+2911,3241,Jennifer Scott,Mayor,2011,Hartwell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=37144,City,"Hartwell City, GA",34.3528825,-82.932087
+2930,3260,Kenneth Holt,Mayor,2011,Jakin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41792,City,"Jakin City, GA",31.0910162,-84.98214999999999
+2939,3269,Danny Whittle,Mayor,2011,Dexter City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22752,City,"Dexter City, GA",32.4323909,-83.0612596
+2946,3276,Denney Rogers,Mayor,2011,Ephesus City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27708,City,"Ephesus City, GA",33.4070586,-85.2543915
+2958,3290,Gregg Kelley,Mayor,2011,Gibson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32748,City,"Gibson City, GA",33.2334789,-82.5954083
+2968,3303,Shelly Berryhill,Chairman,2011,Hawkinsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=37396,City,"Hawkinsville City, GA",32.2837731,-83.4721177
+2985,3325,John Weaver,Mayor,2011,Jasper City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41932,City,"Jasper City, GA",34.4695524,-84.4289888
+3005,3351,William Robinson,Mayor,2011,Dillard City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=22976,City,"Dillard City, GA",34.9700911,-83.3871006
+3016,3362,Billy Cantrell,Mayor,2011,Eton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27932,City,"Eton City, GA",34.82508,-84.763272
+3028,3376,Larry Poole,Mayor,2011,Gillsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32860,City,"Gillsville City, GA",34.3078817,-83.6335036
+3036,3384,R. Bayne Stone,Mayor,2011,Hazlehurst City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=37564,City,"Hazlehurst City, GA",31.8696309,-82.59430259999999
+3051,3403,Jim Joiner,Mayor,2011,Jefferson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=41988,City,"Jefferson City, GA",34.1170537,-83.5723876
+3070,3423,Wade Ethridge,Mayor,2011,Doerun City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23284,City,"Doerun City, GA",31.3196267,-83.9171221
+3083,3443,Kathy Foulk,Mayor,2011,Euharlee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=27988,City,"Euharlee City, GA",34.1448193,-84.93299859999999
+3097,3459,William Cox,Mayor,2011,Girard City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=32916,City,"Girard City, GA",33.04043230000001,-81.71205669999999
+3106,3468,Helen Wilkins,Mayor,2011,Helen City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=37788,City,"Helen City, GA",34.7014839,-83.7315675
+3119,3484,Sonja Mallory,Mayor,2011,Jeffersonville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42100,City,"Jeffersonville City, GA",32.687646,-83.3465561
+3132,3497,Joseph Burke,Mayor,2011,Donalsonville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23368,City,"Donalsonville City, GA",31.0404625,-84.87909110000001
+3148,3519,Mario Avery,Mayor,2011,Fairburn City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=28380,City,"Fairburn City, GA",33.5670562,-84.5810418
+3170,3543,Jean Bridges,Mayor,2011,Glennville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=33336,City,"Glennville City, GA",31.93659169999999,-81.92845009999999
+3188,3562,M. L. Harrelson,Mayor,2011,Helena City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=37816,City,"Helena City, GA",32.0737872,-82.9145884
+3204,3583,Kenneth Rooks,Mayor,2011,Jenkinsburg City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42156,City,"Jenkinsburg City, GA",33.3245628,-84.0357465
+3216,3602,Jean Weeks,Mayor,2011,Dooling City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23480,City,"Dooling City, GA",32.2304391,-83.927959
+3224,3610,Harry Pierce,Mayor,2011,Fairmount City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=28492,City,"Fairmount City, GA",34.4362013,-84.69993459999999
+3234,3620,G. Joiner,Mayor,2011,Glenwood City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=33392,City,"Glenwood City, GA",32.1799008,-82.6695802
+3246,3633,Robert Buchwitz,Chairman,2011,Hephzibah City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=38040,City,"Hephzibah City, GA",33.3140311,-82.0967857
+3258,3646,Ronnie Thompson,Mayor,2011,Jersey City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42184,City,"Jersey City, GA",33.7156693,-83.79879009999999
+3262,3650,Donna Pittman,Mayor,2011,Doraville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23536,City,"Doraville City, GA",33.8981579,-84.2832564
+3280,3670,Robert Lee,Mayor,2011,Fargo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=28744,City,"Fargo City, GA",30.6818841,-82.5665192
+3290,3683,George Garrett,Mayor,2011,Good Hope City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=33896,City,"Good Hope City, GA",33.7848398,-83.60905749999999
+3298,3691,Barbara Mathis,Mayor,2011,Hiawassee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=38124,City,"Hiawassee City, GA",34.9492586,-83.7573948
+3311,3707,Herb Shaw,Mayor,2011,Jesup City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42268,City,"Jesup City, GA",31.6074365,-81.8853924
+3332,3729,Jackie Wilson,Mayor,2011,Douglas City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23872,City,"Douglas City, GA",31.5088073,-82.8498654
+3360,3760,Kenneth Steele,Mayor,2011,Fayetteville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=28968,City,"Fayetteville City, GA",33.4487257,-84.4549262
+3382,3783,Kenneth Turner,Mayor,2011,Gordon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=33980,City,"Gordon City, GA",32.8820866,-83.3323848
+3397,3803,Deborah Henry,Mayor,2011,Higgston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=38348,City,"Higgston City, GA",32.2165732,-82.4670747
+3405,3811,Mike Bodker,Mayor,2011,Johns Creek City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42425,City,"Johns Creek City, GA",34.0289259,-84.198579
+3430,3836,Mickey Thompson,Mayor,2011,Douglasville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=23900,City,"Douglasville City, GA",33.7514966,-84.7477136
+3455,3862,Gerald Thompson,Mayor,2011,Fitzgerald City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=29528,City,"Fitzgerald City, GA",31.7149082,-83.25265449999999
+3479,3893,Lonnie Crosby,Mayor,2011,Graham City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=34260,City,"Graham City, GA",31.8315786,-82.5023554
+3488,3903,Gerry Forehand,Mayor,2011,Hiltonia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=38920,City,"Hiltonia City, GA",32.883494,-81.658166
+3500,3917,Luther Maddox,Mayor,2011,Jonesboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42604,City,"Jonesboro City, GA",33.5215013,-84.3538128
+3515,3937,Phil Best,Mayor,2011,Dublin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=24376,City,"Dublin City, GA",32.5404447,-82.90375399999999
+3540,3963,Sandra Martin,Mayor,2011,Flemington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30088,City,"Flemington City, GA",31.8596545,-81.5640006
+3550,3975,Jim Sells,Mayor,2011,Grantville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=34428,City,"Grantville City, GA",33.2348419,-84.8357678
+3565,3991,James Thomas,Mayor,2011,Hinesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=38964,City,"Hinesville City, GA",31.846877,-81.5959453
+3590,4020,Fred Burt,Mayor,2011,Junction City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=42800,City,"Junction City, GA",32.6034735,-84.4593646
+3600,4031,Jason Locke,Mayor,2011,Dudley City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=24488,City,"Dudley City, GA",32.5423872,-83.07042729999999
+3610,4044,Harvey Norris,Mayor,2011,Flovilla City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=30312,City,"Flovilla City, GA",33.253734,-83.89851709999999
+3623,4057,August Wilson,Mayor,2011,Gray City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=34512,City,"Gray City, GA",33.0095802,-83.5337816
+3638,4072,Mark Mathews,Mayor,2011,Kennesaw City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=43192,City,"Kennesaw City, GA",34.0234337,-84.6154897
+3658,4095,Arthur Roney,Mayor,2011,Lilly City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46384,City,"Lilly City, GA",32.1471098,-83.8773999
+3668,4107,Roy Godbee,Mayor,2011,Manassas City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49504,City,"Manassas City, GA",32.1604689,-82.01956249999999
+3671,4112,Jimmy Kirkland,Mayor,2011,Milan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51408,City,"Milan City, GA",32.0173996,-83.0626489
+3681,4128,Joey Fountain,Mayor,2011,Mount Vernon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53508,City,"Mount Vernon City, GA",32.1785145,-82.5945783
+3695,4145,Maggie Cartwright,Mayor,2011,Keysville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=43360,City,"Keysville City, GA",33.2337555,-82.23234440000002
+3705,4157,Henry Brown,Mayor,2011,Lincolnton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46552,City,"Lincolnton City, GA",33.7923477,-82.479018
+3721,4176,Anthony Clifton,Mayor,2011,Manchester City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49532,City,"Manchester City, GA",32.8598538,-84.6199251
+3738,4199,Richard Bentley,Mayor,2011,Milledgeville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51492,City,"Milledgeville City, GA",33.0801429,-83.2320991
+3757,4219,Sue Bloodworth,Mayor,2011,Mount Zion City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53620,City,"Mount Zion City, GA",33.6342754,-85.18717029999999
+3770,4232,Kenneth Smith,Mayor,2011,Kingsland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=43640,City,"Kingsland City, GA",30.7999563,-81.68982609999999
+3795,4258,Tonya Peterson Anderson,Mayor,2011,Lithonia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46860,City,"Lithonia City, GA",33.7123305,-84.1051939
+3807,4270,William Cocchi,Mayor,2011,Mansfield City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49616,City,"Mansfield City, GA",33.5178968,-83.73434429999999
+3816,4282,Albert Rocker,Mayor,2011,Millen City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51520,City,"Millen City, GA",32.8040512,-81.9492812
+3835,4305,Grace Watts,Mayor,2011,Mountain City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53116,City,"Mountain City, GA",34.9181473,-83.38543589999999
+3845,4316,Dexter Jones,Mayor,2011,Kingston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=43668,City,"Kingston City, GA",34.237039,-84.94410979999999
+3859,4331,Lorene Lindsey,Mayor,2011,Locust Grove City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47140,City,"Locust Grove City, GA",33.3459495,-84.109083
+3877,4350,Steve Tumlin,Mayor,2011,Marietta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49756,City,"Marietta City, GA",33.95260200000001,-84.5499327
+3903,4378,Joe Bostwick,Mayor,2011,Milner City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51604,City,"Milner City, GA",33.1167891,-84.1965855
+3918,4395,Jim Still,Mayor,2011,Mountain Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53172,City,"Mountain Park City, GA",34.0825385,-84.4138442
+3929,4407,Melissa Kirby,Mayor,2011,Kite City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=43892,City,"Kite City, GA",32.6923836,-82.5145752
+3937,4415,Ray Nunley,Mayor,2011,Loganville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47196,City,"Loganville City, GA",33.8389977,-83.90073819999999
+3954,4435,Stuart Bryant,Mayor,2011,Marshallville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49924,City,"Marshallville City, GA",32.4562623,-83.9401857
+3970,4458,Joe Lockwood,Mayor,2011,Milton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51670,City,"Milton City, GA",34.1321631,-84.30066599999999
+3994,4482,Ronnie Jacobs,Mayor,2011,Nahunta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=54124,City,"Nahunta City, GA",31.20439,-81.98122599999999
+4002,4496,Neal Florence,Mayor,2011,Lafayette City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=44312,City,"Lafayette City, GA",34.7048022,-85.2818998
+4021,4521,Brian Ferrell,Mayor,2011,Lone Oak City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47252,City,"Lone Oak City, GA",33.1717883,-84.8160446
+4029,4529,Donald Foster,Mayor,2011,Martin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50008,City,"Martin City, GA",34.4870458,-83.18487809999999
+4037,4538,Scott Lamb,Mayor,2011,Mitchell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51968,City,"Mitchell City, GA",33.2198688,-82.7031896
+4049,4551,Travis Harper,Mayor,2011,Nashville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=54264,City,"Nashville City, GA",31.2074197,-83.25015479999999
+4070,4575,Jeff Lukken,Mayor,2011,Lagrange City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=44340,City,"Lagrange City, GA",33.0362218,-85.0322444
+4093,4602,Bill Glascock,Mayor,2011,Lookout Mountain City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47336,City,"Lookout Mountain City, GA",34.9775757,-85.35773630000001
+4110,4627,John Stephens,,2011,Maxeys City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50260,City,"Maxeys City, GA",33.7542889,-83.1734874
+4117,4634,Elizabeth Barker,Mayor,2011,Molena City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52108,City,"Molena City, GA",33.0120724,-84.5002013
+4128,4647,David Leister,Mayor,2011,Nelson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=54572,City,"Nelson City, GA",34.3820371,-84.37103479999999
+4141,4661,Willie Oswalt,Mayor,2011,Lake City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=44508,City,"Lake City, GA",33.6064989,-84.3352017
+4154,4674,Larry Morgan,Mayor,2011,Louisville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47560,City,"Louisville City, GA",33.0015407,-82.4112377
+4170,4697,Jerry Baker,Mayor,2011,Maysville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50484,City,"Maysville City, GA",34.2528839,-83.5615548
+4181,4711,Greg Thompson,Mayor,2011,Monroe City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52192,City,"Monroe City, GA",33.7948364,-83.713229
+4201,4733,Roger Sheridan,Mayor,2011,Newborn City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=54656,City,"Newborn City, GA",33.5170648,-83.6960096
+4212,4744,Walter Sandlin,Mayor,2011,Lake Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=44704,City,"Lake Park City, GA",30.6846637,-83.1828732
+4224,4758,Joseph Murphy,Mayor,2011,Lovejoy City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47616,City,"Lovejoy City, GA",33.4362245,-84.3143675
+4235,4770,James Finch,Mayor,2011,Mccaysville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48428,City,"Mccaysville City, GA",34.9861914,-84.37131169999999
+4247,4782,Willie Larry,Mayor,2011,Montezuma City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52304,City,"Montezuma City, GA",32.3051576,-84.0274072
+4262,4799,J. Donald Scott,Mayor,2011,Newington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=54992,City,"Newington City, GA",32.5901748,-81.503996
+4270,4811,Bill Darsey,Mayor,2011,Lakeland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=44592,City,"Lakeland City, GA",31.0410373,-83.0751471
+4288,4837,Myrtice Warren,Mayor,2011,Ludowici City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47784,City,"Ludowici City, GA",31.7079919,-81.7423357
+4301,4853,Billy Copeland,Mayor,2011,Mcdonough City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48624,City,"Mcdonough City, GA",33.4473361,-84.1468616
+4323,4875,Glenn Newsome,Mayor,2011,Monticello City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52416,City,"Monticello City, GA",33.3048479,-83.6832289
+4341,4893,Keith Brady,Mayor,2011,Newnan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55020,City,"Newnan City, GA",33.3806716,-84.79965729999999
+4362,4916,Ralph Owens,Mayor,2011,Lavonia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=45460,City,"Lavonia City, GA",34.4359361,-83.10681799999999
+4378,4934,Milton Turner,Mayor,2011,Lula City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47896,City,"Lula City, GA",34.3876013,-83.66628539999999
+4392,4953,Vicki Horne,Mayor,2011,Mcintyre City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48848,City,"Mcintyre City, GA",32.8470477,-83.2018485
+4404,4967,Gary Van Ness,Mayor,2011,Montrose City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52500,City,"Montrose City, GA",32.5596055,-83.1532091
+4411,4975,Gary Coker,Mayor,2011,Newton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55244,City,"Newton City, GA",31.3129575,-84.3357424
+4421,4987,Judy Johnson,Mayor,2011,Lawrenceville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=45488,City,"Lawrenceville City, GA",33.9562149,-83.9879625
+4440,5007,Sue Sammons,Mayor,2011,Lumber City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47952,City,"Lumber City, GA",31.9293488,-82.6795831
+4452,5025,June Bradfield,Mayor,2011,Mcrae City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49084,City,"Mcrae City, GA",32.0679541,-82.9006993
+4465,5044,Josh Evans,Mayor,2011,Moreland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52668,City,"Moreland City, GA",33.2867851,-84.7677111
+4472,5051,Dewayne Streat,Mayor,2011,Nicholls City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55440,City,"Nicholls City, GA",31.5174219,-82.63486019999999
+4484,5065,Calvin Cox,Mayor,2011,Leary City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=45600,City,"Leary City, GA",31.4857308,-84.5138017
+4494,5079,Charles Gibson,Mayor,2011,Lumpkin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=47980,City,"Lumpkin City, GA",32.0509895,-84.7990901
+4507,5102,Gayle Burden,Mayor,2011,Meansville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50596,City,"Meansville City, GA",33.0492923,-84.3068648
+4516,5112,Richard Martin,Mayor,2011,Morgan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52696,City,"Morgan City, GA",31.5376731,-84.5993601
+4524,5128,Ronnie Maxwell,Mayor,2011,Nicholson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55468,City,"Nicholson City, GA",34.1139993,-83.4315488
+4535,5143,Jim Quinn,Mayor,2011,Leesburg City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=45768,City,"Leesburg City, GA",31.7321156,-84.1707423
+4550,5159,Robert Trammell,Mayor,2011,Luthersville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48008,City,"Luthersville City, GA",33.2101205,-84.7443765
+4564,5176,Andrew Wurst,Mayor,2011,Meigs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50680,City,"Meigs City, GA",31.0724085,-84.0890659
+4578,5191,Barbara Stephens,Mayor,2011,Morganton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=52724,City,"Morganton City, GA",34.8781613,-84.24631880000001
+4585,5198,Bucky Johnson,Mayor,2011,Norcross City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55776,City,"Norcross City, GA",33.9412127,-84.2135309
+4608,5226,Dot Revels-Cloud,Mayor,2011,Lenox City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=45936,City,"Lenox City, GA",31.2715768,-83.4648845
+4622,5245,Joshua Wyatt,Council Member,2011,Lyerly City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48092,City,"Lyerly City, GA",34.4039775,-85.40329109999999
+4633,5258,Theresa Canada,Mayor,2011,Menlo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=50848,City,"Menlo City, GA",34.484808,-85.4763492
+4643,5268,Jim Millirons,Mayor,2011,Morrow City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53004,City,"Morrow City, GA",33.5831662,-84.33936829999999
+4661,5289,Bruce Norton,Mayor,2011,Norman Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=55860,City,"Norman Park City, GA",31.26907409999999,-83.6871168
+4675,5307,George Bagley,Mayor,2011,Leslie City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46020,City,"Leslie City, GA",31.9554475,-84.0865706
+4687,5320,John Moore,Mayor,2011,Lyons City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=48232,City,"Lyons City, GA",32.2043546,-82.32179099999999
+4704,5344,William Trapnell,Mayor,2011,Metter City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51072,City,"Metter City, GA",32.397118,-82.0601195
+4724,5365,L. Godwin,Mayor,2011,Morven City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53032,City,"Morven City, GA",30.9415814,-83.4993276
+4735,5377,Kimberly Kraeling,Mayor,2011,North High Shoals City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=56308,City,"North High Shoals City, GA",33.8201194,-83.5059966
+4744,5386,David Montgomery,Mayor,2011,Lexington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46188,City,"Lexington City, GA",33.8698404,-83.111817
+4753,5398,Robert Reichert,Mayor,2011,Macon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49000,City,"Macon City, GA",32.8406946,-83.6324022
+4784,5430,Marion Brinson,Mayor,2011,Midville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51240,City,"Midville City, GA",32.8190456,-82.2348455
+4795,5443,William McIntosh,Mayor,2011,Moultrie City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53060,City,"Moultrie City, GA",31.1799407,-83.7888387
+4821,5475,David Harper,Mayor,2011,Norwood City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=56560,City,"Norwood City, GA",33.4626371,-82.7051355
+4831,5486,Diana Preston,Mayor,2011,Lilburn City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=46356,City,"Lilburn City, GA",33.8901036,-84.14297189999999
+4849,5506,Bruce Gilbert,Mayor,2011,Madison City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=49196,City,"Madison City, GA",33.5956813,-83.467944
+4866,5523,Clemontine Washington,Mayor,2011,Midway City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=51352,City,"Midway City, GA",31.805769,-81.4306642
+4879,5538,Gary Morris,Mayor,2011,Mount Airy City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=53284,City,"Mount Airy City, GA",34.5187106,-83.5007265
+4892,5556,Larry Wilson,Mayor,2011,Oak Park City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57232,City,"Oak Park City, GA",32.3582334,-82.3145693
+4903,5569,W. Wade,Mayor,2011,Parrott City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59416,City,"Parrott City, GA",31.8934963,-84.51325
+4911,5579,Hollan Wilson,Mayor,2011,Pineview City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61320,City,"Pineview City, GA",32.1101702,-83.501003
+4924,5593,Dolly Dupree,Mayor,2011,Ray City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63728,City,"Ray City, GA",31.0746445,-83.1993186
+4935,5608,Ken Westbrook,Mayor,2011,Riddleville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65156,City,"Riddleville City, GA",32.9068227,-82.66568939999999
+4941,5614,Lamar Scroggs,Mayor,2011,Oakwood City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57260,City,"Oakwood City, GA",34.227602,-83.8843455
+4957,5631,Sammie Thomas,Mayor,2011,Patterson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59500,City,"Patterson City, GA",31.3874383,-82.1401193
+4968,5645,Sandi Guest,Mayor,2011,Pitts City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61544,City,"Pitts City, GA",31.9446209,-83.5407214
+4976,5654,Norman Echols,Mayor,2011,Rayle City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63756,City,"Rayle City, GA",33.7898457,-82.89986859999999
+4983,5661,Kenneth Lee,Mayor,2011,Rincon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65296,City,"Rincon City, GA",32.2960289,-81.2353905
+5000,5680,Ronelle Searcy,Mayor,2011,Ochlocknee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57372,City,"Ochlocknee City, GA",30.97379969999999,-84.0529518
+5007,5687,Faye Walker,Mayor,2011,Pavo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59556,City,"Pavo City, GA",30.959912,-83.73794579999999
+5018,5701,L. E. Godwin,Mayor,2011,Plains City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61628,City,"Plains City, GA",32.0340508,-84.3926912
+5031,5716,Don Collins,Mayor,2011,Rebecca City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63840,City,"Rebecca City, GA",31.8065688,-83.4868295
+5042,5730,Joe Barger,Mayor,2011,Ringgold City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65324,City,"Ringgold City, GA",34.9159099,-85.1091173
+5060,5748,Lamar Royal,Mayor,2011,Ocilla City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57428,City,"Ocilla City, GA",31.5943567,-83.2504328
+5078,5768,Grace McCrimmons,Mayor,2011,Payne City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59584,City,"Payne City, GA",32.8520242,-83.6793467
+5084,5774,Sally Johnston,Mayor,2011,Plainville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61684,City,"Plainville City, GA",34.4050895,-85.03716829999999
+5091,5781,James Oates,Mayor,2011,Register City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64372,City,"Register City, GA",32.3671237,-81.88400390000001
+5101,5792,Evelyn Wynn-Dixon,Mayor,2011,Riverdale City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65464,City,"Riverdale City, GA",33.5726113,-84.4132594
+5117,5810,Wade Brantley,Mayor,2011,Oconee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57456,City,"Oconee City, GA",32.8554338,-82.949866
+5128,5821,Don Haddix,Mayor,2011,Peachtree City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59724,City,"Peachtree City, GA",33.3968557,-84.59634319999999
+5149,5843,Mike Lamb,Mayor,2011,Pooler City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62104,City,"Pooler City, GA",32.115481,-81.2470574
+5174,5870,Jackie Trim,Mayor,2011,Reidsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64512,City,"Reidsville City, GA",32.0868611,-82.1178978
+5190,5887,Tom Harlow,Mayor,2011,Riverside City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65604,City,"Riverside City, GA",31.1801857,-83.8062853
+5195,5892,Aubrey Mansfield,Mayor,2011,Odum City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57540,City,"Odum City, GA",31.6660432,-82.027895
+5207,5904,Ellie Morris,Mayor,2011,Pearson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59808,City,"Pearson City, GA",31.297703,-82.8523668
+5222,5922,Glenn Jones,Mayor,2011,Port Wentworth City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62328,City,"Port Wentworth City, GA",32.149092,-81.163168
+5241,5943,Cornelius Holsendolph,Mayor,2011,Remerton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64596,City,"Remerton City, GA",30.8440899,-83.3104307
+5256,5963,Becky Smith,Mayor,2011,Roberta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65856,City,"Roberta City, GA",32.7218072,-84.0132433
+5268,5977,Brenda Denison,Mayor,2011,Offerman City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57568,City,"Offerman City, GA",31.40966,-82.111785
+5279,5988,Steven Turner,Mayor,2011,Pelham City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=59976,City,"Pelham City, GA",31.1276849,-84.1518466
+5299,6012,Larry Motes,Mayor,2011,Portal City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62216,City,"Portal City, GA",32.538222,-81.93233839999999
+5311,6027,M. L. Knight,Mayor,2011,Rentz City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64680,City,"Rentz City, GA",32.383504,-82.99125649999999
+5321,6038,James Rhodes,Mayor,2011,Rochelle City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=66024,City,"Rochelle City, GA",31.9510105,-83.4562744
+5333,6053,Gerald Beckum,Mayor,2011,Oglethorpe City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=57736,City,"Oglethorpe City, GA",32.293769,-84.0610191
+5347,6076,Judy Cook,Mayor,2011,Pembroke City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=60004,City,"Pembroke City, GA",32.1360332,-81.6220565
+5365,6097,Bobby Hamby,Mayor,2011,Porterdale City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62244,City,"Porterdale City, GA",33.5751146,-83.8937954
+5379,6111,Samuel Allen,Mayor,2011,Resaca City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64736,City,"Resaca City, GA",34.5803628,-84.9432765
+5387,6120,Curtis Lewis,Mayor,2011,Rockmart City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=66276,City,"Rockmart City, GA",34.0026005,-85.0416133
+5405,6140,Justine Brown,Mayor,2011,Oliver City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=58100,City,"Oliver City, GA",32.5215666,-81.533163
+5416,6153,Monk Tolbert,Mayor,2011,Pendergrass City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=60032,City,"Pendergrass City, GA",34.16232919999999,-83.6779473
+5428,6168,Dustin Grubbs,Mayor,2011,Poulan City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62496,City,"Poulan City, GA",31.5129582,-83.78767479999999
+5442,6183,Fredrick Waller,Mayor,2011,Reynolds City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64876,City,"Reynolds City, GA",32.5598685,-84.09630039999999
+5456,6201,Evie McNiece,Mayor,2011,Rome City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=66668,City,"Rome City, GA",34.257038,-85.1646726
+5489,6234,Ray Hunt,Mayor,2011,Omega City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=58184,City,"Omega City, GA",31.3410184,-83.5935011
+5501,6249,James Faircloth,Mayor,2011,Perry City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=60340,City,"Perry City, GA",32.4582065,-83.7315723
+5521,6269,Patricia Vaughn,Mayor,2011,Powder Springs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=62524,City,"Powder Springs City, GA",33.8595491,-84.683824
+5542,6291,Carter Clements,Mayor,2011,Rhine City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64932,City,"Rhine City, GA",31.98962289999999,-83.2001537
+5550,6299,Johnny Baker,Mayor,2011,Rossville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=67256,City,"Rossville City, GA",34.9831309,-85.2860676
+5562,6318,Robert Morgan,Mayor,2011,Orchard Hill City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=58296,City,"Orchard Hill City, GA",33.1865071,-84.2113095
+5567,6323,Greg Zarus,Mayor,2011,Pine Lake City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61040,City,"Pine Lake City, GA",33.7937162,-84.2060309
+5580,6336,Monte Tillman,Mayor,2011,Pulaski City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63000,City,"Pulaski City, GA",32.3901752,-81.9567837
+5586,6344,William Austin,Mayor,2011,Riceboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=64960,City,"Riceboro City, GA",31.7354935,-81.4334408
+5598,6356,Jere Wood,Mayor,2011,Roswell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=67284,City,"Roswell City, GA",34.0232431,-84.3615555
+5625,6384,Jerry Roseberry,Mayor,2011,Oxford City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=58744,City,"Oxford City, GA",33.6190031,-83.8674051
+5638,6401,Joe Teel,Mayor,2011,Pine Mountain City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=61124,City,"Pine Mountain City, GA",32.8648522,-84.8540982
+5651,6417,Curtis Pickels,Mayor,2011,Quitman City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63224,City,"Quitman City, GA",30.7849191,-83.5598811
+5669,6439,Adolph McLendon,Mayor,2011,Richland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65016,City,"Richland City, GA",32.0879342,-84.66742029999999
+5682,6455,David Jordan,Mayor,2011,Royston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=67452,City,"Royston City, GA",34.2870503,-83.11014829999999
+5698,6475,John Miller,Mayor,2011,Palmetto City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=58884,City,"Palmetto City, GA",33.5178907,-84.66965479999999
+5716,6494,Walter Blount,Mayor,2011,Pinehurst City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=60984,City,"Pinehurst City, GA",32.1959971,-83.76295329999999
+5727,6505,David Charity,Mayor,2011,Ranger City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=63560,City,"Ranger City, GA",34.5011995,-84.7096571
+5733,6511,Harold Fowler,Mayor,2011,Richmond Hill City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=65044,City,"Richmond Hill City, GA",31.9382652,-81.3034433
+5753,6531,Spencer Knight,Mayor,2011,Rutledge City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=67760,City,"Rutledge City, GA",33.6259545,-83.6123935
+5765,6546,William DeLoughy,Mayor,2011,Saint Marys City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=67984,City,"Saint Marys City, GA",30.7478954,-81.57061089999999
+5787,6568,Samuel Wilson,Mayor,2011,Sparks City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=72556,City,"Sparks City, GA",31.1668572,-83.43738309999999
+5802,6588,Larry Wood,Mayor,2011,Talmo City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75412,City,"Talmo City, GA",34.185106,-83.7207267
+5811,6597,Lanier Rhodes,Mayor,2011,Union Point City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78380,City,"Union Point City, GA",33.6156831,-83.0745969
+5824,6612,George DeLoach,Mayor,2011,Waynesboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80984,City,"Waynesboro City, GA",33.0898731,-82.0156736
+5843,6632,James Roland,Mayor,2011,Sale City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=68096,City,"Sale City, GA",31.2643494,-84.0212897
+5856,6645,William Evans,Mayor,2011,Sparta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=72584,City,"Sparta City, GA",33.2757006,-82.97625889999999
+5869,6667,Lynette Coleman,Mayor,2011,Tarrytown City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75496,City,"Tarrytown City, GA",32.3187886,-82.5592992
+5877,6675,Paul Bridges,Mayor,2011,Uvalda City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78744,City,"Uvalda City, GA",32.0357429,-82.50818679999999
+5895,6696,Drew Ferguson,Mayor,2011,West Point City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82132,City,"West Point City, GA",32.8779056,-85.18327459999999
+5914,6723,James Andrews,Mayor,2011,Sandersville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=68208,City,"Sandersville City, GA",32.9815431,-82.810138
+5934,6745,Jeff Ambrose,Mayor Pro Tem,2011,Springfield City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=72780,City,"Springfield City, GA",32.3724131,-81.3114988
+5949,6760,Richard Ford,Mayor,2011,Temple City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75832,City,"Temple City, GA",33.7370514,-85.032445
+5966,6781,Joseph Vickers,Interim Mayor,2011,Valdosta City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78800,City,"Valdosta City, GA",30.8327022,-83.2784851
+5994,6812,Jimmie Laing,Mayor,2011,Whigham City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82412,City,"Whigham City, GA",30.8829681,-84.3237944
+6006,6826,Eva Galambos,Mayor,2011,Sandy Springs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=68516,City,"Sandy Springs City, GA",33.9304352,-84.3733147
+6030,6850,June Rooks,Mayor,2011,Stapleton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73004,City,"Stapleton City, GA",33.21570120000001,-82.4681823
+6043,6865,Napoleon Jenkins,Mayor Pro Tem,2011,Tennille City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75888,City,"Tennille City, GA",32.9359886,-82.8115273
+6058,6881,Dan Peeples,Mayor,2011,Varnell City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78996,City,"Varnell City, GA",34.9011886,-84.9738349
+6073,6903,Chris Allen,Mayor,2011,White City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82468,City,"White City, GA",34.2828722,-84.7452138
+6083,6915,Preston Conner,Council Member,2011,Sardis City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=68740,City,"Sardis City, GA",32.975157,-81.75761299999999
+6094,6927,Joe Brannen,Mayor,2011,Statesboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73256,City,"Statesboro City, GA",32.4487876,-81.7831674
+6120,6953,Hays Arnold,Mayor,2011,Thomaston City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76168,City,"Thomaston City, GA",32.8881879,-84.3265854
+6138,6974,James Hungerpiller,Mayor,2011,Vernonburg City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79164,City,"Vernonburg City, GA",31.9657681,-81.12011059999999
+6144,6981,Dock Shelnutt,Mayor,2011,White Plains City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82692,City,"White Plains City, GA",33.4720779,-83.03542890000001
+6153,6991,Larry Hawf,Mayor,2011,Sasser City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=68796,City,"Sasser City, GA",31.7206503,-84.3463045
+6161,6999,Robert Bridges,Mayor,2011,Statham City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73312,City,"Statham City, GA",33.9651127,-83.596555
+6174,7014,Camille Payne,Mayor,2011,Thomasville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76224,City,"Thomasville City, GA",30.8365815,-83.9787808
+6194,7035,Ronnie Dixon,Mayor,2011,Vidalia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79388,City,"Vidalia City, GA",32.2176855,-82.4134614
+6216,7059,Amy Williford,Mayor,2011,Whitesburg City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82720,City,"Whitesburg City, GA",33.4940017,-84.91382829999999
+6225,7070,Otis Johnson,Mayor,2011,Savannah City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69000,City,"Savannah City, GA",32.0835407,-81.09983419999999
+6251,7096,Marilyn Slater,Mayor,2011,Stillmore City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73620,City,"Stillmore City, GA",32.442115,-82.21512330000002
+6265,7115,Kenneth Usry,Mayor,2011,Thomson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76280,City,"Thomson City, GA",33.4706927,-82.50457329999999
+6287,7139,Emerson Lundy,Mayor,2011,Vienna City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79444,City,"Vienna City, GA",32.0915577,-83.7954518
+6304,7162,Lace Futch,Mayor,2011,Willacoochee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=82972,City,"Willacoochee City, GA",31.3407551,-83.0459826
+6318,7178,Clinton Eady,Mayor,2011,Scotland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69336,City,"Scotland City, GA",32.0487877,-82.8170863
+6327,7190,Lee Stuart,Mayor,2011,Stockbridge City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73704,City,"Stockbridge City, GA",33.5442781,-84.23380929999999
+6346,7209,Anna Maria Thomas,Mayor,2011,Thunderbolt City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76364,City,"Thunderbolt City, GA",32.0335445,-81.04983419999999
+6361,7228,J. Collins,Mayor,2011,Villa Rica City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79528,City,"Villa Rica City, GA",33.732052,-84.9191081
+6378,7247,Steve Fry,Mayor,2011,Williamson City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83084,City,"Williamson City, GA",33.1823419,-84.3615902
+6388,7258,Donald Boyette,Mayor,2011,Screven City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69448,City,"Screven City, GA",31.48632539999999,-82.0170596
+6399,7273,Patricia Wheeler,Mayor,2011,Stone Mountain City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=73816,City,"Stone Mountain City, GA",33.8081608,-84.17019599999999
+6417,7291,Jamie Cater,Mayor,2011,Tifton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76476,City,"Tifton City, GA",31.4504629,-83.5084973
+6439,7313,Travis Prichard,Mayor,2011,Waco City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79808,City,"Waco City, GA",33.7028848,-85.1832821
+6446,7322,George Thompson,Mayor,2011,Winder City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83420,City,"Winder City, GA",33.9926097,-83.7201709
+6471,7347,Robert Belisle,Mayor,2011,Senoia City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69672,City,"Senoia City, GA",33.3023411,-84.5538165
+6485,7366,Gary Pirkle,Mayor,2011,Sugar Hill City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74180,City,"Sugar Hill City, GA",34.1064895,-84.0335197
+6503,7385,Richard Gammon,Mayor,2011,Tignall City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76532,City,"Tignall City, GA",33.8676229,-82.7412511
+6514,7398,Herman Baker,Mayor,2011,Wadley City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79864,City,"Wadley City, GA",32.8668223,-82.4040162
+6528,7417,James Mercer,Mayor,2011,Winterville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83728,City,"Winterville City, GA",33.9670589,-83.2782101
+6539,7432,Don Heaton,Mayor,2011,Shady Dale City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69784,City,"Shady Dale City, GA",33.4006823,-83.5901713
+6549,7445,Harry Harvey,Mayor,2011,Summerville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74376,City,"Summerville City, GA",34.480642,-85.3477343
+6573,7470,Janice English,Mayor,2011,Toccoa City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76756,City,"Toccoa City, GA",34.5773206,-83.3323851
+6591,7489,Doris Jones,Mayor,2011,Waleska City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=79948,City,"Waleska City, GA",34.3164826,-84.5521524
+6600,7498,Steven Parrott,Mayor,2011,Woodbine City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83868,City,"Woodbine City, GA",30.9638429,-81.7226063
+6611,7511,Renee Brown,Mayor,2011,Sharon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69896,City,"Sharon City, GA",33.5598553,-82.7948629
+6617,7517,Charlie Hall,Mayor,2011,Sumner City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74432,City,"Sumner City, GA",31.512959,-83.7385063
+6625,7531,Roger Smith,Mayor,2011,Toomsboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=76952,City,"Toomsboro City, GA",32.8268192,-83.07931599999999
+6637,7545,Donald Cannon,Mayor,2011,Walnut Grove City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80228,City,"Walnut Grove City, GA",33.742612,-83.85240399999999
+6648,7559,Ronnie Garrett,Mayor,2011,Woodbury City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83896,City,"Woodbury City, GA",32.9837394,-84.58270309999999
+6660,7573,Wendell Staley,Mayor,2011,Sharpsburg City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=69980,City,"Sharpsburg City, GA",33.3392842,-84.6485417
+6670,7584,Dartha Tillman,Mayor,2011,Surrency City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74852,City,"Surrency City, GA",31.7238139,-82.19790119999999
+6679,7593,Barton Harris,Mayor,2011,Trenton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=77372,City,"Trenton City, GA",34.8720222,-85.50913000000001
+6691,7608,Daisy Pray,Mayor,2011,Walthourville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80256,City,"Walthourville City, GA",31.7741016,-81.632612
+6705,7623,James Carter,Mayor,2011,Woodland City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=83952,City,"Woodland City, GA",32.787356,-84.56186710000001
+6719,7643,Paul Langford,Mayor,2011,Shellman City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=70120,City,"Shellman City, GA",31.7562765,-84.6151965
+6730,7656,Dave Williams,Mayor,2011,Suwanee City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74936,City,"Suwanee City, GA",34.0514898,-84.0712997
+6747,7676,Johnny Ingle,Mayor,2011,Trion City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=77540,City,"Trion City, GA",34.5439735,-85.31051110000001
+6764,7693,Sheila Lee,Mayor,2011,Warm Springs City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80480,City,"Warm Springs City, GA",32.8904081,-84.6810381
+6775,7705,Donald Henriques,Mayor,2011,Woodstock City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84176,City,"Woodstock City, GA",34.1014873,-84.5193754
+6801,7731,Jesse Lee Ellison,Mayor,2011,Shiloh City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=70428,City,"Shiloh City, GA",32.8101325,-84.6960378
+6811,7742,Charles Schwabe,Mayor,2011,Swainsboro City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=74964,City,"Swainsboro City, GA",32.5973856,-82.33373759999999
+6832,7770,Kenny Gowin,Mayor,2011,Tunnel Hill City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=77736,City,"Tunnel Hill City, GA",34.8406339,-85.04272569999999
+6844,7782,Chuck Shaheen,Mayor,2011,Warner Robins City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80508,City,"Warner Robins City, GA",32.6130007,-83.624201
+6867,7809,Phillip Brock,Mayor,2011,Woodville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84260,City,"Woodville City, GA",33.6715142,-83.1059865
+6879,7822,C.L. Rhodes,Mayor,2011,Siloam City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=70932,City,"Siloam City, GA",33.5367968,-83.0809864
+6889,7832,Larry Youngblood,Mayor,2011,Sycamore City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75104,City,"Sycamore City, GA",31.6743474,-83.63739029999999
+6901,7846,Alan Starr,Mayor,2011,Turin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=77764,City,"Turin City, GA",33.3265068,-84.6357634
+6910,7855,Tony Mimbs,Mayor,2011,Warrenton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80592,City,"Warrenton City, GA",33.40708370000001,-82.6620781
+6926,7873,Gary Laggis,Mayor,2011,Woolsey City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84288,City,"Woolsey City, GA",33.3623381,-84.4121473
+6932,7879,Jim Martindale,Mayor,2011,Sky Valley City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71282,City,"Sky Valley City, GA",34.9875902,-83.33321029999999
+6945,7893,Margaret Evans,Mayor,2011,Sylvania City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75160,City,"Sylvania City, GA",32.7504441,-81.636776
+6963,7918,Jimmy Greenway,Mayor,2011,Twin City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=77988,City,"Twin City, GA",32.5829413,-82.15512190000001
+6974,7930,Alan Peacock,Mayor,2011,Warwick City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80676,City,"Warwick City, GA",31.8310072,-83.9187886
+6984,7941,William Hadden,Mayor,2011,Wrens City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84456,City,"Wrens City, GA",33.2076456,-82.391792
+6998,7958,Jerry Myrick,Mayor,2011,Smithville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71464,City,"Smithville City, GA",31.9004451,-84.2518549
+7009,7973,William Yearta,Mayor,2011,Sylvester City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75188,City,"Sylvester City, GA",31.5307349,-83.8354542
+7026,7994,J Beasley,Mayor,2011,Ty Ty City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78100,City,"Ty Ty City, GA",31.4718497,-83.6468362
+7036,8005,Willie Burns,Mayor,2011,Washington City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80704,City,"Washington City, GA",33.7367948,-82.7393089
+7058,8031,Phillip Boatright,Mayor,2011,Wrightsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84512,City,"Wrightsville City, GA",32.7293279,-82.719859
+7072,8046,A. Max Bacon,Mayor,2011,Smyrna City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71492,City,"Smyrna City, GA",33.8839926,-84.51437609999999
+7096,8071,Tony Lamar,Mayor,2011,Talbotton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75244,City,"Talbotton City, GA",32.6776372,-84.5393664
+7109,8086,Jason Buelterman,Mayor,2011,Tybee Island City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78036,City,"Tybee Island City, GA",32.0002152,-80.845666
+7130,8108,Joseph Walter,Mayor,2011,Watkinsville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80788,City,"Watkinsville City, GA",33.8628959,-83.4087708
+7142,8122,Cecil Moncrief,Mayor,2011,Yatesville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84708,City,"Yatesville City, GA",32.9137438,-84.1426922
+7150,8131,Gerald Oberholtzer,Mayor,2011,Snellville City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71604,City,"Snellville City, GA",33.857328,-84.0199108
+7165,8146,Peter Cagle,Mayor,2011,Talking Rock City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75272,City,"Talking Rock City, GA",34.5092562,-84.5049279
+7174,8155,Don Rehwaldt,Mayor,2011,Tyrone City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78044,City,"Tyrone City, GA",33.4712253,-84.5971524
+7188,8170,Dennis McPherson,Mayor,2011,Waverly Hall City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80844,City,"Waverly Hall City, GA",32.683469,-84.7382609
+7199,8183,Andrea Gibby,Mayor,2011,Young Harris City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=84960,City,"Young Harris City, GA",34.9331453,-83.8471223
+7213,8198,James Burgess,Mayor,2011,Social Circle City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71660,City,"Social Circle City, GA",33.656228,-83.718231
+7229,8218,William Bridges,Mayor,2011,Tallapoosa City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75300,City,"Tallapoosa City, GA",33.7445499,-85.2880077
+7247,8238,Charles West,Mayor,2011,Unadilla City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78156,City,"Unadilla City, GA",32.2615496,-83.73656559999999
+7260,8251,Clarence Billups,Mayor,2011,Waycross City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=80956,City,"Waycross City, GA",31.2135511,-82.3540178
+7278,8271,Michael Beres,Mayor,2011,Zebulon City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=85128,City,"Zebulon City, GA",33.1023454,-84.3426997
+7291,8290,Reginald Evans,Mayor,2011,Soperton City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=71772,City,"Soperton City, GA",32.37711820000001,-82.5923554
+7308,8311,Carl Seaman,Mayor,2011,Tallulah Falls City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=75328,City,"Tallulah Falls City, GA",34.7306498,-83.3943316
+7318,8324,Ralph Moore,Mayor,2011,Union City,https://web.archive.org/web/20110402011728/http://www.gmanet.com/Cities.aspx?FIPSCode=78324,City,"Union City, GA",33.5870558,-84.5424299
+7882,8939,James Collins,Mayor,2012,Cobbtown City,https://web.archive.org/web/20120111121556/http://www.gmanet.com/Cities.aspx?FIPSCode=17272,City,"Cobbtown City, GA",32.2804623,-82.138731
+8296,9397,Wayne Tipton,Mayor,2012,Bloomingdale City,https://web.archive.org/web/20120111121556/http://www.gmanet.com/Cities.aspx?FIPSCode=08844,City,"Bloomingdale City, GA",32.1324248,-81.2990018
+15796,17943,Ken Suffridge,Mayor,2013,Aragon City,https://web.archive.org/web/20130126202452/http://www.gmanet.com/Cities.aspx?FIPSCode=02592,City,"Aragon City, GA",34.0456549,-85.0560579
+16039,18224,John Bailey,Mayor,2013,Bowersville City,https://web.archive.org/web/20130126202452/http://www.gmanet.com/Cities.aspx?FIPSCode=09656,City,"Bowersville City, GA",34.3728819,-83.0826491
+19613,22353,Mike Mason,Mayor,2013,Peachtree Corners City,https://web.archive.org/web/20130126202452/http://www.gmanet.com/Cities.aspx?FIPSCode=59735,City,"Peachtree Corners City, GA",33.9698929,-84.2214551
+20589,23476,Al Lewis,Mayor,2013,Santa Claus City,https://web.archive.org/web/20130126202452/http://www.gmanet.com/Cities.aspx?FIPSCode=68600,City,"Santa Claus City, GA",32.1715776,-82.3315138
+21783,24866,William DeLoughy,Mayor,2013,St. Marys City,https://web.archive.org/web/20130126202452/http://www.gmanet.com/Cities.aspx?FIPSCode=67984,City,"St. Marys City, GA",30.7478954,-81.57061089999999
+23989,27352,Gerry Forehand,Mayor,2014,Hilltonia City,https://web.archive.org/web/20140216232911/http://www.gmanet.com/Cities.aspx?FIPSCode=38920,City,"Hilltonia City, GA",32.883494,-81.658166
+26179,29893,Robert Reichert,Mayor,2014,Macon-Bibb CG,https://web.archive.org/web/20140216232911/http://www.gmanet.com/Cities.aspx?FIPSCode=49000,CG,"Macon-Bibb CG, GA",32.8406946,-83.6324022
+27330,31227,Barry Durden,Mayor,2014,Rocky Ford City,https://web.archive.org/web/20140216232911/http://www.gmanet.com/Cities.aspx?FIPSCode=66444,City,"Rocky Ford City, GA",32.6635006,-81.8295571
+29185,33377,Charles  Parker,"<br>
+Chairman <hr>
+</hr></br>",2011,Appling County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Appling,County,"Appling County, GA",31.712238,-82.25832969999999
+29206,33398,Samuel  Guthrie,"<br>
+Chairman <hr>
+</hr></br>",2011,Atkinson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Atkinson,County,"Atkinson County, GA",31.2932161,-82.8640623
+29213,33405,Fred  Russell,"<br>
+Administrator <hr>
+</hr></br>",2011,Augusta-Richmond CG,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Augusta-Richmond,CG,"Augusta-Richmond CG, GA",33.4734978,-82.0105148
+29226,33418,Roger  Boatright,"<br>
+Chairman <hr>
+</hr></br>",2011,Bacon County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bacon,County,"Bacon County, GA",31.5412085,-82.4319405
+29233,33425,Thomas  Moye,"<br>
+Chairman <hr>
+</hr></br>",2011,Baker County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Baker,County,"Baker County, GA",31.2816037,-84.4802606
+29240,33432,Faye  Smith,"<br>
+Chair <hr>
+</hr></br>",2011,Baldwin County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Baldwin,County,"Baldwin County, GA",33.0338083,-83.2934086
+29247,33439,Milton  Dalton,"<br>
+Chairman <hr>
+</hr></br>",2011,Banks County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Banks,County,"Banks County, GA",34.378542,-83.46435509999999
+29253,33445,Daniel  Yearwood,"<br>
+Chairman <hr>
+</hr></br>",2011,Barrow County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Barrow,County,"Barrow County, GA",34.0142667,-83.6986568
+29261,33453,Stephen  Bradley,"<br>
+Administrator <hr>
+</hr></br>",2011,Bartow County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bartow,County,"Bartow County, GA",34.2660473,-84.8150781
+29264,33456,Philip  Jay,"<br>
+Chairman <hr>
+</hr></br>",2011,Ben Hill County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Ben%20Hill,County,"Ben Hill County, GA",31.7664035,-83.2077645
+29270,33462,Elaine  Shiver,"<br>
+Administrator <hr>
+</hr></br>",2011,Berrien County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Berrien,County,"Berrien County, GA",31.3118535,-83.2077645
+29277,33469,Samuel  Hart,"<br>
+Chairman <hr>
+</hr></br>",2011,Bibb County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bibb,County,"Bibb County, GA",32.7865735,-83.7199136
+29284,33476,Kenneth  Powell,"<br>
+Acting Sole Commissioner / Probate Judge <hr>
+</hr></br>",2011,Bleckley County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bleckley,County,"Bleckley County, GA",32.4087854,-83.3789389
+29285,33477,Ronald  Ham,"<br>
+Chairman <hr>
+</hr></br>",2011,Brantley County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Brantley,County,"Brantley County, GA",31.1510963,-81.9971108
+29292,33484,Robert  O'Barr,"<br>
+Administrator <hr>
+</hr></br>",2011,Brooks County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Brooks,County,"Brooks County, GA",30.8730159,-83.54965659999999
+29299,33491,Waverly  Jones,"<br>
+Administrator <hr>
+</hr></br>",2011,Bryan County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bryan,County,"Bryan County, GA",32.0236584,-81.47183869999999
+29307,33499,Garrett  Nevil,"<br>
+Chairman <hr>
+</hr></br>",2011,Bulloch County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Bulloch,County,"Bulloch County, GA",32.3595678,-81.77870209999999
+29316,33508,Merv  Waldrop,"<br>
+Administrator <hr>
+</hr></br>",2011,Burke County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Burke,County,"Burke County, GA",33.088805,-81.9534815
+29322,33514,Alan  White,"<br>
+Administrator <hr>
+</hr></br>",2011,Butts County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Butts,County,"Butts County, GA",33.2691443,-83.9532571
+29330,33522,Michael  Stuart,"<br>
+Chairman <hr>
+</hr></br>",2011,Calhoun County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Calhoun,County,"Calhoun County, GA",31.5621777,-84.6479124
+29336,33528,Steve  Howard,"<br>
+Administrator <hr>
+</hr></br>",2011,Camden County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Camden,County,"Camden County, GA",30.898276,-81.6035062
+29343,33535,James  Flynt,"<br>
+Administrator <hr>
+</hr></br>",2011,Candler County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Candler,County,"Candler County, GA",32.4241804,-82.08429009999999
+29350,33542,William  Chappell,"<br>
+Chairman <hr>
+</hr></br>",2011,Carroll County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Carroll,County,"Carroll County, GA",33.5642239,-85.0649071
+29358,33550,Keith  Greene,"<br>
+Chairman <hr>
+</hr></br>",2011,Catoosa County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Catoosa,County,"Catoosa County, GA",34.8981727,-85.14793639999999
+29365,33557,Steve  Nance,"<br>
+Administrator <hr>
+</hr></br>",2011,Charlton County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Charlton,County,"Charlton County, GA",30.7917361,-82.08429009999999
+29372,33564,Pete  Liakakis,"<br>
+Chairman <hr>
+</hr></br>",2011,Chatham County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Chatham,County,"Chatham County, GA",31.9994194,-81.1196075
+29383,33575,Martha  Tucker,"<br>
+Clerk <hr>
+</hr></br>",2011,Chattooga County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Chattooga,County,"Chattooga County, GA",34.4632661,-85.31362179999999
+29385,33577,L.B.  Ahrens,"<br>
+Chairman <hr>
+</hr></br>",2011,Cherokee County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Cherokee,County,"Cherokee County, GA",34.2514526,-84.4802606
+29392,33584,Spencer  Mueller,"<br>
+Administrator <hr>
+</hr></br>",2011,Clay County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Clay,County,"Clay County, GA",31.6447931,-85.0025539
+29399,33591,Wade  Starr,"<br>
+Administrative Assistant <hr>
+</hr></br>",2011,Clayton County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Clayton,County,"Clayton County, GA",33.5571944,-84.375233
+29406,33598,Kenton  McLaine,"<br>
+Chairman <hr>
+</hr></br>",2011,Clinch County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Clinch,County,"Clinch County, GA",30.9716985,-82.82097399999999
+29413,33605,Tim  Lee,"<br>
+Chairman <hr>
+</hr></br>",2011,Cobb County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Cobb,County,"Cobb County, GA",33.8999297,-84.56414699999999
+29420,33612,Wesley  Vickers,"<br>
+Administrator <hr>
+</hr></br>",2011,Coffee County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Coffee,County,"Coffee County, GA",31.5182285,-82.82097399999999
+29427,33619,Bryan  Shuler,"<br>
+Administrator <hr>
+</hr></br>",2011,Colquitt County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Colquitt,County,"Colquitt County, GA",31.2072856,-83.8473015
+29436,33628,Steve  Szablewski,"<br>
+Administrator <hr>
+</hr></br>",2011,Columbia County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Columbia,County,"Columbia County, GA",33.5098514,-82.25832969999999
+29443,33635,Tiny  Washington,"<br>
+Clerk <hr>
+</hr></br>",2011,Columbus-Muscogee County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Columbus-Muscogee,County,"Columbus-Muscogee County, GA",32.4609764,-84.9877094
+29456,33648,Jeff  Lane,"<br>
+Chairman <hr>
+</hr></br>",2011,Cook County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Cook,County,"Cook County, GA",31.1428037,-83.46435509999999
+29464,33656,Theron  Gay,"<br>
+Administrator <hr>
+</hr></br>",2011,Coweta County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Coweta,County,"Coweta County, GA",33.3716708,-84.7315563
+29471,33663,Dean  Fripp,"<br>
+Chairman <hr>
+</hr></br>",2011,Crawford County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Crawford,County,"Crawford County, GA",32.7090798,-83.9744262
+29477,33669,Lester  Crapse,"<br>
+Administrator <hr>
+</hr></br>",2011,Crisp County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Crisp,County,"Crisp County, GA",31.8875724,-83.804868
+29490,33682,Ted  Rumley,"<br>
+Chairman/County Executive <hr>
+</hr></br>",2011,Dade County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Dade,County,"Dade County, GA",34.9109017,-85.47880649999999
+29496,33688,Mike  Berg,"<br>
+Chairman <hr>
+</hr></br>",2011,Dawson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Dawson,County,"Dawson County, GA",34.412912,-84.14351359999999
+29503,33695,Tom  Patton,"<br>
+Administrator <hr>
+</hr></br>",2011,Decatur County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Decatur,County,"Decatur County, GA",30.8720058,-84.5222189
+29511,33703,Morris  Williams,"<br>
+BOC Chief of Staff <hr>
+</hr></br>",2011,DeKalb County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=DeKalb,County,"DeKalb County, GA",33.7956441,-84.2278796
+29521,33713,Dan  McCranie,"<br>
+Chairman <hr>
+</hr></br>",2011,Dodge County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Dodge,County,"Dodge County, GA",32.1287268,-83.2077645
+29528,33720,Stephen  Sanders,"<br>
+Administrator <hr>
+</hr></br>",2011,Dooly County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Dooly,County,"Dooly County, GA",32.1593447,-83.804868
+29535,33727,Richard  Crowdis,"<br>
+Administrator <hr>
+</hr></br>",2011,Dougherty County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Dougherty,County,"Dougherty County, GA",31.5439375,-84.2278796
+29544,33736,Eric  Linton,"<br>
+Administrator <hr>
+</hr></br>",2011,Douglas County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Douglas,County,"Douglas County, GA",33.7290225,-84.7315563
+29551,33743,Kathy  Howard,"<br>
+Administrator/Clerk <hr>
+</hr></br>",2011,Early County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Early,County,"Early County, GA",31.3901106,-84.8984775
+29557,33749,Brenda  Stalvey,"<br>
+Administrator/Clerk <hr>
+</hr></br>",2011,Echols County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Echols,County,"Echols County, GA",30.7503289,-82.95015579999999
+29561,33753,David  Crawley,"<br>
+Administrator <hr>
+</hr></br>",2011,Effingham County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Effingham,County,"Effingham County, GA",32.378148,-81.38393260000001
+29569,33761,Russell  Lyon,"<br>
+Chairman <hr>
+</hr></br>",2011,Elbert County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Elbert,County,"Elbert County, GA",34.0795372,-82.8640623
+29577,33769,James  Price,"<br>
+Administrator <hr>
+</hr></br>",2011,Emanuel County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Emanuel,County,"Emanuel County, GA",32.5726629,-82.3017728
+29584,33776,Caughey  Hearn,"<br>
+Administrator <hr>
+</hr></br>",2011,Evans County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Evans,County,"Evans County, GA",32.1427011,-81.909826
+29592,33784,William  Simonds,"<br>
+Chairman <hr>
+</hr></br>",2011,Fannin County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Fannin,County,"Fannin County, GA",34.8580405,-84.2278796
+29596,33788,Jack  Krakeel,"<br>
+Administrator <hr>
+</hr></br>",2011,Fayette County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Fayette,County,"Fayette County, GA",33.4502206,-84.4802606
+29603,33795,Eddie  Lumsden,"<br>
+Chairman <hr>
+</hr></br>",2011,Floyd County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Floyd,County,"Floyd County, GA",34.2828967,-85.2308414
+29610,33802,Brian  Tam,"<br>
+Chairman <hr>
+</hr></br>",2011,Forsyth County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Forsyth,County,"Forsyth County, GA",34.2358502,-84.14351359999999
+29618,33810,Samuel  Elrod,"<br>
+Chairman <hr>
+</hr></br>",2011,Franklin County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Franklin,County,"Franklin County, GA",34.3645724,-83.2077645
+29625,33817,John  Eaves,"<br>
+Chairman <hr>
+</hr></br>",2011,Fulton County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Fulton,County,"Fulton County, GA",33.8033965,-84.3962535
+29634,33826,Richard  Morris,"<br>
+Chairman <hr>
+</hr></br>",2011,Georgetown-Quitman CG,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Georgetown-Quitman,CG,"Georgetown-Quitman CG, GA",31.884605,-85.1074308
+29641,33833,J.C.  Sanford,"<br>
+Chairman <hr>
+</hr></br>",2011,Gilmer County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Gilmer,County,"Gilmer County, GA",34.6935359,-84.4802606
+29645,33837,Anthony  Griswell,"<br>
+Chairman <hr>
+</hr></br>",2011,Glascock County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Glascock,County,"Glascock County, GA",33.2422994,-82.6267345
+29649,33841,Alan  Ours,"<br>
+Administrator <hr>
+</hr></br>",2011,Glynn County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Glynn,County,"Glynn County, GA",31.2624169,-81.6035062
+29658,33850,Randall  Dowling,"<br>
+Administrator <hr>
+</hr></br>",2011,Gordon County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Gordon,County,"Gordon County, GA",34.4891699,-84.8567932
+29665,33857,Russell  Moye,"<br>
+Administrator <hr>
+</hr></br>",2011,Grady County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Grady,County,"Grady County, GA",30.9050079,-84.2278796
+29672,33864,Dene  Channell,"<br>
+Chairman <hr>
+</hr></br>",2011,Greene County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Greene,County,"Greene County, GA",33.5186591,-83.1649001
+29679,33871,Glenn  Stephens,"<br>
+Administrator <hr>
+</hr></br>",2011,Gwinnett County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Gwinnett,County,"Gwinnett County, GA",33.9190653,-84.01674229999999
+29685,33877,Garnett  James,"<br>
+Chairman <hr>
+</hr></br>",2011,Habersham County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Habersham,County,"Habersham County, GA",34.6478893,-83.54965659999999
+29692,33884,Tom  Oliver,"<br>
+Chairman <hr>
+</hr></br>",2011,Hall County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Hall,County,"Hall County, GA",34.30778,-83.804868
+29699,33891,Samuel  Duggan,"<br>
+Chairman <hr>
+</hr></br>",2011,Hancock County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Hancock,County,"Hancock County, GA",33.2882621,-83.03613759999999
+29705,33897,Allen  Poole,"<br>
+Chairman <hr>
+</hr></br>",2011,Haralson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Haralson,County,"Haralson County, GA",33.8021715,-85.1900684
+29711,33903,Harry  Lange,"<br>
+Chairman <hr>
+</hr></br>",2011,Harris County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Harris,County,"Harris County, GA",32.7032697,-84.8567932
+29718,33910,Jon  Caime,"<br>
+Administrator <hr>
+</hr></br>",2011,Hart County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Hart,County,"Hart County, GA",34.3500039,-82.95015579999999
+29725,33917,June  Jackson,"<br>
+Chairperson <hr>
+</hr></br>",2011,Heard County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Heard,County,"Heard County, GA",33.2990406,-85.14793639999999
+29732,33924,Elizabeth  Mathis,"<br>
+Chairperson <hr>
+</hr></br>",2011,Henry County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Henry,County,"Henry County, GA",33.4347963,-84.14351359999999
+29740,33932,Tommy  Stalnaker,"<br>
+Chairman <hr>
+</hr></br>",2011,Houston County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Houston,County,"Houston County, GA",32.4219655,-83.63484299999999
+29746,33938,Joey  Whitley,"<br>
+Chairman <hr>
+</hr></br>",2011,Irwin County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Irwin,County,"Irwin County, GA",31.5893221,-83.2934086
+29752,33944,Hunter  Bicknell,"<br>
+Chairman <hr>
+</hr></br>",2011,Jackson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jackson,County,"Jackson County, GA",34.1174511,-83.54965659999999
+29759,33951,Charles  Hill,"<br>
+Chairman <hr>
+</hr></br>",2011,Jasper County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jasper,County,"Jasper County, GA",33.3246924,-83.7199136
+29766,33958,Hugh  Brantley,"<br>
+Chairman <hr>
+</hr></br>",2011,Jeff Davis County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jeff%20Davis,County,"Jeff Davis County, GA",31.8234851,-82.605118
+29773,33965,Paul  Bryan,"<br>
+Administrator <hr>
+</hr></br>",2011,Jefferson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jefferson,County,"Jefferson County, GA",33.0740753,-82.4319405
+29780,33972,Carol  Cates,"<br>
+Administrator <hr>
+</hr></br>",2011,Jenkins County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jenkins,County,"Jenkins County, GA",32.7781246,-81.9971108
+29787,33979,Lyndon  Singletary,"<br>
+Administrator <hr>
+</hr></br>",2011,Johnson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Johnson,County,"Johnson County, GA",32.7308194,-82.6915429
+29793,33985,Michael  Underwood,"<br>
+Administrator <hr>
+</hr></br>",2011,Jones County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Jones,County,"Jones County, GA",33.0002582,-83.5070203
+29800,33992,Austin  Patterson,"<br>
+Administrator <hr>
+</hr></br>",2011,Lamar County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lamar,County,"Lamar County, GA",33.0765883,-84.14351359999999
+29807,33999,Albert  Studstill,"<br>
+Administrator <hr>
+</hr></br>",2011,Lanier County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lanier,County,"Lanier County, GA",31.02912689999999,-83.03613759999999
+29814,34006,Bryan  Rogers,"<br>
+Administrator <hr>
+</hr></br>",2011,Laurens County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Laurens,County,"Laurens County, GA",32.433014,-82.99316069999999
+29820,34012,Edward  Duffy,"<br>
+Chairman <hr>
+</hr></br>",2011,Lee County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lee,County,"Lee County, GA",31.8128435,-84.14351359999999
+29827,34019,Joseph  Brown,"<br>
+Administrator <hr>
+</hr></br>",2011,Liberty County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Liberty,County,"Liberty County, GA",31.842969,-81.47183869999999
+29836,34028,H. Wade  Johnson,"<br>
+Chairman <hr>
+</hr></br>",2011,Lincoln County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lincoln,County,"Lincoln County, GA",33.7875101,-82.4319405
+29842,34034,Robert  Walker,"<br>
+Chairman <hr>
+</hr></br>",2011,Long County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Long,County,"Long County, GA",31.7755541,-81.8224362
+29848,34040,Ashley  Paulk,"<br>
+Chairman <hr>
+</hr></br>",2011,Lowndes County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lowndes,County,"Lowndes County, GA",30.8600022,-83.2934086
+29854,34046,John  Raber,"<br>
+Chairman <hr>
+</hr></br>",2011,Lumpkin County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Lumpkin,County,"Lumpkin County, GA",34.5813972,-83.9744262
+29861,34053,Ambrose  Felton,"<br>
+Chairman <hr>
+</hr></br>",2011,Macon County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Macon,County,"Macon County, GA",32.3523607,-84.05902900000001
+29868,34060,Anthony  Dove,"<br>
+Chairman <hr>
+</hr></br>",2011,Madison County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Madison,County,"Madison County, GA",34.0990245,-83.2077645
+29875,34067,George  Neal,"<br>
+Chairman <hr>
+</hr></br>",2011,Marion County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Marion,County,"Marion County, GA",32.328102,-84.5222189
+29881,34073,Charles  Newton,"<br>
+Chairman <hr>
+</hr></br>",2011,McDuffie County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=McDuffie,County,"McDuffie County, GA",33.5258626,-82.5185837
+29888,34080,Kelly  Spratt,"<br>
+Chairperson <hr>
+</hr></br>",2011,McIntosh County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=McIntosh,County,"McIntosh County, GA",31.4748147,-81.38393260000001
+29895,34087,Rita  Rainwater,"<br>
+Administrator <hr>
+</hr></br>",2011,Meriwether County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Meriwether,County,"Meriwether County, GA",33.0561282,-84.68974949999999
+29902,34094,Jimmy  Haywood,"<br>
+Chairman <hr>
+</hr></br>",2011,Miller County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Miller,County,"Miller County, GA",31.2008218,-84.7315563
+29909,34101,Bennett  Adams,"<br>
+Administrator <hr>
+</hr></br>",2011,Mitchell County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Mitchell,County,"Mitchell County, GA",31.2230067,-84.1857115
+29916,34108,Anita  Buice,"<br>
+Administrator <hr>
+</hr></br>",2011,Monroe County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Monroe,County,"Monroe County, GA",32.9746846,-83.8897057
+29922,34114,Brandon  Braddy,"<br>
+Chairman <hr>
+</hr></br>",2011,Montgomery County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Montgomery,County,"Montgomery County, GA",32.1802095,-82.5185837
+29929,34121,Mack  Bohlen,"<br>
+Chairman <hr>
+</hr></br>",2011,Morgan County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Morgan,County,"Morgan County, GA",33.5794186,-83.46435509999999
+29936,34128,Charlene  Miles,"<br>
+Clerk <hr>
+</hr></br>",2011,Murray County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Murray,County,"Murray County, GA",34.7928029,-84.7315563
+29939,34131,Kathryn  Morgan,"<br>
+Chairman <hr>
+</hr></br>",2011,Newton County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Newton,County,"Newton County, GA",33.5544296,-83.8473015
+29947,34139,Alan  Theriault,"<br>
+Administrative Officer <hr>
+</hr></br>",2011,Oconee County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Oconee,County,"Oconee County, GA",33.8231988,-83.4430118
+29954,34146,Billy  Pittard,"<br>
+Chairman <hr>
+</hr></br>",2011,Oglethorpe County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Oglethorpe,County,"Oglethorpe County, GA",33.9119731,-83.03613759999999
+29961,34153,Michael  Jones,"<br>
+Administrator <hr>
+</hr></br>",2011,Paulding County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Paulding,County,"Paulding County, GA",33.9142037,-84.8984775
+29968,34160,Marcia  Johnson,"<br>
+Administrator <hr>
+</hr></br>",2011,Peach County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Peach,County,"Peach County, GA",32.5892926,-83.8260884
+29974,34166,Deborah  Watson,"<br>
+County Clerk <hr>
+</hr></br>",2011,Pickens County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Pickens,County,"Pickens County, GA",34.4497166,-84.4592701
+29976,34168,Mitchell  Bowen,"<br>
+Chairman <hr>
+</hr></br>",2011,Pierce County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Pierce,County,"Pierce County, GA",31.343806,-82.1713632
+29982,34174,Douglas  Mangham,"<br>
+Chairman <hr>
+</hr></br>",2011,Pike County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Pike,County,"Pike County, GA",33.0881873,-84.3962535
+29989,34181,Marshelle  Thaxton,"<br>
+Chairman <hr>
+</hr></br>",2011,Polk County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Polk,County,"Polk County, GA",34.0132398,-85.14793639999999
+29997,34189,Vickie  Vaughn,"<br>
+Clerk <hr>
+</hr></br>",2011,Pulaski County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Pulaski,County,"Pulaski County, GA",32.232644,-83.46435509999999
+29999,34191,Tom  Thompson,"<br>
+Chairman <hr>
+</hr></br>",2011,Putnam County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Putnam,County,"Putnam County, GA",33.3069978,-83.3789389
+30006,34198,Jim  Bleckley,"<br>
+Administrator <hr>
+</hr></br>",2011,Rabun County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Rabun,County,"Rabun County, GA",34.9027286,-83.3789389
+30013,34205,Ben  Plowden,"<br>
+Administrator <hr>
+</hr></br>",2011,Randolph County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Randolph,County,"Randolph County, GA",31.7913398,-84.68974949999999
+30020,34212,Richard  Oden,"<br>
+Chairman <hr>
+</hr></br>",2011,Rockdale County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Rockdale,County,"Rockdale County, GA",33.6752492,-84.0378894
+30025,34217,Greg  Barineau,"<br>
+Chairman <hr>
+</hr></br>",2011,Schley County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Schley,County,"Schley County, GA",32.2736136,-84.3121264
+30031,34223,Wanda  Stewart,"<br>
+Administrative Clerk <hr>
+</hr></br>",2011,Screven County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Screven,County,"Screven County, GA",32.7074673,-81.6035062
+30040,34232,Donna  Jones,"<br>
+Administrator <hr>
+</hr></br>",2011,Seminole County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Seminole,County,"Seminole County, GA",30.9331429,-84.8984775
+30046,34238,Eddie  Freeman,"<br>
+Chairman <hr>
+</hr></br>",2011,Spalding County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Spalding,County,"Spalding County, GA",33.2636732,-84.3121264
+30053,34245,John  Rutan,"<br>
+Administrator <hr>
+</hr></br>",2011,Stephens County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Stephens,County,"Stephens County, GA",34.5458998,-83.2934086
+30060,34252,Joe  Williams,"<br>
+Chairman <hr>
+</hr></br>",2011,Stewart County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Stewart,County,"Stewart County, GA",32.1141344,-84.8150781
+30066,34258,Lynn  Taylor,"<br>
+Administrator <hr>
+</hr></br>",2011,Sumter County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Sumter,County,"Sumter County, GA",31.9981596,-84.2278796
+30073,34265,R. Freeman  Montgomery,"<br>
+Chairman <hr>
+</hr></br>",2011,Talbot County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Talbot,County,"Talbot County, GA",32.6891322,-84.5222189
+30080,34272,Charles  Ware,"<br>
+Chairman <hr>
+</hr></br>",2011,Taliaferro County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Taliaferro,County,"Taliaferro County, GA",33.56978780000001,-82.8855961
+30084,34276,Frank  Murphy,"<br>
+Chairman <hr>
+</hr></br>",2011,Tattnall County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Tattnall,County,"Tattnall County, GA",32.0634576,-82.08429009999999
+30092,34284,Clinton  Perry,"<br>
+Chairman <hr>
+</hr></br>",2011,Taylor County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Taylor,County,"Taylor County, GA",32.5407455,-84.2278796
+30098,34290,Howard  Hart,"<br>
+Chairman <hr>
+</hr></br>",2011,Telfair County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Telfair,County,"Telfair County, GA",31.8907647,-82.99316069999999
+30104,34296,Wilbur  Gamble,"<br>
+Chairman <hr>
+</hr></br>",2011,Terrell County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Terrell,County,"Terrell County, GA",31.7370079,-84.4802606
+30110,34302,J. Elaine  Mays,"<br>
+Chairman <hr>
+</hr></br>",2011,Thomas County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Thomas,County,"Thomas County, GA",30.8417409,-83.8473015
+30120,34312,Grady  Thompson,"<br>
+Chairman <hr>
+</hr></br>",2011,Tift County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Tift,County,"Tift County, GA",31.4205597,-83.54965659999999
+30129,34321,Thomas  West,"<br>
+Chairman <hr>
+</hr></br>",2011,Toombs County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Toombs,County,"Toombs County, GA",32.0795072,-82.34518899999999
+30136,34328,Linda  Hedden,"<br>
+Clerk <hr>
+</hr></br>",2011,Towns County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Towns,County,"Towns County, GA",34.9208214,-83.7199136
+30138,34330,Joe  Webb,"<br>
+Chairman <hr>
+</hr></br>",2011,Treutlen County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Treutlen,County,"Treutlen County, GA",32.3870233,-82.5834947
+30145,34337,Richard  Wolfe,"<br>
+Chairman <hr>
+</hr></br>",2011,Troup County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Troup,County,"Troup County, GA",33.0698575,-85.02334599999999
+30152,34344,Sam  McCard,"<br>
+Chairman <hr>
+</hr></br>",2011,Turner County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Turner,County,"Turner County, GA",31.6976531,-83.63484299999999
+30158,34350,Glenn  Barton,"<br>
+Administrator <hr>
+</hr></br>",2011,Twiggs County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Twiggs,County,"Twiggs County, GA",32.68356,-83.46435509999999
+30165,34357,Peggy  Deyton,"<br>
+Clerk <hr>
+</hr></br>",2011,Union County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Union,County,"Union County, GA",34.8457601,-83.9744262
+30167,34359,Maurice  Raines,"<br>
+Chairman <hr>
+</hr></br>",2011,Upson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Upson,County,"Upson County, GA",32.9047684,-84.3121264
+30174,34366,Briggitt  Garrett,"<br>
+Clerk <hr>
+</hr></br>",2011,Walker County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Walker,County,"Walker County, GA",34.6858231,-85.35496499999999
+30176,34368,Kevin  Little,"<br>
+Chairman <hr>
+</hr></br>",2011,Walton County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Walton,County,"Walton County, GA",33.7708613,-83.7199136
+30184,34376,James  Brown,"<br>
+Chairman <hr>
+</hr></br>",2011,Ware County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Ware,County,"Ware County, GA",31.134411,-82.4752757
+30191,34383,John  Graham,"<br>
+Chairman <hr>
+</hr></br>",2011,Warren County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Warren,County,"Warren County, GA",33.4470392,-82.6915429
+30195,34387,Angie  Holley,"<br>
+Accounts Payable <hr>
+</hr></br>",2011,Washington County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Washington,County,"Washington County, GA",32.962702,-82.82097399999999
+30202,34394,Mike  Deal,"<br>
+Administrator <hr>
+</hr></br>",2011,Wayne County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Wayne,County,"Wayne County, GA",31.5092107,-81.909826
+30209,34401,error: no page,error: no page,2011,Webster County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Webster,County,"Webster County, GA",32.0129889,-84.56414699999999
+30210,34402,Keith  McNeal,"<br>
+Chairman <hr>
+</hr></br>",2011,Wheeler County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Wheeler,County,"Wheeler County, GA",32.0999794,-82.6915429
+30214,34406,Travis  Turner,"<br>
+Chairman <hr>
+</hr></br>",2011,White County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=White,County,"White County, GA",34.6567728,-83.7199136
+30221,34413,Mark  Gibson,"<br>
+Administrator <hr>
+</hr></br>",2011,Whitfield County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Whitfield,County,"Whitfield County, GA",34.8033566,-84.981754
+30228,34420,Tracy  Tyndal,"<br>
+Chairman <hr>
+</hr></br>",2011,Wilcox County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Wilcox,County,"Wilcox County, GA",31.9611759,-83.46435509999999
+30234,34426,David  Tyler,"<br>
+Administrator <hr>
+</hr></br>",2011,Wilkes County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Wilkes,County,"Wilkes County, GA",33.808264,-82.7778579
+30240,34432,Dennis  Holder,"<br>
+Chairman <hr>
+</hr></br>",2011,Wilkinson County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Wilkinson,County,"Wilkinson County, GA",32.8024682,-83.1649001
+30246,34438,Matt  Medders,"<br>
+Chairman <hr>
+</hr></br>",2011,Worth County,https://web.archive.org/web/20110218230752/http://www.accg.org/county_db_detail_map.asp?u_input=Worth,County,"Worth County, GA",31.5282489,-83.8897057
