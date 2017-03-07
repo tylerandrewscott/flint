@@ -111,3 +111,4 @@ spatial_data/.*
 Scratch/.*
 Scratch
 *.RData
+alchemyapi_python
