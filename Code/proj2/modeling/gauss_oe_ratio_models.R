@@ -153,7 +153,7 @@ form_oe_dep = Debt_Ratio_Total ~  Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized +
   lg_count +
-  TotOE_SD_Dep_Over_TotOE*TotOE_SD_Ind_Over_TotOE +
+  TotOE_SD_Dep_Over_TotOE+TotOE_SD_Ind_Over_TotOE +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -163,7 +163,7 @@ form_oe_juris = Debt_Ratio_Total ~  Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized +
   lg_count +
-  TotOE_SD_Multi_Over_TotOE*TotOE_SD_Single_Over_TotOE +
+  TotOE_SD_Multi_Over_TotOE+TotOE_SD_Single_Over_TotOE +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -173,7 +173,7 @@ form_oe_asset = Debt_Ratio_Total ~   Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized +
   lg_count +
-  TotOE_SD_High_Over_TotOE*TotOE_SD_Low_Over_TotOE +
+  TotOE_SD_High_Over_TotOE+TotOE_SD_Low_Over_TotOE +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -183,7 +183,7 @@ mod_list_gauss_oe = lapply(form_list_oe,function(x) inla(x,family = 'gaussian', 
              control.compute = list(waic=TRUE,dic=TRUE,cpo=TRUE),verbose=T))
 
 
-save.image('Scratch/temp_results_oe_ratio_2.RData')
+save.image('Scratch/temp_results_oe_ratio_2_noi.RData')
 # 
 # 
 # 

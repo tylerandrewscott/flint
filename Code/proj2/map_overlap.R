@@ -5,8 +5,6 @@ library(dplyr)
 library(readxl)
 
 
-
-
 georgia_outline = readOGR('spatial_data','PVS_15_v1_state_13')
 georgia_grid = SpatialPoints(sp::spsample(georgia_outline,n=100000,type='hexagonal'),proj4string=CRS(proj4string(georgia_outline)))
 

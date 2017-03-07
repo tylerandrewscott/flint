@@ -181,7 +181,7 @@ form_ratio_dep = Debt_Ratio_Total ~  Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized +
   lg_count +
-  sd_count_dep*sd_count_ind  +
+  sd_count_dep + sd_count_ind  +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -191,7 +191,7 @@ form_ratio_juris = Debt_Ratio_Total ~  Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized + 
   lg_count +
-  sd_count_single*sd_count_multi +
+ sd_count_single +sd_count_multi +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -201,7 +201,7 @@ form_ratio_asset = Debt_Ratio_Total ~   Pop10k_mc + pop_growth_percent_mc +
   TotOE_SD1m_mc +
   urbanized + 
   lg_count +
-  sd_count_high*sd_count_low  +
+  sd_count_high + sd_count_low  +
   f(Linear_Year,model='ar1',group=ID)+ 
   f(ID, model="bym", graph="ga_county.adj")
 
@@ -211,7 +211,9 @@ mod_list_gauss = lapply(form_list,function(x) inla(x,family = 'gaussian', data =
                                              control.compute = list(waic=TRUE,dic=TRUE,cpo=TRUE),verbose=T))
 
 
-save.image('Scratch/temp_results_total_ratio_ar1.RData')
+lapply(mod_list_gauss,function(x) x$waic$waic)
+
+save.image('Scratch/temp_results_total_ratio_ar1_noi.RData')
 
 # 
 # 

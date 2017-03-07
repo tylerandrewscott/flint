@@ -1,10 +1,11 @@
-
+rm(list=ls())
 library(tidyverse)
 library(ggthemes)
-install.packages("INLA", repos="https://www.math.ntnu.no/inla/R/stable")
+library(INLA)
 rm(list=ls())
-load('Scratch/temp_results_total_ratio_ar1.RData')
-
+load('Scratch/temp_results_total_ratio_ar1_noi.RData')
+library(broom)
+library(forcats)
 
 model_fixed_coefs = do.call(rbind,lapply(1:length(mod_list_gauss),function(x) as.data.frame(mod_list_gauss[[x]]$summary.fixed) %>%
                                      mutate(Model = x,Coef = mod_list_gauss[[x]]$names.fixed,Effect='Fixed'))) %>% filter(!grepl('Intercept',Coef))  %>% dplyr::select(-kld)
@@ -14,10 +15,253 @@ model_random_coefs = do.call(rbind,lapply(1:length(mod_list_gauss),function(x) a
   filter(!grepl('Intercept',Coef))
 
 
-model_fixed_coefs$SIG = ifelse(model_fixed_coefs$`0.025quant`<0&model_fixed_coefs$`0.975quant`>0,0,1)
+model_fixed_coefs = model_fixed_coefs %>% mutate(Model = ifelse(Model==1,'Total',
+               ifelse(Model==2,'Asset specificity',
+                      ifelse(Model==3,'Status','Jurisdiction'
+                      ))),
+               SIG = ifelse(`0.025quant`<0&`0.975quant`>0,0,1))
+
+
+
+model_fixed_coefs$Coef = fct_recode(model_fixed_coefs$Coef,
+`Population (10k)` = 'Pop10k_mc',
+`Yearly population growth %` = 'pop_growth_percent_mc',
+`% pop. with degree` = "PERC_BACH_OVER25_mc",
+`% pop. over age 65` = "Perc_Over65_mc",
+`Unemployment %` = "UnempR_mc",
+`Income per capita ($1k)` = "Income_Per_Capita_1k_mc",
+`% households w/ children` = 'prop_house_with_children_mc',
+`SD Operating Expenses ($1M)` = "TotOE_SD1m_mc",
+`Rural` = "urbanizedRural",
+`Suburban` = "urbanizedSuburban",
+`# local governments` = "lg_count",
+`# special districts` = 'sd_count',
+`# single-juris. SDs` = 'sd_count_single',
+`# multi-juris. SDs` = 'sd_count_multi',
+`# high AS SDs` = 'sd_count_high',
+`# low AS SDs` = 'sd_count_low',
+`# dep. SDs` = 'sd_count_dep',
+`# ind. SDs` = 'sd_count_ind')
+
+
+
+model_fixed_coefs$Coef = fct_relevel(model_fixed_coefs$Coef,c(
+ 'Population (10k)'  ,
+  'Yearly population growth %'  ,
+     '% pop. over age 65'  ,
+ '% households w/ children'  ,
+      'Unemployment %'  ,
+    'Income per capita ($1k)'  ,
+ '% pop. with degree'  ,
+ 'Rural'  ,
+ 'Suburban'  ,
+  'SD Operating Expenses ($1M)'  ,
+   '# local governments'  ,
+    '# special districts'  ,
+      '# single-juris. SDs'  ,
+    '# multi-juris. SDs'  ,
+      '# high AS SDs'  ,
+'# low AS SDs'  ,
+   '# dep. SDs'  ,
+     '# ind. SDs'  ))
+
+model_fixed_coefs$Model = fct_relevel(model_fixed_coefs$Model,
+                                      c('Total'))
+
 
 #model_coefs = rbind(model_fixed_coefs,model_random_coefs)
-library(forcats)
+
+
+ggplot(data = model_fixed_coefs) +
+  geom_vline(xintercept=0,lty=2) +
+  geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=Coef,yend=Coef),lwd = 2,lineend = 'round') +
+  theme_tufte(ticks=F) + 
+  geom_point(aes(x=mean,y=Coef,fill=as.factor(SIG)),size=2,shape=21)+
+  scale_x_continuous(name = '95% credible interval',
+                     breaks=seq(-0.5,0.5,.5),labels=seq(-0.5,.5,0.5)) +
+  scale_fill_manual(values=c('white','black'),guide=FALSE) +
+  facet_wrap(~Model,nrow=1) +
+  scale_y_discrete(limits = rev(levels(model_fixed_coefs$Coef))) +
+  theme(axis.title.y=element_blank(),axis.text=element_text(size=14),
+        strip.text=element_text(size=14))
+
+table_coefs = model_fixed_coefs %>% select(-mode,-sd,-Effect,-SIG,-`0.5quant`)  %>%
+  mutate(Mean = signif(mean,2),`0.025quant` = signif(`0.025quant`,2),`0.975quant` = signif(`0.975quant`,2)) %>%
+  mutate(Print = paste0(Mean,' (',`0.025quant`,', ',`0.975quant`,')')) %>%
+  select(Coef,Print,Model)
+
+table_coefs_ranef = model_random_coefs %>% select(-mode,-sd,-Effect,-`0.5quant`)  %>%
+  mutate(Mean = signif(mean,2),`0.025quant` = signif(`0.025quant`,2),`0.975quant` = signif(`0.975quant`,2)) %>%
+  mutate(Print = paste0(Mean,' (',`0.025quant`,', ',`0.975quant`,')')) %>%
+  select(Coef,Print,Model)
+
+table_coefs$Coef = fct_relevel(table_coefs$Coef,c(
+  'Population (10k)'  ,
+  'Yearly population growth %'  ,
+  '% pop. over age 65'  ,
+  '% households w/ children'  ,
+  'Unemployment %'  ,
+  'Income per capita ($1k)'  ,
+  '% pop. with degree'  ,
+  'Rural'  ,
+  'Suburban'  ,
+  'SD Operating Expenses ($1M)'  ,
+  '# local governments'  ,
+  '# special districts'  ,
+  '# single-juris. SDs'  ,
+  '# multi-juris. SDs'  ,
+  '# high AS SDs'  ,
+  '# low AS SDs'  ,
+  '# dep. SDs'  ,
+  '# ind. SDs'   ))
+library(knitr)
+kable(table_coefs %>% spread(Model,Print),format = 'html',
+      align = c('l','c','c','c','c'))
+
+kable(table_coefs_ranef %>% spread(Model,Print),format = 'html',
+      align = c('l','c','c','c','c'))
+
+
+mod_names = c('Total','Asset specificity',
+      'Status','Jurisdiction')
+
+cpo_vals = lapply(1:length(mod_list_gauss),function(x) 
+  data.frame(CPO = mod_list_gauss[[x]]$cpo$cpo,Model = mod_names[x],i = 1:length(mod_list_gauss[[x]]$cpo$cpo))) %>%
+  do.call(rbind,.)
+
+library(viridis)
+ggplot(cpo_vals,aes(x=i,y=CPO,colour=Model)) + geom_point(pch=1) + theme_tufte(ticks=F) + 
+  scale_color_viridis(discrete=T,option = 'D') + scale_x_continuous(name='Observation') + 
+  theme(axis.text.x=element_blank(),legend.position = 'bottom',
+        axis.text.y=element_text(size=16),axis.title=element_text(size=18),
+        legend.title=element_text(size=18),legend.text=element_text(size=16))
+
+
+rm(list=ls())
+load('Scratch/temp_results_oe_ratio_2_noi.RData')
+
+
+model_fixed_coefs = do.call(rbind,lapply(1:length(mod_list_gauss_oe),function(x) as.data.frame(mod_list_gauss[[x]]$summary.fixed) %>%
+                                           mutate(Model = x,Coef = mod_list_gauss_oe[[x]]$names.fixed,Effect='Fixed'))) %>% filter(!grepl('Intercept',Coef))  %>% dplyr::select(-kld)
+
+model_random_coefs = do.call(rbind,lapply(1:length(mod_list_gauss_oe),function(x) as.data.frame(mod_list_gauss_oe[[x]]$summary.hyperpar) %>%
+                                            mutate(Model = x,Coef = rownames(mod_list_gauss_oe[[x]]$summary.hyperpar),Effect='Random'))) %>%
+  filter(!grepl('Intercept',Coef))
+
+
+model_fixed_coefs = model_fixed_coefs %>% mutate(Model = ifelse(Model==1,'Total',
+                                                                ifelse(Model==2,'Asset specificity',
+                                                                       ifelse(Model==3,'Status','Jurisdiction'
+                                                                       ))),
+                                                 SIG = ifelse(`0.025quant`<0&`0.975quant`>0,0,1))
+
+
+
+model_fixed_coefs$Coef = fct_recode(model_fixed_coefs$Coef,
+                                    `Population (10k)` = 'Pop10k_mc',
+                                    `Yearly population growth %` = 'pop_growth_percent_mc',
+                                    `% pop. with degree` = "PERC_BACH_OVER25_mc",
+                                    `% pop. over age 65` = "Perc_Over65_mc",
+                                    `Unemployment %` = "UnempR_mc",
+                                    `Income per capita ($1k)` = "Income_Per_Capita_1k_mc",
+                                    `% households w/ children` = 'prop_house_with_children_mc',
+                                    `SD Operating Expenses ($1M)` = "TotOE_SD1m_mc",
+                                    `Rural` = "urbanizedRural",
+                                    `Suburban` = "urbanizedSuburban",
+                                    `# local governments` = "lg_count",
+                                    `OE special districts/Total OE` = 'OE_Ratio_SD_All',
+                                    `OE single-juris. SDs/Total OE` = 'TotOE_SD_Single_Over_TotOE',
+                                    `OE multi-juris. SDs/Total OE` = 'TotOE_SD_Multi_Over_TotOE',
+                                    `OE high AS SDs/Total OE` = 'TotOE_SD_High_Over_TotOE',
+                                    `OE low AS SDs/Total OE` = 'TotOE_SD_Low_Over_TotOE',
+                                    `OE dep. SDs/Total OE` = 'TotOE_SD_Dep_Over_TotOE',
+                                    `OE ind. SDs/Total OE` = 'TotOE_SD_Ind_Over_TotOE')
+
+
+
+model_fixed_coefs$Coef = fct_relevel(model_fixed_coefs$Coef,c(
+  'Population (10k)'  ,
+  'Yearly population growth %'  ,
+  '% pop. over age 65'  ,
+  '% households w/ children'  ,
+  'Unemployment %'  ,
+  'Income per capita ($1k)'  ,
+  '% pop. with degree'  ,
+  'Rural'  ,
+  'Suburban'  ,
+  'SD Operating Expenses ($1M)'  ,
+  '# local governments'  ,
+  'OE special districts/Total OE',
+  'OE single-juris. SDs/Total OE',
+  'OE multi-juris. SDs/Total OE',
+  'OE high AS SDs/Total OE',
+  'OE low AS SDs/Total OE' ,
+  'OE dep. SDs/Total OE',
+  'OE ind. SDs/Total OE'  ))
+
+model_fixed_coefs$Model = fct_relevel(model_fixed_coefs$Model,
+                                      c('Total'))
+
+
+#model_coefs = rbind(model_fixed_coefs,model_random_coefs)
+
+
+ggplot(data = model_fixed_coefs) +
+  geom_vline(xintercept=0,lty=2) +
+  geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=Coef,yend=Coef),lwd = 2,lineend = 'round') +
+  theme_tufte(ticks=F) + 
+  geom_point(aes(x=mean,y=Coef,fill=as.factor(SIG)),size=2,shape=21)+
+  scale_x_continuous(name = '95% credible interval',
+                     breaks=seq(-0.5,0.5,.5),labels=seq(-0.5,.5,0.5)) +
+  scale_fill_manual(values=c('white','black'),guide=FALSE) +
+  facet_wrap(~Model,nrow=1) +
+  scale_y_discrete(limits = rev(levels(model_fixed_coefs$Coef))) +
+  theme(axis.title.y=element_blank(),axis.text=element_text(size=14),
+        strip.text=element_text(size=14))
+
+
+
+table_coefs_oe = model_fixed_coefs %>% select(-mode,-sd,-Effect,-SIG,-`0.5quant`)  %>%
+  mutate(Mean = signif(mean,2),`0.025quant` = signif(`0.025quant`,2),`0.975quant` = signif(`0.975quant`,2)) %>%
+  mutate(Print = paste0(Mean,' (',`0.025quant`,', ',`0.975quant`,')')) %>%
+  select(Coef,Print,Model)
+
+
+table_coefs_oe$Coef = fct_relevel(table_coefs_oe$Coef,c(
+  'Population (10k)'  ,
+  'Yearly population growth %'  ,
+  '% pop. over age 65'  ,
+  '% households w/ children'  ,
+  'Unemployment %'  ,
+  'Income per capita ($1k)'  ,
+  '% pop. with degree'  ,
+  'Rural'  ,
+  'Suburban'  ,
+  'SD Operating Expenses ($1M)'  ,
+  '# local governments'  ,
+  'OE special districts/Total OE',
+  'OE single-juris. SDs/Total OE',
+  'OE multi-juris. SDs/Total OE',
+  'OE high AS SDs/Total OE',
+  'OE low AS SDs/Total OE' ,
+  'OE dep. SDs/Total OE',
+  'OE ind. SDs/Total OE'  ))
+library(knitr)
+kable(table_coefs_oe %>% spread(Model,Print),format = 'html',
+      align = c('l','c','c','c'))
+
+table_coefs_ranef = model_random_coefs %>% select(-mode,-sd,-Effect,-`0.5quant`)  %>%
+  mutate(Mean = signif(mean,2),`0.025quant` = signif(`0.025quant`,2),`0.975quant` = signif(`0.975quant`,2)) %>%
+  mutate(Print = paste0(Mean,' (',`0.025quant`,', ',`0.975quant`,')')) %>%
+  select(Coef,Print,Model)
+
+kable(table_coefs_ranef %>% spread(Model,Print),format = 'html',
+      align = c('l','c','c','c','c'))
+
+
+
+
+###############
 
 mod_all =  model_fixed_coefs %>% filter(Model == 1)
 mod_all$Coef = fct_inorder(mod_all$Coef)
@@ -39,19 +283,61 @@ mod_all$Coef = fct_inorder(mod_all$Coef)
                           paste(paste0('DIC: ',round(mod_list_gauss[[1]]$dic$dic,2)),'\n',paste0('WAIC: ',round(mod_list_gauss[[1]]$waic$waic,2))),size=7)
 
 
+ ggplot(data = model_fixed_coefs) +
+   geom_vline(xintercept=0,lty=2) +
+   geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=Coef,yend=Coef,lwd=3),lineend = 'round') +
+   theme_tufte(ticks=F) + geom_point(aes(x=mean,y=Coef,fill=as.factor(SIG)),size=5,shape=21)+
+   scale_x_continuous(name = '95% credible interval',breaks=seq(-1,1,0.25),labels=seq(-1,1,0.25)) +
+   scale_fill_manual(values=c('white','black'),guide=FALSE) +
+   facet_wrap(~Model,nrow=1)
+ 
+ 
+   theme(axis.title.y = element_blank(),
+         axis.text = element_text(size=16),
+         axis.title.x=element_text(size=18)) +
+   scale_y_reverse(breaks=c(1:nrow(mod_all)),labels = c('Population (10k)',"Yearly population growth %", "% pop. with Bachelor's",'% pop. over age 65',
+                                                        'Unemployment %','Income per capita ($1k)',  '% households w/ children','SD Operating Expenses ($1M)','Rural',
+                                                        'Suburban','# local governments','# special districts'))+
+   annotate('text',x = 0.6,y=7.5,label=
+              paste(paste0('DIC: ',round(mod_list_gauss[[1]]$dic$dic,2)),'\n',paste0('WAIC: ',round(mod_list_gauss[[1]]$waic$waic,2))),size=7)
+ 
+ 
+ 
  
  
  sd_coefs_only = model_fixed_coefs %>% filter(grepl('sd_count',model_fixed_coefs$Coef))
  sd_coefs_only$Coef = fct_inorder(sd_coefs_only$Coef)
  
- ggplot(data = sd_coefs_only) +
+sd_coefs_only = sd_coefs_only %>% mutate(Coef = gsub('sd_count_','',Coef),
+                                          Model = ifelse(Model==1,'Total',
+                                                  ifelse(Model==2,'Asset specificity',
+                                                  ifelse(Model==3,'Status','Jurisdiction'
+                                                  ))))
+ 
+ sd_coefs_only$Coef = fct_recode(as.factor(sd_coefs_only$Coef),`Total` = 'sd_count',
+           `# High` = 'high',`# Low` = 'low',`# Low * # High` = 'high:low',
+           `# Dependent` = 'ind',`# Independent`='ind',`# Ind. * # Dep.` = 'dep:ind',
+           `# Multi-jurisdiction` = 'multi',`# Single jurisdiction` = 'single',
+           `# Single * # Multi` = 'multi:single')
+ sd_coefs_only$Coef
+ 
+ 
+ ggplot(data = sd_coefs_only %>% filter(Model!='Total')) +
    geom_vline(xintercept=0,lty=2) +
-   geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=1:nrow(sd_coefs_only),yend=1:nrow(sd_coefs_only)),lwd=3,lineend = 'round') +
+   geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=Coef,yend=Coef),lwd=3,lineend = 'round') +
    #geom_segment(aes(x=`0.025quant`,xend=`0.975quant`,y=Coef,yend=Coef),lwd=3,lineend = 'round') 
    theme_tufte(ticks=F) + 
-   geom_point(aes(x=mean,y=1:nrow(sd_coefs_only),fill=as.factor(SIG)),size=5,shape=21)+
+   geom_point(aes(x=mean,y=Coef,fill=as.factor(SIG)),size=5,shape=21) +
+   facet_wrap(~Model,nrow=2,scales='free')  +
+   scale_fill_manual(values=c('white','black'),guide=FALSE)+
+   theme(axis.title.y = element_blank(),
+                                     axis.text = element_text(size=16),
+                                     axis.title.x=element_text(size=18),
+                                     legend.position = c(0.75,0.25))
+ 
+ 
    #geom_point(aes(x=mean,y=Coef,fill=as.factor(SIG)),size=5,shape=21)+
-     scale_y_reverse(breaks=c(1:10),labels = c('# Total SDs','High asset specificity SDs','Low asset specificity SDs',
+     scale_y_reverse(breaks=c(1:9),labels = c('High asset specificity SDs','Low asset specificity SDs',
                                                'High asset specificity SDs\nx Low asset specificity SDs',
                                               'Dependent SDs','Independent SDs','Dependent SDs\nx Independent SDs',
                                              'Multi-jurisdictional SDs','Single-jurisdictional SDs','Multi-jurisdictional SDs\nx Single-jurisdictional SDs')) +
@@ -59,7 +345,10 @@ mod_all$Coef = fct_inorder(mod_all$Coef)
    scale_fill_manual(values=c('white','black'),guide=FALSE)+
    theme(axis.title.y = element_blank(),
          axis.text = element_text(size=16),
-         axis.title.x=element_text(size=18)) +
+         axis.title.x=element_text(size=18),
+         legend.position = c(0.75,0.25)) +
+   facet_wrap(~Model,scale='free')
+ 
    geom_hline(yintercept=c(1.5,4.5,7.5),lwd=2,col='grey50')
  
  
